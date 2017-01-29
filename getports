@@ -42,7 +42,7 @@ do
   eventvalidation=$(perl -nle 'print $& if m{id="__EVENTVALIDATION" value="\K[^"]+}' \
     $currentPage)
 
-  perl -0ne 'while(m/<a id="PSL_dl__[^"]+"[^\(]*\(\047([^\047]+)\047[^>]+>([^<]+)<\/a>\s*&nbsp;-&nbsp;([^\x0a\x0d]+)/g){print "$1\t$2\t$3\n"}' $currentPage > 'ports.txt'
+  perl -0ne 'while(m/<a id="PSL_dl__[^"]+"[^\(]*\(\047([^\047]+)\047[^>]+>([^<]+)<\/a>\s*&nbsp;-&nbsp;([^\x0a\x0d]+)/g){print "$1\t$2\t$3\n"}' $currentPage > 'tab.txt'
 
   while IFS=$'\t' read eventtarget name location; do
     curl -v -s -S 'http://www.ukho.gov.uk/easytide/EasyTide/SelectPort.aspx' \
@@ -53,11 +53,11 @@ do
       --compressed 2>outputFile>/dev/null
     portId=$(perl -nle 'print $& if m{PortID=\K[^\r\n]+}' outputFile)
     echo "${portId} :: ${name} :: ${location}"
-    echo -e "${portId}\t${name}\t${location}" >> 'results.txt'
-  done < 'ports.txt';
+    echo -e "${portId}\t${name}\t${location}" >> 'ports.txt'
+  done < 'tab.txt';
 done
 
 # remove tmp files
 rm -f $currentPage
-rm -f 'ports.txt'
+rm -f 'tab.txt'
 rm -f 'outputFile'
