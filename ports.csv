@@ -1,4 +1,4 @@
-ukhoId,ukhoName,ukhoLocation
+ID,Name,Location
 5576,`Rabuso Creek,Louisiade Archipelago
 7753,Aburatsu,Japan Kyushu East Coast
 1717,A CORUNA,Spain
@@ -15,15 +15,15 @@ ukhoId,ukhoName,ukhoLocation
 3626,Accra,Ghana
 0482A,Aberdaron,Wales
 4253F,AD DAMMAM (K.A.A.P.),Saudi Arabia
-0244,ABERDEEN,Scotland
+244,ABERDEEN,Scotland
 3526,Ad-Dakhla (Villa Cisneros Bar),Western Sahara
 9222,Aberdeen (Grays Harbour),United States
 3628,Ada Panya (Riverside),Ghana
-0486,Aberdovey,Wales
+486,Aberdovey,Wales
 8954,Adams (Welcome) Harbour,Canada
 0488A,Aberporth,Wales
 8944,Addenbroke Island,Canada
-0487,Aberystwyth,Wales
+487,Aberystwyth,Wales
 4410,Addoo Atoll,Maldive Islands
 3615,ABIDJAN ENTRANCE,Cote D'Ivoire
 6289,Adele Island,Australia North Coast
@@ -54,13 +54,13 @@ ukhoId,ukhoName,ukhoLocation
 6384,Ahipara Bay,New Zealand North Island
 4487,Akra Semaphore,India East Coast
 5525,Aiduna,Papua
-0822,Akranes,Iceland
+822,Akranes,Iceland
 5591,Aigura Point,Papua New Guinea
 1984A,Akrotiri,Cyprus
 5529,AIKA,Papua
 7690,Akune,Japan Kyushu West Coast
 6771,Ailinglapalap Atoll,Marshall Islands
-0849,Akureyri,Iceland
+849,Akureyri,Iceland
 7837,Aioi,Japan Honshu South Coast
 8497,Akutan Island,Aleutian Islands
 4826,Air Bangis,Sumatera South West Coast
@@ -82,7 +82,7 @@ ukhoId,ukhoName,ukhoLocation
 4129,Al Hasani,Saudi Arabia
 2077A,Albemarle,Falkland Islands
 4146A,Al Hudaydah,Republic of Yemen
-0114,Albert Bridge,England
+114,Albert Bridge,England
 1992,AL ISKANDARIYAH (ALEXANDRIA),Egypt
 3026,Alberton,Canada
 4253C,Al Jasser Island,Bahrain
@@ -92,19 +92,19 @@ ukhoId,ukhoName,ukhoLocation
 4239A,Al Jazirah Al Aliyah,Qatar
 3978,Aldabra Islands,Seychelles
 4255,AL JUBAYL,Saudi Arabia
-0139,Aldeburgh,England
+139,Aldeburgh,England
 4189A,Al Khaburah,Oman
 9151,Aleck Bay,United States
 4247E,Al Khraij,Qatar
 3407A,Alert,Canadian Arctic
 4253E,Al Khubar,Saudi Arabia
-9016,Alert Bay,Canada, Vancouver Island
+9016,Alert Bay,"Canada, Vancouver Island"
 4170B,Al Lakbi,Oman
 1233,ALESUND,Norway
 4194A,Al Lima,Oman
 1740C,Alfeite,Portugal
 4162,Al Mukalla,Republic of Yemen
-0836,Alftafjordhur,Iceland
+836,Alftafjordhur,Iceland
 4151,Al Mukha,Republic of Yemen
 1769,Algeciras,Spain
 4139,Al Qunfudhah,Saudi Arabia
@@ -122,7 +122,7 @@ ukhoId,ukhoName,ukhoLocation
 1773A,Almeria,Spain
 2877,Amherst Harbour,Canada
 5583,Alotau,Louisiade Archipelago
-0477,Amlwch,Wales
+477,Amlwch,Wales
 1595A,Alpha-Baie De Seine,France
 3443,Ammassalik,Greenland East Coast
 3972A,Alphonse Island,Seychelles
@@ -145,7 +145,7 @@ ukhoId,ukhoName,ukhoLocation
 7862,Anaga Ura,Japan Honshu South Coast
 5625,Ambitle Island,Bismarck Archipelago
 8044B,Anamizu,Japan Honshu West Coast
-0206,Amble,England
+206,Amble,England
 3873,Anarontsangana,Madagascar
 5439,AMBON,The Molucca Islands
 5735,Anatom,Vanuatu
@@ -164,7 +164,7 @@ ukhoId,ukhoName,ukhoLocation
 4532,Andrew Bay,Burma
 2620A,Anna Maria,United States
 3916,Androka,Madagascar
-0426,Annan Waterfoot,Scotland
+426,Annan Waterfoot,Scotland
 4400A,Androth Island,Lakshadweep
 2712,Annapolis,United States
 2460,Anegada,Leeward Islands
@@ -180,7 +180,7 @@ ukhoId,ukhoName,ukhoLocation
 3843,Angoche (Canal Do Sul),Mozambique
 6317B,Anson Bay,Australia North Coast
 9801,Angostura Guia,Chile
-0233,Anstruther Easter,Scotland
+233,Anstruther Easter,Scotland
 9772,Angostura Inglesa,Chile
 1581B,Antifer (Le Havre),France
 9811,Angostura Kirke,Chile
@@ -202,7 +202,7 @@ ukhoId,ukhoName,ukhoLocation
 8043B,Ao,Japan Honshu West Coast
 0338A,Applecross,Scotland
 4637,Ao Kaulak,Thailand West Coast
-0536,Appledore,England
+536,Appledore,England
 6896,Ao Muang Trat,Thailand
 4244,Ar Ru'ays,Qatar
 4640,Ao Nang (Krabi),Thailand West Coast
@@ -212,7 +212,7 @@ ukhoId,ukhoName,ukhoLocation
 7868,Ao Shima,Japan Shikoku North Coast
 6335A,Arafura Sea,Australia North Coast
 7798,Aohama,Japan Kyushu North Coast
-0241,Arbroath,Scotland
+241,Arbroath,Scotland
 7159C,Aojiao,China
 1691,Arcachon (Eyrac),France
 7829B,Aoki,Japan Honshu South Coast
@@ -222,13 +222,13 @@ ukhoId,ukhoName,ukhoLocation
 8143,Aonae,Japan Hokkaido West Coast
 0371B,Ardchattan Point,Scotland
 6370,Aotea Harbour,New Zealand North Island
-0631,Ardglass,Northern Ireland
+631,Ardglass,Northern Ireland
 2614,Apalachicola,United States
 2041A,Ardley Cove,Antarctica
 3636,APAPA,Nigeria
-0378,Ardnave Point,Scotland
+378,Ardnave Point,Scotland
 5004,Aparri,Philippine Islands
-0410,Ardrossan,Scotland
+410,Ardrossan,Scotland
 6684,Apia,Samoa Islands
 6165,Ardrossan (S. Australia),Australia South Coast
 4934,Apo Island,Philippine Islands
@@ -251,7 +251,7 @@ ukhoId,ukhoName,ukhoLocation
 4288,Asaluyeh,Iran
 1045,ARKHANGEL'SK,Russia
 8016,Asamushi,Japan Honshu East Coast
-0611,ARKLOW,Ireland
+611,ARKLOW,Ireland
 6689,Asau Harbour,Samoa Islands
 1376,Arkona,Germany
 3770,Ascension Island,Mid South Atlantic Islands
@@ -259,7 +259,7 @@ ukhoId,ukhoName,ukhoLocation
 4072,Aseb,Eritrea
 4357A,Arnalapada,India West Coast
 4263,ASH SHUWAYKH,Kuwait
-0837,Arngerdharseyri,Iceland
+837,Arngerdharseyri,Iceland
 4170A,Ash Shuwaymiyah,Oman
 6186,Arno Bay,Australia South Coast
 1990,Ashdod,Israel
@@ -273,7 +273,7 @@ ukhoId,ukhoName,ukhoLocation
 3504,Asilah,Morocco
 1747,Arrifana,Portugal
 5450,Asimiro,Halmahera
-0401,Arrochar,Scotland
+401,Arrochar,Scotland
 1242,Askvoll,Norway
 1594,Arromanches,France
 3977,Assomption Island,Seychelles
@@ -286,9 +286,9 @@ ukhoId,ukhoName,ukhoLocation
 2205,ATAFONA,Brazil
 1950,Aydincik Koyu,Turkey
 5413,Atapupu,Timor
-0958,Ayon Island,Russia
+958,Ayon Island,Russia
 9586,Atico,Peru
-0413,Ayr,Scotland
+413,Ayr,Scotland
 5026,Atimonan,Philippine Islands
 7987,Ayukawa,Japan Honshu East Coast
 2736,Atlantic City,United States
@@ -306,10 +306,10 @@ ukhoId,ukhoName,ukhoLocation
 2992,AULDS COVE,Canada
 3635A,Badagry Creek,Nigeria
 1657,Auray,France
-0329,Badcall Bay,Scotland
+329,Badcall Bay,Scotland
 6345B,Auster Point,Australia North Coast
 1157,Badderen,Norway
-0885,Austervag,Svalbard
+885,Austervag,Svalbard
 6243B,Badjirrajirra,Australia North Coast
 9354A,AVALON,United States
 3322,Baffin,Canadian Arctic
@@ -325,7 +325,7 @@ ukhoId,ukhoName,ukhoLocation
 9425,Bahia De Chamela,Mexico
 4975,Bagatao Island,Philippine Islands
 9522,Bahia De Correo,Ecuador
-0764,Baginbun Head,Ireland
+764,Baginbun Head,Ireland
 9407,Bahia De Los Angeles,Mexico
 9962,Bahia Aguirre,Argentina
 2107,Bahia De Los Nodales,Argentina
@@ -370,7 +370,7 @@ ukhoId,ukhoName,ukhoLocation
 9566,Bahia Huarmey,Peru
 9748,Bahia San Quintin,Chile
 9580,Bahia Independencia,Peru
-9377,Bahia San Quintin, Mexico,Mexico
+9377,"Bahia San Quintin, Mexico",Mexico
 9970,Bahia India,Chile
 2099,Bahia San Sebastian,Argentina
 2122,Bahia Janssen,Argentina
@@ -442,7 +442,7 @@ ukhoId,ukhoName,ukhoLocation
 5899,Bailay Creek,Australia East Coast
 9487,BALBOA,Panama
 1725,Baiona,Spain
-0622,Balbriggan,Ireland
+622,Balbriggan,Ireland
 7209,Baiquan Liedao,China
 5020,Baler Bay,Philippine Islands
 4957,Bais,Philippine Islands
@@ -452,34 +452,34 @@ ukhoId,ukhoName,ukhoLocation
 7275,Baitashan,China
 3548,Balingo,The Gambia
 3803,Baixos Da Inhaca,Mozambique
-0318,Balivanich,Scotland
+318,Balivanich,Scotland
 7343,Bajiao,China
 2995,Ballantynes Cove,Canada
 5408,Bajo,Flores
 6009,Ballina,Australia East Coast
 3659,Bakana,Nigeria
-0726,Ballinskelligs Bay Castle,Ireland
+726,Ballinskelligs Bay Castle,Ireland
 5108,Bakapit,Sabah
-0651,Ballycastle Bay,Northern Ireland
+651,Ballycastle Bay,Northern Ireland
 1898A,Bakar,Croatia
-0754,Ballycotton,Ireland
+754,Ballycotton,Ireland
 3668A,Bakassi Bank,Nigeria
-0731,Ballycrovane Harbour,Ireland
+731,Ballycrovane Harbour,Ireland
 4843,Bakauhuni,Sumatera South West Coast
-0693,Ballyglass (Broad Haven),Ireland
-0854,Bakkafjordhur,Iceland
-0690,Ballysadare Bay (Culleenamore),Ireland
+693,Ballyglass (Broad Haven),Ireland
+854,Bakkafjordhur,Iceland
+690,Ballysadare Bay (Culleenamore),Ireland
 0855A,Bakkagerdhi,Iceland
 0290B,Baltasound Pier,Scotland
 4920,Balabac,Philippine Islands
 2716,BALTIMORE,United States
 4960,Balamban Bay,Philippine Islands
-0743,Baltimore, Ireland,Ireland
+743,"Baltimore, Ireland",Ireland
 4483,Balari Semaphore,India East Coast
 1369,Baltiysk,Russia
 5079,Balas,Sulu Archipelago
 3565,Bambadinca,Guinea-Bissau
-9055,Bamfield Inlet,Canada, Vancouver Island
+9055,Bamfield Inlet,"Canada, Vancouver Island"
 4297,Bandar-E Lengeh,Iran
 5828,Bampfield Head,Australia
 4279,BANDAR-E MAHSHAHR,Iran
@@ -496,14 +496,14 @@ ukhoId,ukhoName,ukhoLocation
 4948,Banate,Philippine Islands
 4358A,Bandra,India West Coast
 6941,Banc De Corail,Vietnam
-0247,Banff,Scotland
+247,Banff,Scotland
 2163,Banco Chico,Argentina
 6851,Bang Nara (Narathiwat),Thailand
 2495,Banco Serranilla,Jamaica
 5324,Banggai,Sulawesi East Coast
 3970,Bancs Africains,Seychelles
 6883,Bangkok,Thailand
-1831,Bancs Kerkenah, East Point,Tunisia
+1831,"Bancs Kerkenah, East Point",Tunisia
 6882,BANGKOK BAR,Thailand
 5435,BANDANAIRA,Sermata Eilanden
 0637A,Bangor,Northern Ireland
@@ -520,19 +520,19 @@ ukhoId,ukhoName,ukhoLocation
 4284,Bandar-E Ameri,Iran
 4366,Bankot,India West Coast
 2549A,Bannerman Town,Bahama Islands
-0314,Barra (North Bay),Scotland
+314,Barra (North Bay),Scotland
 3550B,Bansang,The Gambia
 2191,BARRA DE PARANAGUA (CANAL DA GALHETA),Brazil
 4959,Bantayan Island,Philippine Islands
 2191A,Barra De Paranagua (Canal Sueste),Brazil
-0734,BANTRY,Ireland
+734,BANTRY,Ireland
 2240,Barra Do Jaguaribe (Aracati),Brazil
 5358,Banyuwangi,Jawa East Coast
 2211B,BARRA DO RIACHO,Brazil
 1911,Bar,Montenegro
 2245,Barra Do Timonha,Brazil
 2838,Bar Harbour,United States
-0316,Barra Head,Scotland
+316,Barra Head,Scotland
 4036,Baraawe (Brava),Somalia
 2256,Barra Norte (Ilha Do Brigue),Brazil
 2524,Baracoa,Cuba
@@ -540,16 +540,16 @@ ukhoId,ukhoName,ukhoLocation
 1765A,Barbate,Spain
 2624,Barron River,United States
 0370A,Barcaldine Pier,Scotland
-0439,BARROW (RAMSDEN DOCK),England
+439,BARROW (RAMSDEN DOCK),England
 1776,BARCELONA,Spain
-0513,Barry,Wales
-0482,Bardsey Island,Wales
+513,Barry,Wales
+482,Bardsey Island,Wales
 2301,Bartica,Guyana
 1599,Barfleur,France
 8633,Bartlett Cove,Alaska
 8716,Barlow Cove,Admiralty Island
 0108B,Bartlett Creek,England
-0485,Barmouth,Wales
+485,Barmouth,Wales
 4819,Barus,Sumatera South West Coast
 8921,Barnard Harbour,Canada
 4468,Baruva,India East Coast
@@ -557,18 +557,18 @@ ukhoId,ukhoName,ukhoLocation
 4301,Basa'idu,Iran
 4095,Barnis (Berenice),Egypt
 5092,Basbas Channel,Sulu Archipelago
-0539,Barnstaple,England
+539,Barnstaple,England
 5007,Basco,Philippine Islands
 3252,Basking Island,Labrador
-0135,Bawdsey,England
+135,Bawdsey,England
 6064,Bass Pyramid,Australia East Coast
 3164,Bay Bulls,Newfoundland
 4541,Bassein,Burma
 2052A,Bay Of Isles,Antarctica
 4539,BASSEIN RIVER ENTRANCE,Burma
-0354,Bay Of Laig,Scotland
+354,Bay Of Laig,Scotland
 7030,Basuo,China
-0296,Bay Of Quendale,Scotland
+296,Bay Of Quendale,Scotland
 3698,BATA,Equatorial Guinea
 2753A,Bay Shore,United States
 6047,Batemans Bay,Australia East Coast
@@ -582,7 +582,7 @@ ukhoId,ukhoName,ukhoLocation
 3096,Batiscan,Canada
 3815,Bazaruto,Mozambique
 3997,Batja,Tanzania
-0518,Beachley (Aust),England
+518,Beachley (Aust),England
 4435,Batticaloa Roads,Sri Lanka
 6145,Beachport,Australia South Coast
 3204,Battle Harbour,Labrador
@@ -594,9 +594,9 @@ ukhoId,ukhoName,ukhoLocation
 4746,Batuampar,Riau Kepulauan
 2673B,Beaufort (Duke Marine Lab),United States
 4973,Batuan Bay,Philippine Islands
-0472,Beaumaris,Wales
+472,Beaumaris,Wales
 5295,BAUBAU,Sulawesi West Coast
-9062A,Becher Bay,Canada, Vancouver Island
+9062A,Becher Bay,"Canada, Vancouver Island"
 6300,Baudin Island,Australia North Coast
 9346,Bechers Bay,United States
 6284,Bedford Island,Australia North Coast
@@ -613,7 +613,7 @@ ukhoId,ukhoName,ukhoLocation
 3638,Benin River Bar,Nigeria
 2253,BELEM,Brazil
 5382,Benoa,Bali
-0638,BELFAST,Northern Ireland
+638,BELFAST,Northern Ireland
 5240,Benoa Baru,Kalimantan
 2832,Belfast (Penobscot Bay),United States
 1646,Benodet,France
@@ -637,9 +637,9 @@ ukhoId,ukhoName,ukhoLocation
 2741A,Bergen Point West Reach,United States
 0053B,Bembridge Approaches,England
 1530A,Bergse Diepsluis (West),Netherlands
-0054,Bembridge Harbour,England
+54,Bembridge Harbour,England
 1156,Bergsfjord,Norway
-0522,Berkeley,England
+522,Berkeley,England
 7159A,Biao Jiao,China
 2069,Berkeley Sound,Falkland Islands
 6113,Bicheno,Tasmania
@@ -648,7 +648,7 @@ ukhoId,ukhoName,ukhoLocation
 6050,Bermagui,Australia East Coast
 2815A,Biddeford,United States
 1698,Bermeo,Spain
-0540,Bideford,England
+540,Bideford,England
 2569,BERMUDA (SAINT GEORGE'S ISLAND),Bermuda
 6945,Bien Hoa,Vietnam
 2568A,Bermuda Esso Pier,Bermuda
@@ -658,8 +658,8 @@ ukhoId,ukhoName,ukhoLocation
 4789,Berombang,Sumatera North East Coast
 6786,Bikini Atoll,Marshall Islands
 3089A,Berthier-Sur-Mer,Canada
-0831,Bildudalur,Iceland
-0209,Berwick,England
+831,Bildudalur,Iceland
+209,Berwick,England
 2731A,Billingsport,United States
 1216A,Bessaker,Norway
 2605,Biloxi,United States
@@ -689,27 +689,27 @@ ukhoId,ukhoName,ukhoLocation
 2779,Block Island (Old Harbour),United States
 1229,Bjornsund,Norway
 8908,Block Islands,Canada
-0732,Black Ball Harbour,Ireland
-9096,Bloedel,Canada, Vancouver Island
+732,Black Ball Harbour,Ireland
+9096,Bloedel,"Canada, Vancouver Island"
 2485,Black River,Jamaica
 1257,Blomvag,Norway
 8427,Black Rock,Alaska
 2494,Blower Rock,Jamaica
-0498,Black Tar,Wales
+498,Black Tar,Wales
 2837,Blue Hill Harbour,United States
 5647,BLACKETT STRAIT,Solomon Islands
 2404,Bluefields Bluff,Nicaragua
-0445,Blackpool,England
+445,Blackpool,England
 2292,Bluejacket Beacon,Guyana
-0694,Blacksod Quay,Ireland
-0292,Bluemull Sound,Scotland
-0179,Blacktoft,England
+694,Blacksod Quay,Ireland
+292,Bluemull Sound,Scotland
+179,Blacktoft,England
 6504,BLUFF,New Zealand South Island
 9143,Blaine,United States
-0204,BLYTH,England
+204,BLYTH,England
 0155A,Blakeney,England
 4602,Boat Island,Andaman Islands
-0155,Blakeney Bar,England
+155,Blakeney Bar,England
 8815,Boca De Quadra,Prince of Wales Island
 3120,Blanc Sablon,Canada
 2401,Boca Del Toro,Panama
@@ -718,10 +718,10 @@ ukhoId,ukhoName,ukhoLocation
 6198,Blanche Port,Australia South Coast
 7694,Bodomari,Japan Kyushu West Coast
 1563,Blankenberge,Belgium
-0702,Bofin Harbour,Ireland
+702,Bofin Harbour,Ireland
 5605,Bogia,Papua New Guinea
 5283,Bonerate,Sulawesi West Coast
-0073,Bognor Regis,England
+73,Bognor Regis,England
 5093,Bongao,Sulu Archipelago
 4964,Bogo Bay,Philippine Islands
 3299B,Bonne Island,Labrador
@@ -743,7 +743,7 @@ ukhoId,ukhoName,ukhoLocation
 1546,Boom,Belgium
 4993,Bolinao,Philippine Islands
 5989A,Boonlye Point,Australia East Coast
-0835,Bolungavik,Iceland
+835,Bolungavik,Iceland
 2030,Booth Island (Port Charcot),Antarctica
 3726,Boma,Angola
 2823,Boothbay Harbour,United States
@@ -759,8 +759,8 @@ ukhoId,ukhoName,ukhoLocation
 3011,Borden,Canada
 4956,Bonbonon,Philippine Islands
 1832,Bordj El Hassar,Tunisia
-0823,Borgarnes,Iceland
-0037,Bournemouth,England
+823,Borgarnes,Iceland
+37,Bournemouth,England
 1212,Borkamo,Norway
 6930,Bouthan,Vietnam
 1472,Borkum (Fischerbalje),Germany
@@ -769,17 +769,17 @@ ukhoId,ukhoName,ukhoLocation
 0015A,Bovisand Pier,England
 7500,Boryeong,Korea West Coast
 5932,Bowen,Australia East Coast
-0544,Boscastle,England
+544,Boscastle,England
 8869A,Bowie Seamount,Graham Island
 0068B,Bosham,England
-0406,Bowling,Scotland
+406,Bowling,Scotland
 5471,Bosnik,Papua
-0123,Bradwell Waterside,England
+123,Bradwell Waterside,England
 1155,Bossekop,Norway
 1453,Brake,Germany
-0166,BOSTON,England
+166,BOSTON,England
 5793,Bramble Cay,Australia
-2809,BOSTON, MA,United States
+2809,"BOSTON, MA",United States
 6128,Bramble Cove,Tasmania
 6039,BOTANY BAY,Australia East Coast
 0129A,Bramble Creek,England
@@ -792,11 +792,11 @@ ukhoId,ukhoName,ukhoLocation
 1539A,BOUDEWIJNSLUIS,Belgium
 5990,Breaksea Spit,Australia East Coast
 1606A,Bouley Bay,Channel Islands
-0867,Breidhdalsvik,Iceland
+867,Breidhdalsvik,Iceland
 1572,BOULOGNE-SUR-MER,France
 2001,Breivika,Antarctica
 6355,Bountiful Island,Australia North Coast
-0860,Brekka,Iceland
+860,Brekka,Iceland
 5763,Bourail,New Caledonia
 1456,Bremen,Germany
 6211,Bremer Bay,Australia South Coast
@@ -805,38 +805,38 @@ ukhoId,ukhoName,ukhoLocation
 5998,BRISBANE RIVER BAR,Australia East Coast
 9186,Bremerton,United States
 2784,Bristol,United States
-0889,Brennevinsfjorden,Svalbard
+889,Brennevinsfjorden,Svalbard
 5543,Bristow Island,Papua New Guinea
 2074A,Brenton Loch,Falkland Islands
 0828B,Brjanslaekur,Iceland
-9069,Brentwood Bay,Canada, Vancouver Island
+9069,Brentwood Bay,"Canada, Vancouver Island"
 2988,Broad Cove Marsh,Canada
 1638,BREST,France
-0341,Broadford Bay,Scotland
+341,Broadford Bay,Scotland
 3311,Brevoort Harbour,Canadian Arctic
 0102A,Broadstairs,England
 5997,Bribie,Australia East Coast
-0408,Brodick Bay,Scotland
+408,Brodick Bay,Scotland
 2772,Bridgeport,United States
 1211A,Bronnoysund,Norway
 2437,BRIDGETOWN,Windward Islands
 6265,Broome,Australia North Coast
 2927,Bridgewater,Canada
 0176A,Brough,England
-0529,Bridgwater,England
+529,Bridgwater,England
 3313A,Broughton Island,Canadian Arctic
-0181,Bridlington,England
-6027,Broughton Island, Australia,Australia East Coast
-0029,Bridport (West Bay),England
+181,Bridlington,England
+6027,"Broughton Island, Australia",Australia East Coast
+29,Bridport (West Bay),England
 1522,Brouwershavensche Gat,Netherlands
-0126,Brightlingsea,England
+126,Brightlingsea,England
 9012,Brown Bay,Canada
 6159,Brighton (S.Australia),Australia South Coast
 6290,Browse Island,Australia North Coast
-0082,Brighton Marina,England
+82,Brighton Marina,England
 6520,Bruce Bay,New Zealand South Island
 1631A,Brignogan,France
-0380,Bruichladdich,Scotland
+380,Bruichladdich,Scotland
 1886,BRINDISI,Italy
 1439,BRUNSBUTTEL MOLE 1,Germany
 2657,Brunswick,United States
@@ -849,13 +849,13 @@ ukhoId,ukhoName,ukhoLocation
 8224,Bukhta Morovinova,Sakhalin East Coast
 3597,Buchanan,Liberia
 8342,Bukhta Morzhovaya,Siberia
-0248,Buckie,Scotland
+248,Buckie,Scotland
 8157,Bukhta Nakhodka,Siberia
-0042,Bucklers Hard,England
+42,Bucklers Hard,England
 1109,Bukhta Nasha,Russia
-0865,Budareyri,Iceland
+865,Budareyri,Iceland
 1111,Bukhta Ozerko,Russia
-0543,Bude,England
+543,Bude,England
 8285,Bukhta Pamyatnaya,Kuril Islands
 9507,Buenaventura,Colombia
 8289,Bukhta Shelikhova,Kuril Islands
@@ -864,9 +864,9 @@ ukhoId,ukhoName,ukhoLocation
 5945,Bugatti Reef,Australia East Coast
 8160,Bukhta Sokolovskaya,Siberia
 1025,Bugrino,Russia
-0912,Bukhta Teplits,Franz Josef Land
+912,Bukhta Teplits,Franz Josef Land
 3660,Buguma,Nigeria
-0911,Bukhta Tikhaya,Franz Josef Land
+911,Bukhta Tikhaya,Franz Josef Land
 1216,Buholmrasa Light,Norway
 8174,BUKHTA VANINO,Siberia
 7515,Bukgang Sudo,Korea West Coast
@@ -875,41 +875,41 @@ ukhoId,ukhoName,ukhoLocation
 4716,Bukom,Singapore
 8297,Bukhta Abrek,Siberia
 5082,Bulan Island,Sulu Archipelago
-0985,Bukhta Dikson,Russia
-0662,Bulbinbeg,Ireland
+985,Bukhta Dikson,Russia
+662,Bulbinbeg,Ireland
 8373,Bukhta Engaugin,Siberia
 5379,Buleleng,Bali
 5454,Buli,Halmahera
-0158,Burnham (Overy Staithe),England
+158,Burnham (Overy Staithe),England
 3170,Bull Island,Newfoundland
-0122,BURNHAM-ON-CROUCH,England
+122,BURNHAM-ON-CROUCH,England
 0171A,Bull Sand Fort,England
-0528,Burnham-On-Sea,England
+528,Burnham-On-Sea,England
 6219,Bunbury,Australia South Coast
 6091,Burnie (Emu Bay),Tasmania
 5982,Bundaberg (Burnett Heads),Australia East Coast
 2891,Burntcoat Head,Canada
 6006,Bundall,Australia East Coast
-0230,Burntisland,Scotland
-0361,Bunessan,Scotland
+230,Burntisland,Scotland
+361,Bunessan,Scotland
 8274,Burotan Wan,Kuril Islands
 5305,Bungku,Sulawesi East Coast
-0291,Burra Firth,Scotland
+291,Burra Firth,Scotland
 3543,Buniada Point,The Gambia
-0290,Burra Voe (Yell Sound),Scotland
+290,Burra Voe (Yell Sound),Scotland
 5252,Bunyu,Kalimantan
-0271,Burray Ness,Scotland
+271,Burray Ness,Scotland
 0282A,Bur Wick,Scotland
 8809,Burroughs Bay,Prince of Wales Island
 5023,Burdeos Bay,Philippine Islands
-0505,Burry Port,Wales
+505,Burry Port,Wales
 1713A,Burela,Spain
 0063B,Bursledon,England
 6321,Burge Point,Australia North Coast
-0177,Burton Stather,England
+177,Burton Stather,England
 6396,Burgess Island (Pokohinu),New Zealand North Island
-0682,Burtonport,Ireland
-0250,Burghead,Scotland
+682,Burtonport,Ireland
+250,Burghead,Scotland
 8231,Buruny,Sakhalin East Coast
 4478,Burhabalang River Entrance,India East Coast
 3651,Burutu,Nigeria
@@ -954,7 +954,7 @@ ukhoId,ukhoName,ukhoLocation
 2204A,Cabo De Sao Tome,Brazil
 1548,Cadzand (Wielingen Sluis),Belgium
 2202,Cabo Frio,Brazil
-0475,Caernarfon,Wales
+475,Caernarfon,Wales
 9911,Cabo Gloucester,Chile
 5075,Cagayan De Oro,Philippine Islands
 2412,Cabo Gracias A Dios,Nicaragua
@@ -965,7 +965,7 @@ ukhoId,ukhoName,ukhoLocation
 9761,Caleta Hale,Chile
 5906,Cairns,Australia East Coast
 9519,Caleta Iguana,Ecuador
-0143,Caister-On-Sea,England
+143,Caister-On-Sea,England
 9597,Caleta Junin,Chile
 3673,Calabar,Nigeria
 9667,Caleta La Hacienda,Chile
@@ -1004,22 +1004,22 @@ ukhoId,ukhoName,ukhoLocation
 9994,Caleta San Martin,Chile
 6532,Campbell Island (Motu Ihupuku),New Zealand South Island
 2094,Caleta San Pablo,Argentina
-9094,Campbell River,Canada, Vancouver Island
+9094,Campbell River,"Canada, Vancouver Island"
 9632,Caleta Totoralillo,Chile
 3043,Campbellton,Canada
 2129,Caleta Valdes,Argentina
-0393,CAMPBELTOWN,Scotland
+393,CAMPBELTOWN,Scotland
 9547,Caleta Zorritos,Peru
 2575,CAMPECHE,Mexico (Gulf)
-0469,Calf Sound,Isle of Man
+469,Calf Sound,Isle of Man
 4955,Campomanes Bay,Philippine Islands
 4389,Calicut,India West Coast
-0346,Camus Nan Gall,Scotland
+346,Camus Nan Gall,Scotland
 9573,CALLAO,Peru
 9839,Canal Cripples,Chile
 5996,Caloundra Head,Australia East Coast
 1830A,Canal Des Kerkennah (North Entrance),Tunisia
-0061,Calshot Castle,England
+61,Calshot Castle,England
 2145A,Canal Principal (Buoy No. 12),Argentina
 4057,Caluula,Somalia
 2161,CANAL PUNTA INDIO (EAST),Argentina
@@ -1064,7 +1064,7 @@ ukhoId,ukhoName,ukhoLocation
 1690,Cap Ferret,France
 2680,Cape Charles Harbour,United States
 3709,CAP LOPEZ,Gabon
-0972,Cape Chelyuskin,Russia
+972,Cape Chelyuskin,Russia
 6957,Cap Padaran,Vietnam
 8180,Cape Chikhacheva,Siberia
 3888,Cap Saint Andre,Madagascar
@@ -1099,7 +1099,7 @@ ukhoId,ukhoName,ukhoLocation
 6386,Cape Maria Van Diemen,New Zealand North Island
 9211,Cape Flattery,United States
 2734,Cape May Ferry Terminal,United States
-5890,Cape Flattery, Australia,Australia East Coast
+5890,"Cape Flattery, Australia",Australia East Coast
 2734A,Cape May Harbour,United States
 8832,Cape Fox,Revillagigedo Island
 8505,Cape Mordvinof,Aleutian Islands
@@ -1131,11 +1131,11 @@ ukhoId,ukhoName,ukhoLocation
 2664C,Capers Island,United States
 2626,Cape Sable (East Cape),United States
 4950,Capiz Landing,Philippine Islands
-9023,Cape Scott,Canada, Vancouver Island
+9023,Cape Scott,"Canada, Vancouver Island"
 1864,Capo Peloro,Italy
 6317A,Cape Scott (Offshore),Australia North Coast
 4617,Car Nicobar,Nicobar Islands
-0950,Cape Serdtse Kamen,Russia
+950,Cape Serdtse Kamen,Russia
 5059,Caraga,Philippine Islands
 3407,Cape Sheridan,Canadian Arctic
 2507,Carapachibey,Cuba
@@ -1146,7 +1146,7 @@ ukhoId,ukhoName,ukhoLocation
 3792,Cape St. Francis,South Africa
 2512,Cardenas,Cuba
 8879,Cape St. James,Moresby Island
-0514,Cardiff,Wales
+514,Cardiff,Wales
 8179,Cape Sushcheva,Siberia
 0489A,Cardigan (Town),Wales
 6441,Cape Terawhiti (Oteranga Bay),New Zealand North Island
@@ -1165,7 +1165,7 @@ ukhoId,ukhoName,ukhoLocation
 1611,Carteret,France
 0321A,Carloway,Scotland
 3214,Cartwright,Labrador
-9059,Carmanah Point,Canada, Vancouver Island
+9059,Carmanah Point,"Canada, Vancouver Island"
 3511,CASABLANCA,Morocco
 3181,Carmanville,Newfoundland
 1740,Cascais,Portugal
@@ -1177,13 +1177,13 @@ ukhoId,ukhoName,ukhoLocation
 0314A,Castlebay,Scotland
 6534,Carnley Harbour,New Zealand South Island
 6436,Castlepoint,New Zealand North Island
-0766,Carnsore Point,Ireland
-0733,CASTLETOWN BEARHAVEN,Ireland
+766,Carnsore Point,Ireland
+733,CASTLETOWN BEARHAVEN,Ireland
 6611,Caroline Island,Line Islands
-0744,Castletownshend,Ireland
+744,Castletownshend,Ireland
 0393A,Carradale,Scotland
 2446,CASTRIES,Windward Islands
-0639,Carrickfergus,Northern Ireland
+639,Carrickfergus,Northern Ireland
 1701,Castro Urdiales,Spain
 2426,Carrie Bow Cay,Belize
 2556,Cat Cay,Bahama Islands
@@ -1193,9 +1193,9 @@ ukhoId,ukhoName,ukhoLocation
 4969,Cataingan,Philippine Islands
 6303,Carronade Island,Australia North Coast
 9354,Catalina Harbour,United States
-0387,Carsaig Bay,Scotland
+387,Carsaig Bay,Scotland
 1871,CATANIA,Italy
-0359,Carsaig Bay (Mull),Scotland
+359,Carsaig Bay (Mull),Scotland
 5036,Catbalogan,Philippine Islands
 2388,CARTAGENA,Colombia
 5775,Cato Island,Australia
@@ -1205,7 +1205,7 @@ ukhoId,ukhoName,ukhoLocation
 1941,Chalkis (N. Of Bridge),Greece
 1577,Cayeux,France
 1940,Chalkis (S. Of Bridge),Greece
-2499,Cayman Brac, West End,Cayman Islands
+2499,"Cayman Brac, West End",Cayman Islands
 4499,Chalna Reach,Bangladesh
 2515,Cayo Paredon Grande,Cuba
 3372,Chamisso Island,Alaska (North)
@@ -1213,7 +1213,7 @@ ukhoId,ukhoName,ukhoLocation
 9440,Champerico,Guatemala
 2617,Cedar Key,United States
 3096A,Champlain,Canada
-9040,Ceepeecee,Canada, Vancouver Island
+9040,Ceepeecee,"Canada, Vancouver Island"
 9620,Chanaral De Las Animas,Chile
 0477A,Cemaes Bay,Wales
 4476,Chandbali,India East Coast
@@ -1252,42 +1252,42 @@ ukhoId,ukhoName,ukhoLocation
 3014,Charlottetown,Canada
 7543A,Cheongsando,Korea West Coast
 3272,Charlton Island,Labrador
-0516,Chepstow,Wales
+516,Chepstow,Wales
 2081,Chartres,Falkland Islands
 4399,Cherbaniani Reef,Lakshadweep
 2619C,Chassahowitzka River,United States
 1600,CHERBOURG,France
 2802,Chatham (Cape Cod),United States
 9143A,Cherry Point,United States
-0109,Chatham (Lock Approaches),England
+109,Chatham (Lock Approaches),England
 2681A,Chesapeake Bay Bridge Tunnel,United States
 9470,Chatham Bay,Costa Rica
 2709B,Chesapeake Beach,United States
 6536,Chatham Island (Waitangi),New Zealand South Island
 2721,Chesapeake City,United States
 8998,Chatham Point,Canada
-0030,Chesil Beach,England
+30,Chesil Beach,England
 6921,Chaudoc,Vietnam
-0031,Chesil Cove,England
+31,Chesil Cove,England
 4540,Chaunggwa,Burma
-0462,Chester,England
+462,Chester,England
 4536,Chaungtha Kyun,Burma
-2930,Chester, Canada,Canada
+2930,"Chester, Canada",Canada
 0761A,Cheekpoint,Ireland
 3288,Chesterfield Inlet,Labrador
 0113A,Chelsea Bridge,England
 9262,Chetco Cove,United States
-9079,CHEMAINUS,Canada, Vancouver Island
+9079,CHEMAINUS,"Canada, Vancouver Island"
 8186,Cheushi Island,Siberia
 7099,Chi Ma Wan,China
 7975,Choshi-Gyoko,Japan Honshu East Coast
 7198,Chi-Lung Kang,T'ai-Wan
-0038,Christchurch (Entrance),England
+38,Christchurch (Entrance),England
 7168,Chiang-Chun Kang-Tao,China
 0038A,Christchurch (Quay),England
 7944,Chiba Light,Japan Honshu South Coast
 0038B,Christchurch (Tuckton),England
-0068,CHICHESTER HARBOUR (ENTRANCE),England
+68,CHICHESTER HARBOUR (ENTRANCE),England
 6327A,Christine Reef,Australia North Coast
 7953,Chichi Shima (Futami),Japan Nanpo Shoto
 6617,Christmas Island,Line Islands
@@ -1319,22 +1319,22 @@ ukhoId,ukhoName,ukhoLocation
 2576,Ciudad Del Carmen,Mexico (Gulf)
 7203,Chongwu,China
 1853,Civitavecchia,Italy
-0128,Clacton-On-Sea,England
-0541,Clovelly,England
+128,Clacton-On-Sea,England
+541,Clovelly,England
 9208,Clallam Bay,United States
 5916,Clump Point,Australia East Coast
 2667A,Clambank Creek,United States
 0406A,Clydebank (Rothesay Dock),Scotland
-0696,Clare Island,Ireland
+696,Clare Island,Ireland
 2578,Coatzacoalcos (Puerto Mexico),Mexico (Gulf)
 2042A,Clarence Island,Antarctica
 9225,Cobb Seamount,United States
 3171A,Clarenville,Newfoundland
-0750,COBH,Ireland
+750,COBH,Ireland
 2914,Clark's Harbour,Canada
 2261A,Cocal,Brazil
 8432,Clarks Point,Alaska
-0224,Cockenzie,Scotland
+224,Cockenzie,Scotland
 5002,Claveria Bay,Philippine Islands
 5807,Coconut Island,Australia
 8891,Claxton Creek,Canada
@@ -1345,17 +1345,17 @@ ukhoId,ukhoName,ukhoLocation
 6018,Coffs Harbour,Australia East Coast
 4604,Cleugh Passage,Andaman Islands
 3701,Cogo,Equatorial Guinea
-0525,Clevedon,England
+525,Clevedon,England
 4967,Cogton,Philippine Islands
 8656,Cleveland Passage,Alaska
 2807,Cohasset Harbour,United States
 5977,Clews Point,Australia East Coast
 6506,Colac Bay (Oraka),New Zealand South Island
-0703,Clifden Bay,Ireland
-0127,Colchester,England
+703,Clifden Bay,Ireland
+127,Colchester,England
 2441A,Clifton Harbour,Windward Islands
-0653,Coleraine,Northern Ireland
-0745,Clonakilty Bay,Ireland
+653,Coleraine,Northern Ireland
+745,Clonakilty Bay,Ireland
 2749,College Point,United States
 2664A,Clouter Creek,United States
 2661A,Colleton River Entrance,United States
@@ -1371,28 +1371,28 @@ ukhoId,ukhoName,ukhoLocation
 6340,Copeland Island,Australia North Coast
 2701A,Colonial Beach,United States
 2282,Coppename River,Suriname
-9226,Columbia River Entrance (Jetty "A"),United States
+9226,"Columbia River Entrance (Jetty ""A"")",United States
 8877A,Copper Islands,Moresby Island
-0470,Colwyn Bay,Wales
-0205,Coquet Island,England
+470,Colwyn Bay,Wales
+205,Coquet Island,England
 3158,Come By Chance,Newfoundland
 9634,Coquimbo,Chile
 2114,Comodoro Rivadavia,Argentina
 6240,Coral Bay,Australia South Coast
-9092,Comox,Canada, Vancouver Island
+9092,Comox,"Canada, Vancouver Island"
 3293,Coral Harbour,Labrador
 3575,CONAKRY,Guinea
 1720,Corcubion,Spain
 1648,Concarneau,France
 1665A,Cordemais,France
-0719,Coney Island,Ireland
+719,Coney Island,Ireland
 9003,Cordero Islands,Canada
 2782A,Conimicut Light,United States
 1679C,Cordouan,France
-0463,Connah's Quay,Wales
+463,Connah's Quay,Wales
 8613,Cordova,Alaska
 0371A,Connel,Scotland
-0753,Cork City,Ireland
+753,Cork City,Ireland
 3142,Connoire Bay,Newfoundland
 3134,Corner Brook,Newfoundland
 2742B,Constable Hook,United States
@@ -1400,25 +1400,25 @@ ukhoId,ukhoName,ukhoLocation
 8454,Constantine Harbour,Aleutian Islands
 6374,Cornwallis,New Zealand North Island
 6405,Coromandel Harbour,New Zealand North Island
-9070,Cowichan Harbour,Canada, Vancouver Island
+9070,Cowichan Harbour,"Canada, Vancouver Island"
 4931,Coron,Philippine Islands
 4515,Cox's Bazar,Bangladesh
 9662,Coronel,Chile
 2419,Coxen Hole Pier,Honduras
-0368,Corpach,Scotland
+368,Corpach,Scotland
 9307,Coyote Point Marina,United States
 2585A,CORPUS CHRISTI,United States
 5833,Crab Island,Australia
-0367,Corran,Scotland
+367,Corran,Scotland
 8784,Craig Cannery,Prince of Wales Island
 4986,Corregidor Island,Philippine Islands
-0383,Craighouse,Scotland
+383,Craighouse,Scotland
 1758,Corta De Los Jeronimos,Spain
 0365A,Craignure,Scotland
 0110A,CORYTON,England
-0627,Cranfield Point,Northern Ireland
+627,Cranfield Point,Northern Ireland
 3976,Cosmoledo Islands,Seychelles
-0668,Cranford Bay,Ireland
+668,Cranford Bay,Ireland
 0014C,Cotehele Quay,England
 5945A,Creal Reef,Australia East Coast
 3633,Cotonou,Benin
@@ -1427,20 +1427,20 @@ ukhoId,ukhoName,ukhoLocation
 9206,Crescent Bay,United States
 1593,Courseulles-Sur-Mer,France
 9264,Crescent City,United States
-0746,Courtmacsherry,Ireland
+746,Courtmacsherry,Ireland
 0483A,Criccieth,Wales
-0607,Courtown,Ireland
-9078,Crofton,Canada, Vancouver Island
+607,Courtown,Ireland
+9078,Crofton,"Canada, Vancouver Island"
 2037A,Covadonga Harbour,Antarctica
 6460,Croiselles Harbour,New Zealand South Island
-0004,Coverack,England
-0724,Cromane Point,Ireland
+4,Coverack,England
+724,Cromane Point,Ireland
 6217,Cowaramup,Australia South Coast
-0258,Cromarty,Scotland
-0060,COWES,England
-0154,Cromer,England
-0741,Crookhaven,Ireland
-0524,Cumberland Basin Entrance,England
+258,Cromarty,Scotland
+60,COWES,England
+154,Cromer,England
+741,Crookhaven,Ireland
+524,Cumberland Basin Entrance,England
 3198,Croque Harbour,Newfoundland
 3312,Cumberland Sound,Canadian Arctic
 3375C,Cross Island,Alaska (North)
@@ -1448,7 +1448,7 @@ ukhoId,ukhoName,ukhoLocation
 6023A,Crowdy Head,Australia East Coast
 6065,Curtis Island,Australia East Coast
 3322C,Crown Prince Frederick Island,Canadian Arctic
-0644,Cushendun,Northern Ireland
+644,Cushendun,Northern Ireland
 6972,Cu Lao Cham,Vietnam
 6341A,Cuthbert Point,Australia North Coast
 6994,Cua Ba Lat,Vietnam
@@ -1469,13 +1469,13 @@ ukhoId,ukhoName,ukhoLocation
 6974,DA NANG,Vietnam
 6929,Culao Mi Xuong,Vietnam
 4753,Dabo,Lingga Kepulauan
-0660,Culdaff Bay,Ireland
+660,Culdaff Bay,Ireland
 7427,Dachangshan Dao,China
 2464,Culebra,Puerto Rico
 7162,Dadan (Dao),China
 6364,Cullen Point,Australia North Coast
 7501,Daecheon,Korea West Coast
-0657,Culmore Point,Northern Ireland
+657,Culmore Point,Northern Ireland
 7507,Daejang-Ri,Korea West Coast
 2347,Cumana,Venezuela
 7487,Daemuuido,Korea West Coast
@@ -1502,21 +1502,21 @@ ukhoId,ukhoName,ukhoLocation
 7946A,Daiichi Kaiho,Japan Honshu South Coast
 7804A,Dannoura,Japan Honshu South Coast
 6388B,Dairy Factory Wharf,New Zealand North Island
-0895,Danskegat,Svalbard
+895,Danskegat,Svalbard
 7270,Daji Shan,China
 5071,Dapitan,Philippine Islands
 3535,DAKAR,Senegal
 7375,Dapuhe Kou,China
 7359,Dakou He,China
 4001,DAR ES SALAAM,Tanzania
-0859,Dalatangi,Iceland
+859,Dalatangi,Iceland
 0108C,Darnett Ness,England
 9690,Dalcahue,Chile
 5794,Darnley Island,Australia
-0495,Dale Roads,Wales
+495,Dale Roads,Wales
 5155A,Daro,Sarawak
 3042,Dalhousie,Canada
-0023,DARTMOUTH,England
+23,DARTMOUTH,England
 7421,Dalian Gang (Dairen Ko),China
 5544,Daru,Papua New Guinea
 6323,DARWIN,Australia North Coast
@@ -1530,7 +1530,7 @@ ukhoId,ukhoName,ukhoLocation
 5141B,Dato Gandi,Brunei
 9133A,Deep Cove (Canada),Canada
 2536,Datum Bay,Bahama Islands
-0272,Deer Sound,Scotland
+272,Deer Sound,Scotland
 2606A,Dauphin Island,United States
 3656,Degema,Nigeria
 5062,DAVAO,Philippine Islands
@@ -1553,7 +1553,7 @@ ukhoId,ukhoName,ukhoLocation
 5461,Demta Baai,Papua
 2616,Deadman Bay,United States
 1489,DEN HELDER,Netherlands
-0098,Deal,England
+98,Deal,England
 1487,Den Oever,Netherlands
 6063,Deal Island (Garden Cove),Australia East Coast
 7047,Denglou Jiao,China
@@ -1580,11 +1580,11 @@ ukhoId,ukhoName,ukhoLocation
 4473,Devi River Entrance,India East Coast
 7255,Dinghai Gang,China
 4183,Dhagmar,Oman
-0723,Dingle Harbour,Ireland
+723,Dingle Harbour,Ireland
 4167,Dhalqut,Oman
 2976,Dingwall,Canada
 4475A,Dhamra,India East Coast
-0260,Dingwall (Cromarty Firth),Scotland
+260,Dingwall (Cromarty Firth),Scotland
 1983,Dhavlos,Cyprus
 2039,Discovery Bay,Antarctica
 4502,Dhulasar,Bangladesh
@@ -1629,14 +1629,14 @@ ukhoId,ukhoName,ukhoLocation
 5936,Double Bay,Australia East Coast
 8518,Dolgoi Island,Alaska
 4556,Double Island,Burma
-0920,Domashni Island,Russia
-0468,DOUGLAS,Isle of Man
+920,Domashni Island,Russia
+468,DOUGLAS,Isle of Man
 2281,Domburg,Suriname
 3258,Douglas Harbour,Labrador
-0637,Donaghadee,Northern Ireland
-0089,DOVER,England
-0686,Donegal Harbour (Salt Hill Quay),Ireland
-0671,Downies Bay,Ireland
+637,Donaghadee,Northern Ireland
+89,DOVER,England
+686,Donegal Harbour (Salt Hill Quay),Ireland
+671,Downies Bay,Ireland
 6979,Dong Hoi,Vietnam
 1340,Draghallan,Sweden
 1296A,Drammen,Norway
@@ -1646,66 +1646,66 @@ ukhoId,ukhoName,ukhoLocation
 6718B,Dreketi,Fiji Islands
 2013,Dumont D'urville Base,Antarctica
 8565,DRIFT RIVER,Alaska
-0615,DUN LAOGHAIRE,Ireland
+615,DUN LAOGHAIRE,Ireland
 3338,Driftwood Bay,Canadian Arctic
-0624,Dunany Point,Ireland
+624,Dunany Point,Ireland
 4620,Dring Harbour,Nicobar Islands
-0222,Dunbar,Scotland
-0419,Drummore,Scotland
-0736,Dunbeacon Harbour,Ireland
+222,Dunbar,Scotland
+419,Drummore,Scotland
+736,Dunbeacon Harbour,Ireland
 7290,Duanshan Gang,China
-9095,Duncan Bay,Canada, Vancouver Island
+9095,Duncan Bay,"Canada, Vancouver Island"
 4206A,DUBAI,United Arab Emirates
-0268,Duncansby Head,Scotland
+268,Duncansby Head,Scotland
 4206,Dubai (Al Maktoum Bridge),United Arab Emirates
 0625A,Dundalk,Ireland
-0617,DUBLIN (NORTH WALL),Ireland
+617,DUBLIN (NORTH WALL),Ireland
 3323,Dundas Harbour,Canadian Arctic
-0616,Dublin Bar,Ireland
-0236,DUNDEE,Scotland
+616,Dublin Bar,Ireland
+236,DUNDEE,Scotland
 3574,Dubreka,Guinea
 6498,Dunedin,New Zealand South Island
 1909,Dubrovnik (Luka Gruz),Croatia
-0756,Dungarvan Harbour,Ireland
+756,Dungarvan Harbour,Ireland
 5571,Duchateau Islands,Louisiade Archipelago
-0087,Dungeness,England
+87,Dungeness,England
 2676A,Duck Pier,United States
 9203,Dungeness Bay,United States
 1588,Duclair,France
 5800,Dungeness Reef,Australia
-0437,Duddon Bar,England
+437,Duddon Bar,England
 5917,Dunk Island,Australia East Coast
 1473A,Dukegat,Germany
 1568,DUNKERQUE,France
 4247C,Dukhan,Qatar
 1568A,Dunkerque Ouest,France
-0728,Dunkerron Harbour,Ireland
+728,Dunkerron Harbour,Ireland
 6476,East Bay,New Zealand South Island
-0737,Dunmanus Harbour,Ireland
+737,Dunmanus Harbour,Ireland
 4618,East Bay (Katchall),Nicobar Islands
-0761,Dunmore East,Ireland
+761,Dunmore East,Ireland
 6422,East Cape,New Zealand North Island
-0371,Dunstaffnage Bay,Scotland
+371,Dunstaffnage Bay,Scotland
 5784,East Diamond Island,Australia
 4171A,Duqm,Oman
-0394,East Loch Tarbert,Scotland
+394,East Loch Tarbert,Scotland
 3800,DURBAN,South Africa
 3795,EAST LONDON,South Africa
 1913,Durres,Albania
 6066,East Monceour Island,Australia East Coast
-0288,Dury Voe,Scotland
+288,Dury Voe,Scotland
 5889A,East Petherbridge Island,Australia East Coast
 4336,Dwarka (Rupen Bandar),India West Coast
 5944,East Repulse Island,Australia East Coast
 1450,Dwarsgat,Germany
 5811,East Strait Island,Australia
 2078,Dyke Island,Falkland Islands
-0084,Eastbourne,England
+84,Eastbourne,England
 3980,Dzaoudzi,Comoro Islands
 6230,Easter Group,Australia South Coast
 7935,E-No-Shima,Japan Honshu South Coast
-0453,EASTHAM,England
-0310,E. Loch Tarbert,Scotland
+453,EASTHAM,England
+310,E. Loch Tarbert,Scotland
 3270,Eastmain River,Labrador
 8491,Eagle Bay,Aleutian Islands
 2846,Eastport,United States
@@ -1713,7 +1713,7 @@ ukhoId,ukhoName,ukhoLocation
 9155,Echo Bay,United States
 3970A,Eagle Island,Seychelles
 6335,Echo Shoal,Australia North Coast
-4418,Eagle Island, Chagos Archipelago,Chagos Archipelago
+4418,"Eagle Island, Chagos Archipelago",Chagos Archipelago
 4074,Ed,Eritrea
 2590A,Eagle Point,United States
 6112,Eddystone Point,Tasmania
@@ -1745,7 +1745,7 @@ ukhoId,ukhoName,ukhoLocation
 9318A,Elkhorn Yacht Club,United States
 6594,Eiao,Iles Marquises
 6710,Ellington Wharf,Fiji Islands
-0783,Eide,Faeroe Islands
+783,Eide,Faeroe Islands
 5983,Elliot Heads,Australia East Coast
 1433A,Eidersperrwerk,Germany
 6195,Elliston,Australia South Coast
@@ -1765,7 +1765,7 @@ ukhoId,ukhoName,ukhoLocation
 1615,Erquy,France
 1266,Engesund,Norway
 8067,Esaki,Japan Honshu West Coast
-0526,English And Welsh Grounds,England
+526,English And Welsh Grounds,England
 8123,Esashi (Hokkaido Ne Coast),Japan Hokkaido North-East Coast
 2457,English Harbour,Leeward Islands
 8144,Esashi (Hokkaido W Coast),Japan Hokkaido West Coast
@@ -1778,7 +1778,7 @@ ukhoId,ukhoName,ukhoLocation
 3718,ENSEADA DE CABINDA,Angola
 0293A,Esha Ness (Hamna Voe),Scotland
 9371,Ensenada,Mexico
-0864,Eskifjordhur,Iceland
+864,Eskifjordhur,Iceland
 1811,Ensenada De Tetouan,Morocco
 3285,Eskimo Point,Labrador
 3322B,Entrance Island,Canadian Arctic
@@ -1790,7 +1790,7 @@ ukhoId,ukhoName,ukhoLocation
 7533,Eoranjin,Korea West Coast
 1731,Esposende,Portugal
 0522C,Epney,England
-9064,Esquimalt,Canada, Vancouver Island
+9064,Esquimalt,"Canada, Vancouver Island"
 4922,Eran Bay,Philippine Islands
 3516,Essaouira (Mogador),Morocco
 3325,Erebus Bay,Canadian Arctic
@@ -1802,13 +1802,13 @@ ukhoId,ukhoName,ukhoLocation
 8425,Estus Point (Hagmeister Strait),Alaska
 2545,Exuma Harbour,Bahama Islands
 3676,Esu Errorup,Nigeria
-0221,Eyemouth,Scotland
+221,Eyemouth,Scotland
 8061,Etomo,Japan Honshu West Coast
-0813,Eyrarbakki,Iceland
+813,Eyrarbakki,Iceland
 1581A,Etretat,France
 3432,Faeringehavn,Greenland West Coast
 6032,Ettalong,Australia East Coast
-0285,Fair Isle,Scotland
+285,Fair Isle,Scotland
 6204,Eucla,Australia South Coast
 8684,Fairway Island,Baranof Island
 2597,Eugene Island,United States
@@ -1822,7 +1822,7 @@ ukhoId,ukhoName,ukhoLocation
 1504,Europlatform,Netherlands
 2784A,Fall River,United States
 5596,Eve Shoal,Papua New Guinea
-0005,FALMOUTH,England
+5,FALMOUTH,England
 1176,Evenskjer,Norway
 9132,False Creek,Canada
 9172,Everett,United States
@@ -1833,7 +1833,7 @@ ukhoId,ukhoName,ukhoLocation
 1985,Famagusta,Cyprus
 0026B,Exmouth (Approaches),England
 0664A,Fanad Head,Ireland
-0027,Exmouth Dock,England
+27,Exmouth Dock,England
 7178,Fang-Yuan,T'ai-Wan
 4620A,Expedition Harbour,Nicobar Islands
 6686,Fangaloa Bay,Samoa Islands
@@ -1845,14 +1845,14 @@ ukhoId,ukhoName,ukhoLocation
 1581,Fecamp,France
 2065,Fanny Cove Creek,Falkland Islands
 1254A,Fedje,Norway
-0666,Fanny's Bay,Ireland
+666,Fanny's Bay,Ireland
 0133A,FELIXSTOWE PIER,England
 3923,Farafangana,Madagascar
 3934,Fenerive,Madagascar
 8978,Farewell Harbour,Canada
 7324,Fengcheng,China
 1454A,Farge,Germany
-0721,Fenit Pier,Ireland
+721,Fenit Pier,Ireland
 3558,Farim,Guinea-Bissau
 3163,Fermeuse Harbour,Newfoundland
 3596,Farmington River,Liberia
@@ -1867,8 +1867,8 @@ ukhoId,ukhoName,ukhoLocation
 3531A,Ferrat,Mauritania
 4254B,Fasht Gharibah,Saudi Arabia
 1716,FERROL (LA GRANA),Spain
-0866,Faskrudsfjordhur,Iceland
-0504,Ferryside,Wales
+866,Faskrudsfjordhur,Iceland
+504,Ferryside,Wales
 0402B,Faslane,Scotland
 0764A,Fethard-On-Sea,Ireland
 3540,Fatick,Senegal
@@ -1876,25 +1876,25 @@ ukhoId,ukhoName,ukhoLocation
 3550C,Fatoto,The Gambia
 0456A,Fiddler's Ferry,England
 6589,Fatu Hiva,Iles Marquises
-0223,Fidra,Scotland
-0107,Faversham,England
+223,Fidra,Scotland
+107,Faversham,England
 5875,Fife Island,Australia East Coast
 1737,Figueira Da Foz,Portugal
-0323,Flannan Isles,Scotland
-0182,Filey Bay,England
+323,Flannan Isles,Scotland
+182,Filey Bay,England
 0513A,Flat Holm,Wales
 8748,Finger Point,Kupreanof Island
 2913,Flat Island,Canada
 1199A,Finneid,Norway
-0828,Flatey (Breidafjordhur),Iceland
+828,Flatey (Breidafjordhur),Iceland
 1148,Finneset,Norway
-0850,Flatey (Skjalfanda),Iceland
+850,Flatey (Skjalfanda),Iceland
 1162,Finnkroken,Norway
-0833,Flateyri,Iceland
+833,Flateyri,Iceland
 1171,Finnlandsneset,Norway
 3376,Flaxman Island,Alaska (North)
 3441,Finnsbu,Greenland East Coast
-0444,Fleetwood,England
+444,Fleetwood,England
 5600,Finsch Harbour,Papua New Guinea
 6215,Flinders Bay,Australia South Coast
 3448,Finsch Island,Greenland East Coast
@@ -1907,18 +1907,18 @@ ukhoId,ukhoName,ukhoLocation
 5958,Flock Pigeon Island,Australia East Coast
 6480,Fishermans Rock,New Zealand South Island
 9246,Florence,United States
-0490,FISHGUARD,Wales
+490,FISHGUARD,Wales
 2186,Florianopolis,Brazil
 2067D,Fitzroy Creek,Falkland Islands
 1240,Floro,Norway
 5909,Fitzroy Island,Australia East Coast
 3182,Fogo Harbour,Newfoundland
 2886,Five Islands,Canada
-1425A,Fohr, Wyk,Germany
+1425A,"Fohr, Wyk",Germany
 1268,Fjaera,Norway
 1004,Foki Bight,Russia
 1248,Flam,Norway
-0088,Folkestone,England
+88,Folkestone,England
 0060A,Folly Inn,England
 2294,Fort Island,Guyana
 3982,Fomboni,Comoro Islands
@@ -1937,36 +1937,36 @@ ukhoId,ukhoName,ukhoLocation
 2742A,Fort Wadsworth,United States
 0053A,Foreland (Lifeboat Slip),England
 3919,Fort-Dauphin,Madagascar
-0448,Formby,England
+448,Formby,England
 2242,FORTALEZA (PORTO DE MUCURIPE),Brazil
 1175,Foroysaeter,Norway
 3121,Forteau Bay,Canada
 8797,Forrester Island,Prince of Wales Island
 6252,Fortescue Road,Australia North Coast
 6025,Forster,Australia East Coast
-0255,Fortrose,Scotland
+255,Fortrose,Scotland
 3276,Fort Albany,Labrador
 0296A,Foula,Scotland
 0475A,Fort Belan,Wales
 3539,Foundiougne (Fundiun),Senegal
 9284,Fort Bragg Landing,United States
-0008,FOWEY,England
+8,FOWEY,England
 3249,Fort Chimo,Labrador
 2077,Fox Bay,Falkland Islands
 2448,Fort De France,Windward Islands
 3136,Fox Island,Newfoundland
 3268,Fort George,Labrador
-0716,Foynes Island,Ireland
+716,Foynes Island,Ireland
 2743,FORT HAMILTON,United States
 6185,Franklin Harbour,Australia South Coast
-0246,FRASERBURGH,Scotland
+246,FRASERBURGH,Scotland
 1670,Fromentine,France
 1395,Fredericia,Denmark
 2577,Frontera (Alvaro Obregon),Mexico (Gulf)
 5847,Frederick Point,Australia
 7191,Fu-Kang (Chia-Lu-Lan),T'ai-Wan
 3438,Frederiksdal,Greenland West Coast
-0786,Fuglafjordur,Faeroe Islands
+786,Fuglafjordur,Faeroe Islands
 3433,Frederikshaab,Greenland West Coast
 4191A,FUJAIRAH,United Arab Emirates
 1409,Frederikshavn,Denmark
@@ -1979,17 +1979,17 @@ ukhoId,ukhoName,ukhoLocation
 7924,Fukue,Japan Honshu South Coast
 6223,Fremantle,Australia South Coast
 7631,Fukue (Goto Retto),Japan
-0538,Fremington,England
+538,Fremington,England
 8049,Fukui,Japan Honshu West Coast
 6649,French Frigate Shoals,Hawaiian Islands
 7863,Fukura,Japan Honshu South Coast
 2554,Fresh Creek,Bahama Islands
-9071,Fulford Harbour,Canada, Vancouver Island
-0048,Freshwater Bay,England
+9071,Fulford Harbour,"Canada, Vancouver Island"
+48,Freshwater Bay,England
 7943A,Funabashi,Japan Honshu South Coast
-8673,Freshwater Bay, Alaska,Chicagof Island
+8673,"Freshwater Bay, Alaska",Chicagof Island
 6744,Funafuti,Tuvalu
-3177,Freshwater Bay, Newfoundland,Newfoundland
+3177,"Freshwater Bay, Newfoundland",Newfoundland
 8028,Funagawa,Japan Honshu West Coast
 9159,Friday Harbour,United States
 7947,Funakata,Japan Honshu South Coast
@@ -2014,7 +2014,7 @@ ukhoId,ukhoName,ukhoLocation
 7355,FUYUNG TAU,China
 2588A,Galveston Pleasure Pier,United States
 1235,Fyrde,Norway
-0709,GALWAY,Ireland
+709,GALWAY,Ireland
 2964,Gabarus,Canada
 7922A,Gamagori,Japan Honshu South Coast
 5803,Gabba Island,Australia
@@ -2024,12 +2024,12 @@ ukhoId,ukhoName,ukhoLocation
 6055,Gabo Island,Australia East Coast
 7569,Gampo,Korea East Coast
 7565,Gadeokdo,Korea West Coast
-9071A,Ganges Harbour,Canada, Vancouver Island
+9071A,Ganges Harbour,"Canada, Vancouver Island"
 5370,Gading,Madura
 7571,Ganggu,Korea East Coast
 1854,Gaeta,Italy
 7480,Ganghwado (Oepori),Korea West Coast
-0337,Gairloch,Scotland
+337,Gairloch,Scotland
 4482,Gangra Semaphore,India East Coast
 7726,Gakiya,Japan Nansei Shoto
 5955A,Gannet Cay,Australia East Coast
@@ -2047,12 +2047,12 @@ ukhoId,ukhoName,ukhoLocation
 2498,George Town,Cayman Islands
 9236,Garibaldi,United States
 2290,GEORGETOWN,Guyana
-0422,Garlieston,Scotland
+422,Garlieston,Scotland
 3018,Georgetown (Prince Edward Island),Canada
 0452A,Garston,England
 2667,Georgetown (Winyah Bay),United States
 6818,Garukoru (Ngaregur),Palau Islands
-3550A,Georgetown, Gambia,The Gambia
+3550A,"Georgetown, Gambia",The Gambia
 2319,Gaspar Grande,Trinidad
 6229,Geraldton,Australia South Coast
 3049,Gaspe,Canada
@@ -2080,9 +2080,9 @@ ukhoId,ukhoName,ukhoLocation
 1547,Gentbrugge,Belgium
 4174,Ghubbat Hashish,Oman
 2041C,Gibbs Island,Antarctica
-0351,Glenelg Bay,Scotland
+351,Glenelg Bay,Scotland
 1169,Gibostad,Norway
-0375,Glengarrisdale Bay,Scotland
+375,Glengarrisdale Bay,Scotland
 1770,GIBRALTAR,Gibraltar
 1203,Glomfjord,Norway
 1708,GIJON,Spain
@@ -2099,7 +2099,7 @@ ukhoId,ukhoName,ukhoLocation
 3424,Godhavn,Greenland West Coast
 4404A,Girifushi,Maldive Islands
 4327,Godia Creek,India West Coast
-0414,Girvan,Scotland
+414,Girvan,Scotland
 3431,Godthaab (Nuuk),Greenland West Coast
 6425,Gisborne,New Zealand North Island
 7871A,Gogo Shima,Japan Shikoku North Coast
@@ -2111,12 +2111,12 @@ ukhoId,ukhoName,ukhoLocation
 7909,Gokasho,Japan Honshu South Coast
 5975,Gladstone,Australia East Coast
 6005,Gold Coast Seaway,Australia East Coast
-0407,GLASGOW,Scotland
+407,GLASGOW,Scotland
 2083,Golding Island,Falkland Islands
-0442,Glasson Dock,England
+442,Glasson Dock,England
 9468,Golfito,Costa Rica
 8973,Glendale Cove,Canada
-0264,Golspie,Scotland
+264,Golspie,Scotland
 6159A,Glenelg,Australia South Coast
 4308,Gonari Creek,Iran
 7618,Gonoura,Japan
@@ -2127,7 +2127,7 @@ ukhoId,ukhoName,ukhoLocation
 3587B,Governor Hill Point,Sierra Leone
 5918,Goold Island,Australia East Coast
 4537,Goyangyi Kyun,Burma
-0180,GOOLE,England
+180,GOOLE,England
 1895,Grado,Italy
 6206,Goose Island,Australia South Coast
 1418,Gradyb Bar,Denmark
@@ -2136,7 +2136,7 @@ ukhoId,ukhoName,ukhoLocation
 5755,Goro,New Caledonia
 2599A,Grand Isle,United States
 5318,Gorontalo,Sulawesi East Coast
-2600,Grand Isle, East Point,United States
+2600,"Grand Isle, East Point",United States
 5585,Goschen Strait (East Cape),Louisiade Archipelago
 3613,Grand Lahou,Cote D'Ivoire
 6031B,Gosford,Australia East Coast
@@ -2148,21 +2148,21 @@ ukhoId,ukhoName,ukhoLocation
 5247,Gosong Haji,Kalimantan
 3059,Grande Vallee,Canada
 5360,Gosong Karangmas,Jawa East Coast
-0228,GRANGEMOUTH,Scotland
+228,GRANGEMOUTH,Scotland
 8065A,Gotsu,Japan Honshu West Coast
 8665,Granite Cove,Chicagof Island
-0357,Gott Bay,Scotland
-0226,Granton,Scotland
-0787,Gotuvik (Nordragota),Faeroe Islands
+357,Gott Bay,Scotland
+226,Granton,Scotland
+787,Gotuvik (Nordragota),Faeroe Islands
 1612,Granville,France
 2059,Gough Island,Antarctica
 6131,Granville Harbour,Tasmania
 1602,Goury,France
 6084,Grassy,Australia East Coast
 2627,Grassy Key,United States
-0404,GREENOCK,Scotland
+404,GREENOCK,Scotland
 8612,Gravel Point,Alaska
-0626,Greenore,Ireland
+626,Greenore,Ireland
 1569,Gravelines,France
 2759,Greenport,United States
 0111A,Gravesend,England
@@ -2175,8 +2175,8 @@ ukhoId,ukhoName,ukhoLocation
 3143,Grey River,Newfoundland
 2798,Great Point,United States
 6524,Greymouth,New Zealand South Island
-0765,Great Saltee,Ireland
-0614,Greystones,Ireland
+765,Great Saltee,Ireland
+614,Greystones,Ireland
 2570,Great Sound,Bermuda
 2403,Greytown,Nicaragua
 3152,Great St. Lawrence Harbour,Newfoundland
@@ -2186,30 +2186,30 @@ ukhoId,ukhoName,ukhoLocation
 3267,Great Whale Island,Labrador
 8906,Griffith Harbour,Canada
 2694,Great Wicomico River Light,United States
-0172,GRIMSBY,England
+172,GRIMSBY,England
 0142A,Great Yarmouth (Britannia Pier),England
 0849B,Grimsey,Iceland
-0142,GREAT YARMOUTH (GORLESTON-ON-SEA),England
+142,GREAT YARMOUTH (GORLESTON-ON-SEA),England
 1289,Grimstad,Norway
 2651,Green Cove Springs,United States
-0814,Grindavik,Iceland
+814,Grindavik,Iceland
 5907,Green Island,Australia East Coast
 2871,Grindstone Island,Canada
 2562,Green Turtle Cay,Bahama Islands
 3095B,Grondines,Canada
 6194,Greenly Island,Australia South Coast
-0902,Gronfjorden,Svalbard
+902,Gronfjorden,Svalbard
 3434,Gronnedal,Greenland West Coast
 1087,Guba Gremikha,Russia
 1437,Grosser Vogelsand,Germany
 1011,Guba Kamyenka,Russia
 1193,Grotoy,Norway
 1107,Guba Korelinskiy,Russia
-0106,Grovehurst Jetty,England
+106,Grovehurst Jetty,England
 1005,Guba Krestovaya,Russia
-0826,Grundarfjordhur,Iceland
+826,Grundarfjordhur,Iceland
 8300,Guba Lebyazh'ya,Siberia
-0820,Grundartangi,Iceland
+820,Grundartangi,Iceland
 1077,Guba Malaya Pirya,Russia
 1170,Gryllefjord,Norway
 1112,Guba Malyy Korabel'naya,Russia
@@ -2244,7 +2244,7 @@ ukhoId,ukhoName,ukhoLocation
 1098,Guba Zelenetskaya Zapadnaya,Russia
 4315,Gwatar Bay,Iran
 1114,Guba Zubovskaya,Russia
-0681,Gweedore Harbour,Ireland
+681,Gweedore Harbour,Ireland
 3528,Guera,Western Sahara
 6906,Ha Tien,Vietnam
 4311,Gugsar,Iran
@@ -2263,10 +2263,10 @@ ukhoId,ukhoName,ukhoLocation
 4407,Hadhdunmathi Atoll,Maldive Islands
 6345,Guluwuru Island,Australia North Coast
 7803,Haedomari,Japan Honshu South Coast
-2498B,Gun Bay (East End, Public Dock),Cayman Islands
-0818,Hafnarfjordhur,Iceland
+2498B,"Gun Bay (East End, Public Dock)",Cayman Islands
+818,Hafnarfjordhur,Iceland
 7505,Gunsan,Korea West Coast
-0846,Haganesvik,Iceland
+846,Haganesvik,Iceland
 7504,Gunsan (Outer Port),Korea West Coast
 8069,Hagi,Japan Honshu West Coast
 4763,Guntung,Sumatera North East Coast
@@ -2303,10 +2303,10 @@ ukhoId,ukhoName,ukhoLocation
 6235,Hamelin Pool,Australia South Coast
 4482A,Haldia,India East Coast
 8743,Hamilton Bay,Kupreanof Island
-0455,Hale Head,England
+455,Hale Head,England
 1150,HAMMERFEST,Norway
 9312,Halfmoon Bay,United States
-0115,Hammersmith Bridge,England
+115,Hammersmith Bridge,England
 0439C,Halfway Shoal,England
 1144,Hamnbukt,Norway
 8836,Halibut Bay,Revillagigedo Island
@@ -2329,20 +2329,20 @@ ukhoId,ukhoName,ukhoLocation
 5850,Harrington Reef,Australia
 5859,Hannibal Island,Australia East Coast
 1174,Harstad,Norway
-0973,Hansen Island,Russia
+973,Hansen Island,Russia
 1511B,Hartelbrug,Netherlands
 4332,Hansthal Creek,India West Coast
 1510A,Hartelhaven,Netherlands
 1412A,Hanstholm,Denmark
 1511,Hartelkanaal Q8,Netherlands
 1537,Hansweert,Netherlands
-0188,Hartlepool,England
+188,Hartlepool,England
 2893,Hantsport,Canada
 8912,Hartley Bay,Canada
 6562,Hao (Passe Kaki),Tuamoto (Low) Archipelago
 7942A,Harumi,Japan Honshu South Coast
 3147A,Harbour Breton,Newfoundland
-0131,HARWICH,England
+131,HARWICH,England
 3168,Harbour Grace,Newfoundland
 4322C,Hasan Point,Pakistan
 1445,Harburg,Germany
@@ -2351,8 +2351,8 @@ ukhoId,ukhoName,ukhoLocation
 7873,Hashihama,Japan Shikoku North Coast
 1485,Harlingen,Netherlands
 7937A,Hashirimizu,Japan Honshu South Coast
-9084,Harmac,Canada, Vancouver Island
-0085,Hastings,England
+9084,Harmac,"Canada, Vancouver Island"
+85,Hastings,England
 4079,Harmil Island,Eritrea
 4589,Hastings Harbour,Burma
 2039A,Harmony Cove,Antarctica
@@ -2372,8 +2372,8 @@ ukhoId,ukhoName,ukhoLocation
 6254B,Hauy Islet,Australia North Coast
 1989,Hefa (Haifa),Israel
 6471,Havelock,New Zealand South Island
-0810,Heimaey,Iceland
-0499,Haverfordwest,Wales
+810,Heimaey,Iceland
+499,Haverfordwest,Wales
 1224,Heimsjo,Norway
 1419,Havneby,Denmark
 4563,Heinze Bok (Long Island),Burma
@@ -2384,7 +2384,7 @@ ukhoId,ukhoName,ukhoLocation
 2719,Havre De Grace,United States
 6825,Helen Reef,Palau Islands
 3107,Havre St. Pierre,Canada
-0403,Helensburgh,Scotland
+403,Helensburgh,Scotland
 4248,Hawar Island (North East),Bahrain
 0004A,Helford River (Entrance),England
 6350,Hawk Island,Australia North Coast
@@ -2394,11 +2394,11 @@ ukhoId,ukhoName,ukhoLocation
 0439B,Haws Point,England
 1196,Helligvaer,Norway
 5952,Hay Point,Australia East Coast
-0862,Hellisfjordhur,Iceland
+862,Hellisfjordhur,Iceland
 7820A,Hayase Seto,Japan Honshu South Coast
 8990,Helmcken Island (Billygoat Bay),Canada
 5934,Hayman Island,Australia East Coast
-0265,Helmsdale,Scotland
+265,Helmsdale,Scotland
 1353,Helsinki,Finland
 6290A,Heywood Shoal,Australia North Coast
 1544,Hemiksem,Belgium
@@ -2421,30 +2421,30 @@ ukhoId,ukhoName,ukhoLocation
 7789,Hiji,Japan Kyushu North Coast
 3147,Hermitage,Newfoundland
 7889,Hiketa,Japan Shikoku North Coast
-0104,Herne Bay,England
+104,Herne Bay,England
 5040,Hilaban Island,Philippine Islands
 5973,Heron Island,Australia East Coast
-0461,Hilbre Island,England
+461,Hilbre Island,England
 2869,Herring Cove,Canada
 2082A,Hill Cove,Falkland Islands
 3377,Herschel Island,Alaska (North)
 6223B,Hillarys,Australia South Coast
-0424,Hestan Island,Scotland
+424,Hestan Island,Scotland
 2441,Hillsborough Bay,Windward Islands
 7525,Heuksando,Korea West Coast
-0294,Hillswick,Scotland
+294,Hillswick,Scotland
 7109,Heung Kong Tsai Wan (Aberdeen),China
 6622,Hilo Bay,Hawaiian Islands
 1587A,Heurteauville,France
 4954,Himamaylan,Philippine Islands
-0441,Heysham,England
+441,Heysham,England
 7792,Hime Shima,Japan Kyushu North Coast
 5057,Hinatuan,Philippine Islands
 1505,HOEK VAN HOLLAND,Netherlands
-0530,Hinkley Point,England
+530,Hinkley Point,England
 0870A,Hofn,Iceland
 5045,Hinunangan Bay,Philippine Islands
-0845,Hofsos,Iceland
+845,Hofsos,Iceland
 7810,Hirao,Japan Honshu South Coast
 2684,Hog Point,United States
 7712,Hirara,Japan Nansei Shoto
@@ -2455,18 +2455,18 @@ ukhoId,ukhoName,ukhoLocation
 6523,Hokitika River Bar,New Zealand South Island
 7819,Hiroshima,Japan Honshu South Coast
 2698,Holland Island Bar Light,United States
-0322,Hirta (Bagh A' Bhaile),Scotland
+322,Hirta (Bagh A' Bhaile),Scotland
 0121A,Holliwell Point,England
 1412,Hirtshals,Denmark
-0841,Holmavik,Iceland
+841,Holmavik,Iceland
 7978,Hitachi,Japan Honshu East Coast
-0894,Holmiabukta,Svalbard
+894,Holmiabukta,Svalbard
 8264,Hitokappi Wan,Kuril Islands
 3429,Holsteinsborg,Greenland West Coast
 6590,Hiva Oa,Iles Marquises
-0208,Holy Island,England
+208,Holy Island,England
 7783,Hiwasa,Japan Shikoku West and South Coasts
-0478,HOLYHEAD,Wales
+478,HOLYHEAD,Wales
 7661,Hizen Oshima,Japan Kyushu West Coast
 3167,Holyrood,Newfoundland
 6943,Ho Chi Minh City (Sai Gon),Vietnam
@@ -2508,33 +2508,33 @@ ukhoId,ukhoName,ukhoLocation
 8670,Hoonah,Chicagof Island
 4260E,Hout Oilfield,Saudi Arabia
 2705,Hooper Island Light,United States
-0618,Howth,Ireland
+618,Howth,Ireland
 2043,Hope Bay,Antarctica
 0849A,Hrisey,Iceland
 3226,Hopedale,Labrador
-0842,Hrutafjordhur,Iceland
+842,Hrutafjordhur,Iceland
 6345A,Hopeful Bay,Australia North Coast
 7381,Hsinlutu,China
-0886,Hopen,Svalbard
+886,Hopen,Svalbard
 6878,Hua Hin,Thailand
 3251,Hopes Advance Bay,Labrador
 7315,Huangjiatang Wan,China
 7080,HUANGPU (WHAMPOA DOCK),China
 4100,Hurghada (Al Ghardaqah),Egypt
 7379,Huanhaisi Dizui,China
-0039,Hurst Point,England
-1755,Huelva, Muelle De Levante,Spain
-0851,Husavik,Iceland
+39,Hurst Point,England
+1755,"Huelva, Muelle De Levante",Spain
+851,Husavik,Iceland
 4485,Hugli Point Semaphore,India East Coast
 1260B,Husnes,Norway
 1476B,Huibertgat,Netherlands
 1430,Husum,Germany
-0175,HULL (ALBERT DOCK),England
+175,HULL (ALBERT DOCK),England
 0842A,Hvammstangi,Iceland
 0174A,Hull (Alexandra Dock),England
-0821,Hvammsvik,Iceland
-0174,HULL (KING GEORGE DOCK),England
-0780,Hvannasund,Faeroe Islands
+821,Hvammsvik,Iceland
+174,HULL (KING GEORGE DOCK),England
+780,Hvannasund,Faeroe Islands
 6697,Hull Island,Kiribati
 1415,Hvide Sande,Denmark
 0122B,Hullbridge,England
@@ -2545,13 +2545,13 @@ ukhoId,ukhoName,ukhoLocation
 5592,Iasi-Iasi Anchorage,Papua New Guinea
 4120,Humaydah,Saudi Arabia
 2192A,Icapara,Brazil
-0176,Humber Bridge,England
+176,Humber Bridge,England
 3765,Ichaboe Island,Namibia
 0172A,HUMBER SEA TERMINAL,England
 7945,Ichihara,Japan Honshu South Coast
 8886,Humpback Bay,Canada
 7943,Ichikawa,Japan Honshu South Coast
-0161,Hunstanton,England
+161,Hunstanton,England
 8754,Ideal Cove,Kupreanof Island
 9306C,Hunters Point,United States
 4802,Idi,Sumatera North East Coast
@@ -2590,7 +2590,7 @@ ukhoId,ukhoName,ukhoLocation
 1649,Ile De Penfret,France
 6739,Iles Wallis (Mata-Utu),Fiji Islands
 1641,Ile De Sein,France
-0535,Ilfracombe,England
+535,Ilfracombe,England
 3964,Ile Denis,Seychelles
 2210,Ilha Da Trinidade,Brazil
 1614A,Ile Des Hebihens,France
@@ -2616,7 +2616,7 @@ ukhoId,ukhoName,ukhoLocation
 3559,Ilheu De Caio,Guinea-Bissau
 8053A,Ine,Japan Honshu West Coast
 2217,ILHEUS,Brazil
-0872,Ingolfshofdi,Iceland
+872,Ingolfshofdi,Iceland
 8563,Iliamna Bay,Alaska
 2974,Ingonish Island,Canada
 5074,Iligan,Philippine Islands
@@ -2628,40 +2628,40 @@ ukhoId,ukhoName,ukhoLocation
 3898,Ilot Indien,Madagascar
 3675,Inikoi Island,Nigeria
 4507A,Ilsa Ghat,Bangladesh
-0695,Inishbiggle,Ireland
+695,Inishbiggle,Ireland
 7875,Imabari,Japan Shikoku North Coast
-0672,Inishbofin Bay,Ireland
+672,Inishbofin Bay,Ireland
 2184,IMBITUBA,Brazil
-0697,Inishgort,Ireland
-0173,IMMINGHAM,England
-0707,Inishmore (Killeany Bay),Ireland
+697,Inishgort,Ireland
+173,IMMINGHAM,England
+707,Inishmore (Killeany Bay),Ireland
 1850,Imperia,Italy
-0661,Inishtrahull,Ireland
+661,Inishtrahull,Ireland
 9368,Imperial Beach,United States
-0168,Inner Dowsing Light,England
+168,Inner Dowsing Light,England
 3266A,Innetalling Island,Labrador
 0835A,Isafjordhur,Iceland
 3265,Inoucdjouac,Labrador
 8510,Isanotski Strait,Aleutian Islands
 7658,Inourago,Japan Kyushu West Coast
-0905,Isbjornhamna (Hornsund),Svalbard
-0395,Inveraray,Scotland
+905,Isbjornhamna (Hornsund),Svalbard
+395,Inveraray,Scotland
 1856,Ischia,Italy
-0259,INVERGORDON,Scotland
+259,INVERGORDON,Scotland
 7709,Ishigaki,Japan Nansei Shoto
-0353,Inverie Bay,Scotland
+353,Inverie Bay,Scotland
 7985,Ishihama,Japan Honshu East Coast
-0256,Inverness,Scotland
+256,Inverness,Scotland
 8135A,Ishikari Wan,Japan Hokkaido West Coast
-0519,Inward Rocks,England
+519,Inward Rocks,England
 7718,ISHIKAWA,Japan Nansei Shoto
 7950,Io Shima,Japan Nanpo Shoto
 7986,Ishinomaki,Japan Honshu East Coast
 7746,Io Shima (Nansei Shoto),Japan Nansei Shoto
 9384,Isla Cedros,Mexico
-0360,Iona,Scotland
+360,Iona,Scotland
 2431,Isla Cozumel,Mexico (Caribbean)
-0133,Ipswich,England
+133,Ipswich,England
 9480,Isla De Cebaco,Panama
 3310B,Iqaluit (Frobisher Bay),Labrador
 9478,Isla De Coiba,Panama
@@ -2671,7 +2671,7 @@ ukhoId,ukhoName,ukhoLocation
 6544,Isla De Pascua (Hanga Piko),Pacific Ocean Islands
 5757,Ire,New Caledonia
 2123,Isla Escondida,Argentina
-0411,Irvine,Scotland
+411,Irvine,Scotland
 9713,Isla Guamblin,Archipelago de los Chonos
 2948,Isaac's Harbour,Canada
 2466A,Isla Magueyes,Puerto Rico
@@ -2707,7 +2707,7 @@ ukhoId,ukhoName,ukhoLocation
 7802,Izaki,Japan Honshu South Coast
 9944,Islas Timbales,Chile
 1969,Izmir (Smyrna),Turkey
-0421,Isle Of Whithorn,Scotland
+421,Isle Of Whithorn,Scotland
 7611,Izuhara,Japan
 2141,Islote N.W.,Argentina
 7848,Izumi-Otsu,Japan Honshu South Coast
@@ -2743,7 +2743,7 @@ ukhoId,ukhoName,ukhoLocation
 4261B,Jazirat Kubbar,Kuwait
 3671,James Island,Nigeria
 4261A,Jazirat Qaru,Kuwait
-3546,James Island, Gambia,The Gambia
+3546,"James Island, Gambia",The Gambia
 4101,Jazirat Shakir,Egypt
 3669,Jamestown,Nigeria
 4233,Jazirat Shara'iwah,Qatar
@@ -2828,7 +2828,7 @@ ukhoId,ukhoName,ukhoLocation
 4103,Juzur Ashrafi,Egypt
 6232,Kalbarri,Australia South Coast
 7448,Ka Do,Korea West Coast
-0871,Kalfafellstadir,Iceland
+871,Kalfafellstadir,Iceland
 4585,Ka Mar Island,Burma
 1071,Kalgalaksha,Russia
 7669,Kabashima Suido,Japan Kyushu West Coast
@@ -2924,12 +2924,12 @@ ukhoId,ukhoName,ukhoLocation
 4441,Kayts Lagoon,Sri Lanka
 8820,Ketchikan,Revillagigedo Island
 7009,Ke Bao,Vietnam
-0275,Kettletoft Pier,Scotland
-0178,Keadby,England
+275,Kettletoft Pier,Scotland
+178,Keadby,England
 0115A,Kew Bridge,England
 8780,Keete Inlet,Prince of Wales Island
 2627A,Key Colony Beach,United States
-0817,Keflavik,Iceland
+817,Keflavik,Iceland
 2634,Key West,United States
 5568,Kegawam Island,Louisiade Archipelago
 1015,Khabarovo,Russia
@@ -2962,25 +2962,25 @@ ukhoId,ukhoName,ukhoLocation
 4253A,Khawr Fasht,Bahrain
 4017,KILINDINI,Kenya
 4208,Khawr Ghanadah,United Arab Emirates
-0629,Kilkeel,Northern Ireland
+629,Kilkeel,Northern Ireland
 4208A,Khawr Ghurabi,United Arab Emirates
-0706,Kilkieran Cove,Ireland
+706,Kilkieran Cove,Ireland
 4195,Khawr Habalayn,Oman
-0692,Killala Bay (Inishcrone),Ireland
+692,Killala Bay (Inishcrone),Ireland
 4209A,Khawr Laffan,United Arab Emirates
-0632,Killard Point,Northern Ireland
+632,Killard Point,Northern Ireland
 4186,Khawr Masqat,Oman
-0701,Killary Harbour,Ireland
+701,Killary Harbour,Ireland
 4209,Khawr Sa'diyat,United Arab Emirates
 0630A,Killough Harbour,Northern Ireland
 4241,Khawr Shaqiq,Qatar
-0685,KILLYBEGS,Ireland
+685,KILLYBEGS,Ireland
 4276B,Khowr-E Musa Approaches,Iran
-0634,Killyleagh,Northern Ireland
+634,Killyleagh,Northern Ireland
 4277,KHOWR-E MUSA BAR,Iran
 0761B,KILMOKEA POINT,Ireland
 8888,Khyex Point,Canada
-0714,Kilrush,Ireland
+714,Kilrush,Ireland
 5635A,Kieta,Bismarck Archipelago
 1254,Kilstraumen,Norway
 6627,Kihei,Hawaiian Islands
@@ -2993,8 +2993,8 @@ ukhoId,ukhoName,ukhoLocation
 8659,Kimshan Cove,Chicagof Island
 7872,Kikuma,Japan Shikoku North Coast
 5113,Kinabatangan,Sabah
-0713,Kilbaha Bay,Ireland
-0229,Kincardine,Scotland
+713,Kilbaha Bay,Ireland
+229,Kincardine,Scotland
 8947,Kildala,Canada
 8842,Kincolith,Canada
 4022,Kilifi,Kenya
@@ -3009,8 +3009,8 @@ ukhoId,ukhoName,ukhoLocation
 5588,Kiriwina Islands,Louisiade Archipelago
 3173,King's Cove,Newfoundland
 5809A,Kirkcaldie Reef,Australia
-0162,King's Lynn,England
-0231,Kirkcaldy,Scotland
+162,King's Lynn,England
+231,Kirkcaldy,Scotland
 2617C,Kings Bay,United States
 0422A,Kirkcudbright Bay,Scotland
 2654A,Kings Bay (Cumberland Sound),United States
@@ -3018,7 +3018,7 @@ ukhoId,ukhoName,ukhoLocation
 2768,Kings Point,United States
 1131,KIRKENES,Norway
 6007B,Kingscliff,Australia East Coast
-0273,KIRKWALL,Scotland
+273,KIRKWALL,Scotland
 6153,Kingscote,Australia South Coast
 7848A,Kishiwada,Japan Honshu South Coast
 2683B,Kingsmill,United States
@@ -3027,9 +3027,9 @@ ukhoId,ukhoName,ukhoLocation
 8492,Kisselen Bay,Aleutian Islands
 2444,Kingstown,Windward Islands
 3988,Kiswere Haven,Tanzania
-0327,Kinlochbervie,Scotland
+327,Kinlochbervie,Scotland
 7890,Kitadomari,Japan Shikoku North Coast
-0747,Kinsale,Ireland
+747,Kinsale,Ireland
 8201,Kitasoya,Sakhalin West Coast
 1263A,Kinsarvik,Norway
 8913,Kitimat,Canada
@@ -3049,13 +3049,13 @@ ukhoId,ukhoName,ukhoLocation
 6886,Ko Si Chang,Thailand
 1367,Klaipeda (Memel),Lithuania
 4645,Ko Sukon,Thailand West Coast
-0782,Klaksvik,Faeroe Islands
+782,Klaksvik,Faeroe Islands
 4632,Ko Surin,Thailand West Coast
-9030,Klaskish Inlet,Canada, Vancouver Island
+9030,Klaskish Inlet,"Canada, Vancouver Island"
 4639,Ko Taphao Noi (Phuket),Thailand West Coast
 8929,Klemtu Passage,Canada
 7845,Kobe,Japan Honshu South Coast
-0725,Knights Town,Ireland
+725,Knights Town,Ireland
 1386,Kobenhavn,Denmark
 1474,Knock,Germany
 4393,KOCHI (COCHIN),India West Coast
@@ -3085,7 +3085,7 @@ ukhoId,ukhoName,ukhoLocation
 4325,Kori Creek Entrance,India West Coast
 6634,Kolo,Hawaiian Islands
 5469,Korido,Papua
-0959,Kolyma River Entrance,Russia
+959,Kolyma River Entrance,Russia
 5467,Korim,Papua
 1154,Komagfjord,Norway
 1922,Korinthos (Corinth),Greece
@@ -3095,13 +3095,13 @@ ukhoId,ukhoName,ukhoLocation
 6716,Koro Island,Fiji Islands
 6933,Kompon-Luom,Vietnam
 6718A,Koroinasolo Inlet,Fiji Islands
-0971,Komsomolskoy Pravda Island,Russia
+971,Komsomolskoy Pravda Island,Russia
 1387,Korsor,Denmark
 3708,Kondjo Entrance,Gabon
 3802,Kosi River Entrance,South Africa
-0898,Kongsfjorden,Svalbard
+898,Kongsfjorden,Svalbard
 6792,Kosrae Island,Caroline Islands
-1136,Kongsfjorden, Norway,Norway
+1136,"Kongsfjorden, Norway",Norway
 5132,KOTA KINABALU,Sabah
 1214,Kongsmoen,Norway
 4839,Kotaagung,Sumatera South West Coast
@@ -3114,7 +3114,7 @@ ukhoId,ukhoName,ukhoLocation
 8031,Konoura (Honshu),Japan Honshu West Coast
 8073,Kottoi,Japan Honshu West Coast
 0851A,Kopasker,Iceland
-0930,Kotyelny Island,Russia
+930,Kotyelny Island,Russia
 1897,KOPER,Slovenia
 5765A,Koumac,New Caledonia
 1272A,Kopervik,Norway
@@ -3196,9 +3196,9 @@ ukhoId,ukhoName,ukhoLocation
 7744,Kumano,Japan Nansei Shoto
 7289,Kuzi Gang,China
 8840,Kumeon Bay,Canada
-0884,Kvalrossbukta,Jan Mayen
+884,Kvalrossbukta,Jan Mayen
 4380,Kumta,India West Coast
-0906,Kvalvagen,Svalbard
+906,Kvalvagen,Svalbard
 5696,Kwai Harbour,Solomon Islands
 3965A,La Digue,Seychelles
 6776,KWAJALEIN ATOLL,Marshall Islands
@@ -3214,16 +3214,16 @@ ukhoId,ukhoName,ukhoLocation
 8249,Kyakrvo,Sakhalin East Coast
 9539,La Libertad,Ecuador
 4525,Kyaukpyu,Burma
-9445,La Libertad, Salvador,Salvador
-0301,Kyle Of Durness,Scotland
+9445,"La Libertad, Salvador",Salvador
+301,Kyle Of Durness,Scotland
 1800,La Maddalena,Sardinia
-0349,Kyle Of Lochalsh,Scotland
+349,Kyle Of Lochalsh,Scotland
 9399,La Paz,Mexico
 1984,Kyrenia,Cyprus
 3141,La Poile Bay,Newfoundland
 4587,Kyunn Tann Shey (Bulet-Aw),Burma
 2986,La Pointe,Canada
-9036,Kyuquot,Canada, Vancouver Island
+9036,Kyuquot,"Canada, Vancouver Island"
 1685,La Reuille,France
 1633,L'aber Benoit,France
 1676,La Rochelle,France
@@ -3269,7 +3269,7 @@ ukhoId,ukhoName,ukhoLocation
 9134,Lake Buntzen,Canada
 5978,Lady Musgrave Island,Australia East Coast
 2593A,Lake Charles,United States
-9080,Ladysmith,Canada, Vancouver Island
+9080,Ladysmith,"Canada, Vancouver Island"
 3307A,Lake Harbour,Labrador
 5598,LAE,Papua New Guinea
 2641A,Lake Worth Pier,United States
@@ -3282,10 +3282,10 @@ ukhoId,ukhoName,ukhoLocation
 3777,Lamberts Bay,South Africa
 3135,Lark Harbour,Newfoundland
 5667A,Lambi Bay,Solomon Islands
-0641,LARNE,Northern Ireland
+641,LARNE,Northern Ireland
 1683,Lamena,France
 2950,Larry's River,Canada
-0409,Lamlash,Scotland
+409,Lamlash,Scotland
 1295B,Larvick,Norway
 6807,Lamotrek,Caroline Islands
 2335,Las Cuevas Bay,Trinidad
@@ -3294,7 +3294,7 @@ ukhoId,ukhoName,ukhoLocation
 8775,Lancaster Cove,Prince of Wales Island
 4000,Latham Island,Tanzania
 6225,Lancelin,Australia South Coast
-0839,Latravik,Iceland
+839,Latravik,Iceland
 1328,Landsort,Sweden
 5694A,Lau Lagoon,Solomon Islands
 6871,Lang Suan,Thailand
@@ -3303,7 +3303,7 @@ ukhoId,ukhoName,ukhoLocation
 6097,Launceston,Tasmania
 1468,Langeoog,Germany
 6707,Lautoka,Fiji Islands
-0066,Langstone Harbour,England
+66,Langstone Harbour,England
 1478,Lauwersoog,Netherlands
 7313,Lanshantou,China
 4285,Lavar-E Saheli,Iran
@@ -3320,7 +3320,7 @@ ukhoId,ukhoName,ukhoLocation
 6248,Large Islet,Australia North Coast
 1679,Le Chapus,France
 1636,Le Conquet,France
-0064,Lee-On-The-Solent,England
+64,Lee-On-The-Solent,England
 1661,Le Croisic,France
 6227A,Leeman,Australia South Coast
 1663,Le Grand-Charpentier,France
@@ -3334,9 +3334,9 @@ ukhoId,ukhoName,ukhoLocation
 2270,Le Larivot,French Guiana
 0786A,Leirvik,Faeroe Islands
 1617,Le Legue (Buoy),France
-1267,Leirvik, Norway,Norway
+1267,"Leirvik, Norway",Norway
 1658B,Le Logeo,France
-0225,LEITH,Scotland
+225,LEITH,Scotland
 1686,Le Marquis,France
 2052,Leith Harbour,Antarctica
 1654,Le Palais,France
@@ -3356,7 +3356,7 @@ ukhoId,ukhoName,ukhoLocation
 1637,Le Trez Hir,France
 8960A,Leroy Bay,Canada
 1680A,Le Verdon-Sur-Mer,France
-0287,LERWICK,Scotland
+287,LERWICK,Scotland
 5158A,Leba An,Sarawak
 1608A,Les Ardentes,France
 1607,Les Ecrehou,Channel Islands
@@ -3393,10 +3393,10 @@ ukhoId,ukhoName,ukhoLocation
 5046,Liloan,Philippine Islands
 2700A,Lewisetta,United States
 2257,Limao,Brazil
-1470B,Leybucht, Leyhorn,Germany
+1470B,"Leybucht, Leyhorn",Germany
 1984B,LIMASSOL,Cyprus
 1623,Lezardrieux,France
-0718,Limerick Dock,Ireland
+718,Limerick Dock,Ireland
 4804,Lhokseumawe,Sumatera North East Coast
 3806,Limpopo River Bar,Mozambique
 1118,Linakhamari,Russia
@@ -3404,7 +3404,7 @@ ukhoId,ukhoName,ukhoLocation
 4929,Linapakan Island,Philippine Islands
 3189,Little Bay Arm,Newfoundland
 2291,Linden,Guyana
-0321,Little Bernera,Scotland
+321,Little Bernera,Scotland
 3986,Lindi,Tanzania
 2761,Little Gull Island,United States
 1977,Lindos,Grecian Archipelago
@@ -3416,7 +3416,7 @@ ukhoId,ukhoName,ukhoLocation
 5306,Lingkobu,Sulawesi East Coast
 3450,Little Pendulum Island,Greenland East Coast
 1164,Lingoya,Norway
-0074,Littlehampton,England
+74,Littlehampton,England
 1435A,Linnenplate,Germany
 8626,Lituya Bay,Alaska
 5402,Linteh,Flores
@@ -3424,73 +3424,73 @@ ukhoId,ukhoName,ukhoLocation
 1865,Lipari,Italy
 2067,Lively Settlement,Falkland Islands
 5255,Lirung,Kalimantan
-0451,LIVERPOOL (GLADSTONE DOCK),England
+451,LIVERPOOL (GLADSTONE DOCK),England
 2322,LISAS POINT,Trinidad
 2702,Liverpool Point,United States
 1741,LISBON,Portugal
-2923,Liverpool, Nova Scotia,Canada
-0711,Liscannor,Ireland
+2923,"Liverpool, Nova Scotia",Canada
+711,Liscannor,Ireland
 1852,LIVORNO (LEGHORN),Italy
 8661,Lisianski Inlet,Chicagof Island
 5889,Lizard Island,Australia East Coast
 1421A,List,Germany
-6291A,Lizard Island, Australia,Australia North Coast
+6291A,"Lizard Island, Australia",Australia North Coast
 1149,Litlefjorden,Norway
-0003,Lizard Point,England
+3,Lizard Point,England
 4615,Little Andaman,Andaman Islands
-0480,Llanddwyn Island,Wales
-0471,Llandudno,Wales
-0369,Loch Leven Head,Scotland
+480,Llanddwyn Island,Wales
+471,Llandudno,Wales
+369,Loch Leven Head,Scotland
 0505A,Llanelli,Wales
 0383A,Loch Melfort,Scotland
 0522E,Llanthony,England
-0355,Loch Moidart,Scotland
+355,Loch Moidart,Scotland
 2767,Lloyd Harbour,United States
-0330,Loch Nedd,Scotland
+330,Loch Nedd,Scotland
 9548,Lobitos,Peru
 0393B,Loch Ranza,Scotland
 9555,Lobos De Afuera,Peru
 0353B,Loch Scresort,Scotland
 7015,Loc Chuc San,Vietnam
-0309,Loch Shell,Scotland
-0340,Loch A' Bhraige,Scotland
-0312,Loch Skipport,Scotland
-0365,Loch Aline,Scotland
-0343,Loch Snizort (Uig Bay),Scotland
-0384,Loch Beag,Scotland
+309,Loch Shell,Scotland
+340,Loch A' Bhraige,Scotland
+312,Loch Skipport,Scotland
+365,Loch Aline,Scotland
+343,Loch Snizort (Uig Bay),Scotland
+384,Loch Beag,Scotland
 0399C,Lochgoilhead,Scotland
-0313,Loch Boisdale,Scotland
-0311,Lochmaddy,Scotland
+313,Loch Boisdale,Scotland
+311,Lochmaddy,Scotland
 0311A,Loch Carnan,Scotland
 2919,Lockeport,Canada
 0370B,Loch Creran Head,Scotland
 1628A,Locquirec,France
-0344,Loch Dunvegan,Scotland
+344,Loch Dunvegan,Scotland
 1645,Loctudy,France
-0356,Loch Eatharna,Scotland
+356,Loch Eatharna,Scotland
 1187,Lodingen,Norway
 0368A,Loch Eil Head,Scotland
 7094A,Lok On Pai,China
-0345,Loch Harport,Scotland
+345,Loch Harport,Scotland
 1261,Lokksund,Norway
-0352,Loch Hourn,Scotland
+352,Loch Hourn,Scotland
 5654,Lolomo Passage,Solomon Islands
-0332,Loch Inver,Scotland
+332,Loch Inver,Scotland
 3630,LOME,Togo
-0328,Loch Laxford,Scotland
-0113,LONDON BRIDGE (TOWER PIER),England
-0659,Londonderry,Northern Ireland
+328,Loch Laxford,Scotland
+113,LONDON BRIDGE (TOWER PIER),England
+659,Londonderry,Northern Ireland
 2508,Los Arroyos,Cuba
 9351A,Long Beach,United States
 3483,Los Cristianos,Canary Islands
 3158B,Long Harbour,Newfoundland
-0249,Lossiemouth,Scotland
+249,Lossiemouth,Scotland
 4607,Long Island,Andaman Islands
 0008A,Lostwithiel,England
 6474,Long Island (New Zealand),New Zealand South Island
-0274,Loth,Scotland
-2543,Long Island, Bahamas,Bahama Islands
-0683,Loughros More Bay,Ireland
+274,Loth,Scotland
+2543,"Long Island, Bahamas",Bahama Islands
+683,Loughros More Bay,Ireland
 7353,Longkou Gang,China
 2965,Louisburg,Canada
 2735,Longport,United States
@@ -3499,20 +3499,20 @@ ukhoId,ukhoName,ukhoLocation
 6094,Low Head,Tasmania
 7334,Longxu Wan,China
 5903,Low Islets,Australia East Coast
-0901,Longyearbyen,Svalbard
+901,Longyearbyen,Svalbard
 2534,Low Point (Start Point),Bahama Islands
 4942,Looc,Philippine Islands
 5891,Low Wooded Isle,Australia East Coast
-0011,Looe,England
+11,Looe,England
 8894,Lowe Inlet,Canada
 1049,Lopshen'ga,Russia
-0141,LOWESTOFT,England
+141,LOWESTOFT,England
 0014D,Lopwell,England
 1709,Luanco,Spain
 5772,Lord Howe Island,Australia
 1712,Luarca,Spain
 9401,Loreto,Mexico
-0420,Luce Bay (Offshore Platform),Scotland
+420,Luce Bay (Offshore Platform),Scotland
 1651,LORIENT (ARSENAL),France
 4983,Lucena,Philippine Islands
 6080,Lorne,Australia East Coast
@@ -3525,7 +3525,7 @@ ukhoId,ukhoName,ukhoLocation
 1506,MAASSLUIS,Netherlands
 2246,Luis Correia,Brazil
 6127,Maatsuyker Island,Tasmania
-0034,Lulworth Cove,England
+34,Lulworth Cove,England
 2204,MACAE (IMBETIBA),Brazil
 5144,Lumut,Brunei
 7070,Macao Harbour,China
@@ -3533,15 +3533,15 @@ ukhoId,ukhoName,ukhoLocation
 2258,MACAPA,Brazil
 9113,Lund,Canada
 2238,Macau,Brazil
-0542,Lundy,England
+542,Lundy,England
 2227,MACEIO,Brazil
 2928,Lunenburg,Canada
 3474,Machico,Madeira Islands
 7416,Lushunkou,China
 4457,Machilipatnam,India East Coast
-0028,Lyme Regis,England
-0390,Machrihanish,Scotland
-0040,LYMINGTON,England
+28,Lyme Regis,England
+390,Machrihanish,Scotland
+40,LYMINGTON,England
 5951,MACKAY,Australia East Coast
 2591A,Lynchburg Landing,United States
 6288,Macleay Island,Australia North Coast
@@ -3549,7 +3549,7 @@ ukhoId,ukhoName,ukhoLocation
 8590,Macleod Harbour,Alaska
 6272,Lynher Bank,Australia North Coast
 6530,Macquarie Island,New Zealand South Island
-0534,Lynmouth,England
+534,Lynmouth,England
 3833,Macuse,Mozambique
 2810,Lynn Harbour,United States
 3644,Madagho,Nigeria
@@ -3567,7 +3567,7 @@ ukhoId,ukhoName,ukhoLocation
 5623,Makada Harbour,Bismarck Archipelago
 4157,Magatinal Saghir,Republic of Yemen
 4182B,Makalla Wabar,Oman
-0896,Magdalenefjorden,Svalbard
+896,Magdalenefjorden,Svalbard
 6442,Makara Beach,New Zealand North Island
 2099A,Magellan Strait East Entrance,Argentina
 8233,Makarov,Sakhalin East Coast
@@ -3584,7 +3584,7 @@ ukhoId,ukhoName,ukhoLocation
 1829A,Mahdia,Tunisia
 7695,Makurazaki,Japan Kyushu West Coast
 2929,Mahone Harbour,Canada
-9027A,Makwazniht Island,Canada, Vancouver Island
+9027A,Makwazniht Island,"Canada, Vancouver Island"
 6625,Mahukona,Hawaiian Islands
 3690,Malabo,Equatorial Guinea
 6398,Mahurangi Harbour,New Zealand North Island
@@ -3592,7 +3592,7 @@ ukhoId,ukhoName,ukhoLocation
 5084,Maimbung,Sulu Archipelago
 5682,Malaghara Island,Solomon Islands
 3894,Maintirano,Madagascar
-0621,Malahide,Ireland
+621,Malahide,Ireland
 7925A,Maisaka,Japan Honshu South Coast
 6820,Malakal Harbour,Palau Islands
 8052,Maizuru,Japan Honshu West Coast
@@ -3660,21 +3660,21 @@ ukhoId,ukhoName,ukhoLocation
 6512,Many Islands,New Zealand South Island
 2899,Margaretsville,Canada
 9426,Manzanillo,Mexico
-0103,MARGATE,England
-2503,Manzanillo, Cuba,Cuba
+103,MARGATE,England
+2503,"Manzanillo, Cuba",Cuba
 5066,Margosatubig,Philippine Islands
 7058,Maogang,China
-0880,Maria Muschbukhta,Jan Mayen
+880,Maria Muschbukhta,Jan Mayen
 5593,Mapamoiwa,Papua New Guinea
 3972,Marie Louise Island,Seychelles
 3824,Mapanda,Mozambique
 1379,Marienleuchte,Germany
-9077,Maple Bay,Canada, Vancouver Island
+9077,Maple Bay,"Canada, Vancouver Island"
 1723,Marin,Spain
 6455B,Mapua,New Zealand South Island
 2026,Marina Point,Antarctica
 3804,MAPUTO,Mozambique
-0752,Marino Point,Ireland
+752,Marino Point,Ireland
 3834,Maquivale,Mozambique
 2002,Marion Island,Antarctica
 2156A,Mar Del Ajo,Argentina
@@ -3705,7 +3705,7 @@ ukhoId,ukhoName,ukhoLocation
 5681A,Matavaghi Point,Solomon Islands
 2209,Martin Vaz Islets,Brazil
 6580A,Matavia,Iles de la Societe
-0493,Martin's Haven,Wales
+493,Martin's Haven,Wales
 2531,Mathew Town,Bahama Islands
 7883,Marugame,Japan Shikoku North Coast
 5060,Mati,Philippine Islands
@@ -3713,14 +3713,14 @@ ukhoId,ukhoName,ukhoLocation
 6401A,Matiata Bay,New Zealand North Island
 8830,Mary Island Anchorage,Revillagigedo Island
 2827,Matinicus Harbour,United States
-0433,Maryport,England
+433,Maryport,England
 3805,Matola,Mozambique
 7563,Masan,Korea West Coast
 7911,Matoya,Japan Honshu South Coast
 1603A,Maseline Pier,Channel Islands
 1253,Matre,Norway
 8145,Matsumae,Japan Hokkaido West Coast
-0254,MCDERMOTT BASE,Scotland
+254,MCDERMOTT BASE,Scotland
 8045,Matsunami,Japan Honshu West Coast
 5959,Mcewen Islet,Australia East Coast
 7913,Matsusaka,Japan Honshu South Coast
@@ -3742,8 +3742,8 @@ ukhoId,ukhoName,ukhoLocation
 7213,Mawei Gang,China
 4351,Mehegam,India West Coast
 2009,Mawson,Antarctica
-0262,Meikle Ferry,Scotland
-9074,Mayne Island (Village Bay),Canada, Vancouver Island
+262,Meikle Ferry,Scotland
+9074,Mayne Island (Village Bay),"Canada, Vancouver Island"
 9608,Mejillones Del Sur,Chile
 2648,Mayport (Bar Pilots Dock),United States
 4699,Melaka,Peninsular Malaysia West Coast
@@ -3758,14 +3758,14 @@ ukhoId,ukhoName,ukhoLocation
 3536,Mbour,Senegal
 5782,Mellish Reef,Australia
 5671,Mbungana Island,Solomon Islands
-0336,Mellon Charles,Scotland
-0717,Mellon Point,Ireland
-0232,Methil,Scotland
+336,Mellon Charles,Scotland
+717,Mellon Point,Ireland
+232,Methil,Scotland
 1459A,Mellumplate,Germany
 4812,Meulaboh,Sumatera South West Coast
 1471,Memmert,Germany
-0007,Mevagissey,England
-0473,Menai Bridge,Wales
+7,Mevagissey,England
+473,Menai Bridge,Wales
 2640A,Miami Biscayne Bay,United States
 5258,Menalu,Kalimantan
 2640,MIAMI HARBOUR,United States
@@ -3778,13 +3778,13 @@ ukhoId,ukhoName,ukhoLocation
 3395,Mercy Bay,Canadian Arctic
 5954,Middle Island,Australia East Coast
 9005,Mermaid Bay,Canada
-0186,Middlesbrough (Dock Entrance),England
+186,Middlesbrough (Dock Entrance),England
 2594,Mermentau River,United States
 8614,Middleton Island,Alaska
 1234,Merok,Norway
 5774,Middleton Reef,Australia
 6093,MERSEY RIVER (DEVONPORT),Tasmania
-0796,Midvagur,Faeroe Islands
+796,Midvagur,Faeroe Islands
 4887,Mersing,Peninsular Malaysia East Coast
 7676,Miike,Japan Kyushu West Coast
 4237,Mesaieed (Musay'id),Qatar
@@ -3792,9 +3792,9 @@ ukhoId,ukhoName,ukhoLocation
 4236,MESAIEED OUTER CHANNEL ENTRANCE,Qatar
 1746,Milfontes,Portugal
 4011,Mesali Island,Tanzania
-0496,MILFORD HAVEN,Wales
+496,MILFORD HAVEN,Wales
 1863,MESSINA,Italy
-0398,MILLPORT,Scotland
+398,MILLPORT,Scotland
 2906,Meteghan,Canada
 8928,Milne Island,Canada
 5727A,Metenovor Bay,Vanuatu
@@ -3830,12 +3830,12 @@ ukhoId,ukhoName,ukhoLocation
 7930,Minami Izu,Japan Honshu South Coast
 3117,Mistanoque,Canada
 7712A,Minami-Daito Shima,Japan Nansei Shoto
-0132,Mistley,England
+132,Mistley,England
 7949,Minami-Tori Shima,Japan Nanpo Shoto
 7678,Misumi,Japan Kyushu West Coast
-0532,Minehead,England
+532,Minehead,England
 7807,Mitajiri,Japan Honshu South Coast
-9075,Miners Bay,Canada, Vancouver Island
+9075,Miners Bay,"Canada, Vancouver Island"
 7824,Mitarai,Japan Honshu South Coast
 4595,Mingalakyun,Coco Group
 7929,Mito,Japan Honshu South Coast
@@ -3903,7 +3903,7 @@ ukhoId,ukhoName,ukhoLocation
 5873,Morris Island,Australia East Coast
 1740E,Montijo,Portugal
 2219,Morro De Sao Paulo,Brazil
-0242,MONTROSE,Scotland
+242,MONTROSE,Scotland
 3831,Morrubune,Mozambique
 5995,Mooloolaba,Australia East Coast
 8852,Morse Basin,Canada
@@ -3921,9 +3921,9 @@ ukhoId,ukhoName,ukhoLocation
 9319B,Moss Landing,United States
 3789,MOSSEL BAY,South Africa
 4702,Muar,Peninsular Malaysia West Coast
-0892,Mosselbukta,Svalbard
+892,Mosselbukta,Svalbard
 5143,Muara,Brunei
-0464,Mostyn Docks,Wales
+464,Mostyn Docks,Wales
 5232,Muara Bayur (Outer Bar),Kalimantan
 6455A,Motueka,New Zealand South Island
 5250,Muara Biwan,Kalimantan
@@ -3932,7 +3932,7 @@ ukhoId,ukhoName,ukhoLocation
 6454,Motupipi River,New Zealand South Island
 5230,Muara Pegah (Outer Bar),Kalimantan
 3396,Mould Bay,Canadian Arctic
-0270,Muckle Skerry,Scotland
+270,Muckle Skerry,Scotland
 1638A,Moulin Blanc,France
 2101A,Muelle El Turbio,Argentina
 4555,Moulmein,Burma
@@ -3943,7 +3943,7 @@ ukhoId,ukhoName,ukhoLocation
 6939,Mui Can Gio,Vietnam
 3981,Moutsamoudou,Comoro Islands
 6938,MUI VUNG TAU,Vietnam
-0655,Moville,Ireland
+655,Moville,Ireland
 9530,Muisne,Ecuador
 4486,Moyapur,India East Coast
 7576,Mukho,Korea East Coast
@@ -3952,13 +3952,13 @@ ukhoId,ukhoName,ukhoLocation
 4013,Msuka Bay,Tanzania
 6683,Mulifanua,Samoa Islands
 3980A,Mtiti,Comoro Islands
-0688,Mullaghmore,Ireland
+688,Mullaghmore,Ireland
 3985,MTWARA BAY,Tanzania
-0665,Mulroy Bay Bar,Ireland
+665,Mulroy Bay Bar,Ireland
 7475,Mu Do,Korea West Coast
 4359,MUMBAI (BOMBAY),India West Coast
 6725,Muanicula,Fiji Islands
-0508,Mumbles,Wales
+508,Mumbles,Wales
 5961A,Mumford Island,Australia East Coast
 2443,Mustique,Windward Islands
 5648,Munda (Nasa Zonga Island),Solomon Islands
@@ -3967,7 +3967,7 @@ ukhoId,ukhoName,ukhoLocation
 8004,Mutsu-Ogawara,Japan Honshu East Coast
 4038,Muqdisho (Mogadishu),Somalia
 4397,Muttam Point,India West Coast
-0888,Murchisonfjorden,Svalbard
+888,Murchisonfjorden,Svalbard
 5514A,Muturi Terminal,Papua
 1105,Murmansk,Russia
 7892,Muya-No-Seto,Japan Shikoku North Coast
@@ -3992,18 +3992,18 @@ ukhoId,ukhoName,ukhoLocation
 4365,Murud-Janjira Harbour,India West Coast
 1053,Mys Chesmenskiy,Russia
 6556,Mururoa,Tuamoto (Low) Archipelago
-0910,Mys Flora,Franz Josef Land
+910,Mys Flora,Franz Josef Land
 5012,Musa Bay,Philippine Islands
 1054,Mys Glubokiy,Russia
 4370,Musakazi Point,India West Coast
 1039,Mys Insty,Russia
 2800,Muskeget Island,United States
-0992,Mys Kamennyy,Russia
+992,Mys Kamennyy,Russia
 1028,Mys Kanin Nos,Russia
 1102,Mys Velikiy,Russia
 1041,Mys Kerets,Russia
 1037,Mys Voronov,Russia
-0990,Mys Kharse,Russia
+990,Mys Kharse,Russia
 1043,Mys Yuzhnyy,Russia
 1033,Mys Konushin,Russia
 1002,Mys Zhelaniya,Russia
@@ -4013,12 +4013,12 @@ ukhoId,ukhoName,ukhoLocation
 3731,N'zeto,Angola
 1051,Mys Letniy Orlov,Russia
 6344A,N.W. Crocodile Island,Australia North Coast
-0998,Mys Marre-Salya,Russia
+998,Mys Marre-Salya,Russia
 6017,N.W. Solitary Island,Australia East Coast
 1026A,Mys Mikulkin,Russia
 7974,Naarai,Japan Honshu East Coast
 8227,Mys Noho,Sakhalin East Coast
-0070,Nab Tower,England
+70,Nab Tower,England
 1084,Mys Orlov-Terskiy Tonkiy,Russia
 7831A,Nabe Shima,Japan Honshu South Coast
 8346,Mys Osypnoy,Siberia
@@ -4027,7 +4027,7 @@ ukhoId,ukhoName,ukhoLocation
 6717,Naboulwalu,Fiji Islands
 8241,Mys Popova,Sakhalin East Coast
 6708A,Nabukeru,Fiji Islands
-0995,Mys Ragozina,Russia
+995,Mys Ragozina,Russia
 3850,NACALA,Mozambique
 1023,Mys Russki Zavorot,Russia
 6719A,Naduri,Fiji Islands
@@ -4035,7 +4035,7 @@ ukhoId,ukhoName,ukhoLocation
 7938B,Naga Ura,Japan Honshu South Coast
 1070,Mys Solomenny,Russia
 5001,Nagabungan Bay,Philippine Islands
-0986,Mys Sopochnaya Karga,Russia
+986,Mys Sopochnaya Karga,Russia
 8524,Nagai Island,Alaska
 8383,Mys Uelen,Siberia
 4447,Nagappattinam,India East Coast
@@ -4052,7 +4052,7 @@ ukhoId,ukhoName,ukhoLocation
 7916,Nagoya,Japan Honshu South Coast
 7214,Nan-Tai,China
 7716,NAHA,Japan Nansei Shoto
-9085,Nanaimo,Canada, Vancouver Island
+9085,Nanaimo,"Canada, Vancouver Island"
 8818,Naha Bay,Revillagigedo Island
 8044,Nanao,Japan Honshu West Coast
 9224A,Nahcotta,United States
@@ -4064,10 +4064,10 @@ ukhoId,ukhoName,ukhoLocation
 6710B,Naigani,Fiji Islands
 7241,Nanjiushan,China
 3231,Nain,Labrador
-9086,Nanoose,Canada, Vancouver Island
+9086,Nanoose,"Canada, Vancouver Island"
 6714,Nairai Island,Fiji Islands
 3437,Nanortalik,Greenland West Coast
-0253,Nairn,Scotland
+253,Nairn,Scotland
 7066A,Nanshui,China
 7740,Naka-No-Shima,Japan Nansei Shoto
 1667,Nantes (Chantenay),France
@@ -4095,7 +4095,7 @@ ukhoId,ukhoName,ukhoLocation
 6719,Navidamu,Fiji Islands
 2331,Nariva River (Cocal),Trinidad
 4329,Navinal Point (Mundra),India West Coast
-0520,Narlwood Rocks,England
+520,Narlwood Rocks,England
 4331,Navlakhi,India West Coast
 7550,Narodo,Korea West Coast
 4341,Nawabandar,India West Coast
@@ -4103,7 +4103,7 @@ ukhoId,ukhoName,ukhoLocation
 6642,Nawiliwili,Hawaiian Islands
 3434B,Narsaq,Greenland West Coast
 8202,Nayoshi,Sakhalin West Coast
-9072,Narvaez Bay,Canada, Vancouver Island
+9072,Narvaez Bay,"Canada, Vancouver Island"
 8472,Nazan Bay,Aleutian Islands
 1188,NARVIK,Norway
 1738,Nazare,Portugal
@@ -4111,7 +4111,7 @@ ukhoId,ukhoName,ukhoLocation
 7733,Naze,Japan Nansei Shoto
 5077,Nasipit Harbour,Philippine Islands
 5713,Ndendo Island,Santa Cruz Islands
-9032,Nasparti Inlet,Canada, Vancouver Island
+9032,Nasparti Inlet,"Canada, Vancouver Island"
 4250D,Ne Fasht Al Adhm,Bahrain
 2553,Nassau,Bahama Islands
 4562A,Ne Of North Ledge,Burma
@@ -4128,13 +4128,13 @@ ukhoId,ukhoName,ukhoLocation
 6458,Nelson,New Zealand South Island
 2602A,New Orleans,United States
 6029,Nelson Bay,Australia East Coast
-0488,New Quay,Wales
+488,New Quay,Wales
 8111,Nemuro,Japan Hokkaido East Coast
 6505,New River Entrance,New Zealand South Island
 1480,Nes,Netherlands
 2673,New River Inlet,United States
-0856,Nes Farm,Iceland
-0763,New Ross,Ireland
+856,Nes Farm,Iceland
+763,New Ross,Ireland
 1206,Nesna,Norway
 9138,New Westminster,Canada
 9238,Nestucca Bay Entrance,United States
@@ -4148,17 +4148,17 @@ ukhoId,ukhoName,ukhoLocation
 2287,New Amsterdam,Guyana
 6031,NEWCASTLE,Australia East Coast
 2786,New Bedford,United States
-0630,Newcastle (N.Ireland),Northern Ireland
+630,Newcastle (N.Ireland),Northern Ireland
 3657,New Calabar River Bar,Nigeria
-0203,Newcastle-Upon-Tyne,England
+203,Newcastle-Upon-Tyne,England
 2773,NEW HAVEN HARBOUR,United States
-0083,NEWHAVEN,England
+83,NEWHAVEN,England
 0109D,New Hythe,England
 2498A,Newlands Barcadere,Cayman Islands
 2079,New Island,Falkland Islands
 3174,Newman Sound,Newfoundland
 2776,New London,United States
-0515,Newport,Wales
+515,Newport,Wales
 0060B,Newport (Isle Of Wight),England
 8037,Niigata (Nishi Ku),Japan Honshu West Coast
 2781,Newport (Rhode Island),United States
@@ -4167,11 +4167,11 @@ ukhoId,ukhoName,ukhoLocation
 8573,Nikiski,Alaska
 9357,Newport Beach,United States
 8347,Nikolskoye,Siberia
-0546,NEWQUAY,England
+546,NEWQUAY,England
 5638,Nikomaroro,Solomon Islands
 0628A,Newry (Victoria Lock),Northern Ireland
 4970,Nin Bay,Philippine Islands
-0497,Neyland,Wales
+497,Neyland,Wales
 7258,Ningbo Gang,China
 8033A,Nezugaseki,Japan Honshu West Coast
 7788A,Nishi-Oita,Japan Kyushu North Coast
@@ -4229,16 +4229,16 @@ ukhoId,ukhoName,ukhoLocation
 6245,North Muiron Island,Australia North Coast
 1469,Norderney (Riffgat),Germany
 6318,North Peron Island,Australia North Coast
-0861,Nordfjordhur (Nes),Iceland
-9306A,North Point, Pier 41,United States
-0784,Nordskali,Faeroe Islands
+861,Nordfjordhur (Nes),Iceland
+9306A,"North Point, Pier 41",United States
+784,Nordskali,Faeroe Islands
 6251,North Sandy Island,Australia North Coast
-1429,Nordstrand, Strucklahnungshorn,Germany
+1429,"Nordstrand, Strucklahnungshorn",Germany
 9270,North Spit,United States
 5770,Norfolk Island,Australia
 3419,North Star Bay,Greenland West Coast
 1262,Norheimsund,Norway
-0207,North Sunderland (Northumberland),England
+207,North Sunderland (Northumberland),England
 2969,North Sydney,Canada
 8206,Notsu Misaki,Sakhalin West Coast
 6250A,North West Island,Australia North Coast
@@ -4247,7 +4247,7 @@ ukhoId,ukhoName,ukhoLocation
 3529,Nouadhibou,Mauritania
 3220A,North West River,Labrador
 3532,Nouakchott,Mauritania
-0112,NORTH WOOLWICH,England
+112,NORTH WOOLWICH,England
 5759,Noumea,New Caledonia
 0068A,Northney,England
 2213,Nova Vicosa,Brazil
@@ -4281,7 +4281,7 @@ ukhoId,ukhoName,ukhoLocation
 7969,O Shima (Habu),Japan Nanpo Shoto
 7968,O Shima (Okada),Japan Nanpo Shoto
 7986A,Oginohama,Japan Honshu East Coast
-9066,Oak Bay,Canada, Vancouver Island
+9066,Oak Bay,"Canada, Vancouver Island"
 7659,Ogushi,Japan Kyushu West Coast
 9306,Oakland (Grove Street),United States
 8009,Ohata,Japan Honshu East Coast
@@ -4289,7 +4289,7 @@ ukhoId,ukhoName,ukhoLocation
 9336,Oil Platform Harvest,United States
 8051,Obama,Japan Honshu West Coast
 7788,Oita (Tsurusaki),Japan Kyushu North Coast
-0372,OBAN,Scotland
+372,OBAN,Scotland
 6521,Okarito,New Zealand South Island
 7812,Obatake,Japan Honshu South Coast
 4335,OKHA,India West Coast
@@ -4308,7 +4308,7 @@ ukhoId,ukhoName,ukhoLocation
 1961,Odessa,Ukraine
 6479A,Okukari Bay,New Zealand South Island
 4275,Odin Point,Iraq
-0848,Olafsfjordhur,Iceland
+848,Olafsfjordhur,Iceland
 7750,Odomari,Japan Kyushu East Coast
 0825A,Olafsvik,Iceland
 7992,Ofunato,Japan Honshu East Coast
@@ -4359,9 +4359,9 @@ ukhoId,ukhoName,ukhoLocation
 2372,Oranjestad,Aruba
 5973A,One Tree Island,Australia East Coast
 2676,Oregon Inlet Marina,United States
-0136,Orford Haven Bar,England
+136,Orford Haven Bar,England
 1059,Ostrov Berezhnoy Borshovets,Russia
-0137,Orford Ness,England
+137,Orford Ness,England
 1017,Ostrov Dolgiy,Russia
 0136A,Orford Quay,England
 8283,Ostrov Kharimkotan,Kuril Islands
@@ -4371,7 +4371,7 @@ ukhoId,ukhoName,ukhoLocation
 1062,Ostrov Konev,Russia
 6797,Oroluk Island,Caroline Islands
 1027,Ostrov Korga,Russia
-0379,Orsay,Scotland
+379,Orsay,Scotland
 1058,Ostrov Mal Korepalka,Russia
 1888,Ortona,Italy
 1061,Ostrov Molchanov,Russia
@@ -4380,7 +4380,7 @@ ukhoId,ukhoName,ukhoLocation
 1260A,Os,Norway
 1036,Ostrov Morzhovets,Russia
 7847,Osaka,Japan Honshu South Coast
-0987,Ostrov Nasonovskiy,Russia
+987,Ostrov Nasonovskiy,Russia
 5961,Osborn Islet,Australia East Coast
 1057,Ostrov Paskanets,Russia
 1298,Oscarsborg,Norway
@@ -4400,9 +4400,9 @@ ukhoId,ukhoName,ukhoLocation
 1064,Ostrov Anzerskiy,Russia
 8239,Ostrov Tyuleniy,Sakhalin East Coast
 1021,Ostrov Varandyey,Russia
-0289,Out Skerries,Scotland
+289,Out Skerries,Scotland
 1083,Ostrov Veshnyak,Russia
-0163,Outer Westmark Knock,England
+163,Outer Westmark Knock,England
 1101,OSTROV YEKATERININSKIY,Russia
 2847,Outer Wood Island,Canada
 1066,Ostrov Yuzhnyy Rombak,Russia
@@ -4412,7 +4412,7 @@ ukhoId,ukhoName,ukhoLocation
 6496,Otago Harbour Entrance (Spit Wharf),New Zealand South Island
 0178A,Owston Ferry,England
 8867,Otard Bay,Graham Island
-0785,Oyndarfjordur,Faeroe Islands
+785,Oyndarfjordur,Faeroe Islands
 8136,OTARU,Japan Hokkaido West Coast
 2666A,Oyster Landing,United States
 7935A,Otawa Wan,Japan Honshu South Coast
@@ -4441,7 +4441,7 @@ ukhoId,ukhoName,ukhoLocation
 4573,Padaw-Aw,Burma
 2584,Padre Island,United States
 1780,Palma De Mallorca,Spain
-0545,Padstow,England
+545,Padstow,England
 6620,Palmyra Island,Line Islands
 7470,Paengnyong Do,Korea West Coast
 5050,Palompon,Philippine Islands
@@ -4449,7 +4449,7 @@ ukhoId,ukhoName,ukhoLocation
 4937,Paluan,Philippine Islands
 6836,Pagan Island,Marianas Islands
 4925,Paly Island,Philippine Islands
-0072,Pagham,England
+72,Pagham,England
 5745,Pam Bay,New Caledonia
 6677,PAGO PAGO,Samoa Islands
 4425,Pamban Pass,India South Coast
@@ -4476,7 +4476,7 @@ ukhoId,ukhoName,ukhoLocation
 1867,PALERMO,Italy
 1475B,Papenburg,Germany
 2642,Palm Beach (Port),United States
-0868,Papey,Iceland
+868,Papey,Iceland
 3862,Palma (Baia De Tungue),Mozambique
 0007A,Par,England
 7050,Paracel Islands,China
@@ -4504,7 +4504,7 @@ ukhoId,ukhoName,ukhoLocation
 2885,Parrsboro,Canada
 9156,Patos Island (Alden Point),United States
 6120,Parsons Bay,Tasmania
-9068,Patricia Bay,Canada, Vancouver Island
+9068,Patricia Bay,"Canada, Vancouver Island"
 4978,Pasacao,Philippine Islands
 5014,Patunungan Bay,Philippine Islands
 1694,Pasajes,Spain
@@ -4521,27 +4521,27 @@ ukhoId,ukhoName,ukhoLocation
 2817,Peaks Island,United States
 3380,Pearce Point,Canadian Arctic
 4862,Pelabuhan Pangkalbalam,Pulau Bangka
-6316,Pearce Point, Australia,Australia North Coast
+6316,"Pearce Point, Australia",Australia North Coast
 5181,Pelabuhan Serasan,Tudjuh Kepulauan
 5085,Pearl Bank,Sulu Archipelago
 2561,Pelican Harbour,Bahama Islands
 2407,Pearl Cays,Nicaragua
 6310,Pelican Island,Australia North Coast
 6196,Pearson Island,Australia South Coast
-5876,Pelican Island, Queensland,Australia East Coast
+5876,"Pelican Island, Queensland",Australia East Coast
 9153,Peavine Pass,United States
-1427,Pellworm, Anleger,Germany
+1427,"Pellworm, Anleger",Germany
 2083A,Pebble Island,Falkland Islands
 6467,Pelorus Sound Entrance,New Zealand South Island
 2242A,PECEM,Brazil
 5191,Pemangkat,Kalimantan
-9063,Pedder Bay,Canada, Vancouver Island
+9063,Pedder Bay,"Canada, Vancouver Island"
 3855,PEMBA,Mozambique
 1740B,Pedroucos,Portugal
 5176A,Penagi,Bunguran
 6274A,Pee Shoal,Australia North Coast
 9125,Pender Harbour,Canada
-0466,Peel,Isle of Man
+466,Peel,Isle of Man
 6308,Pender Point,Australia North Coast
 5210,Pegatan,Kalimantan
 5170,Pending,Sarawak
@@ -4563,8 +4563,8 @@ ukhoId,ukhoName,ukhoLocation
 2997,PICTOU,Canada
 5725,Pentecost Island,Vanuatu
 6132,Pieman River,Tasmania
-0002,PENZANCE (NEWLYN),England
-0277,Pierowall,Scotland
+2,PENZANCE (NEWLYN),England
+277,Pierowall,Scotland
 3582,Pepel,Sierra Leone
 3252A,Pikyulik Island,Labrador
 4850,Peradjin,Sumatera East Coast
@@ -4583,7 +4583,7 @@ ukhoId,ukhoName,ukhoLocation
 4688,Pintu Gedong,Peninsular Malaysia West Coast
 1890,Pesaro,Italy
 3122,Pinware Bay,Canada
-0245,PETERHEAD,Scotland
+245,PETERHEAD,Scotland
 1852A,Piombino,Italy
 8749,Petersburg,Kupreanof Island
 4343,Pipavav Bandar,India West Coast
@@ -4599,7 +4599,7 @@ ukhoId,ukhoName,ukhoLocation
 9579,PISCO,Peru
 6477,Picton,New Zealand South Island
 5921,Pith Reef,Australia East Coast
-0951,Pitlekaj,Russia
+951,Pitlekaj,Russia
 6007,Point Danger,Australia East Coast
 6034,Pittwater,Australia East Coast
 6332A,Point Fawcett (Offshore),Australia North Coast
@@ -4611,7 +4611,7 @@ ukhoId,ukhoName,ukhoLocation
 6334B,Point Jahleel,Australia North Coast
 1908A,Ploce,Croatia
 6319,Point Jenny,Australia North Coast
-0339,Plockton,Scotland
+339,Plockton,Scotland
 2780,Point Judith,United States
 1626,Ploumanac'h,France
 9364,Point Loma,United States
@@ -4619,12 +4619,12 @@ ukhoId,ukhoName,ukhoLocation
 2700,Point Lookout,United States
 2339,Plymouth,Tobago
 9145,Point Migley,United States
-0014,PLYMOUTH (DEVONPORT),England
+14,PLYMOUTH (DEVONPORT),England
 6243,Point Murat,Australia North Coast
 2806,Plymouth Harbour,United States
 9191,Point No Point,United States
 6931,Pnom Penh,Vietnam
-9061,Point No Point (Vancouver Island),Canada, Vancouver Island
+9061,Point No Point (Vancouver Island),"Canada, Vancouver Island"
 7570,Pohang,Korea East Coast
 9169,Point Partridge,United States
 6795,Pohnpei Harbour,Caroline Islands
@@ -4683,7 +4683,7 @@ ukhoId,ukhoName,ukhoLocation
 8664,Port Althorp,Chicagof Island
 5194,Pontianak Outer Bar (Kleine Kapoeas),Kalimantan
 3733,Port Ambriz,Angola
-0036,Poole (Entrance),England
+36,Poole (Entrance),England
 5030,Port Anajao,Philippine Islands
 0036A,POOLE HARBOUR,England
 9204,Port Angeles,United States
@@ -4692,13 +4692,13 @@ ukhoId,ukhoName,ukhoLocation
 4338,Porbandar,India West Coast
 2492,Port Antonio,Jamaica
 6443,Porirua Harbour (Mana Cruising Club),New Zealand North Island
-0370,Port Appin,Scotland
-9076,Porlier Pass,Canada, Vancouver Island
+370,Port Appin,Scotland
+9076,Porlier Pass,"Canada, Vancouver Island"
 2586A,Port Aransas,United States
-0533,Porlock Bay,England
+533,Porlock Bay,England
 2586,Port Aransas (Caldwell Pier),United States
 1668,Pornic,France
-0382,Port Askaig,Scotland
+382,Port Askaig,Scotland
 1663A,Pornichet,France
 2477,Port Au Prince,Haiti
 8235,Poronaysk,Sakhalin East Coast
@@ -4707,11 +4707,11 @@ ukhoId,ukhoName,ukhoLocation
 3140,Port Aux Basques,Newfoundland
 6160,PORT ADELAIDE (OUTER HARBOUR),Australia South Coast
 8589,Port Bainbridge (Hogg Bay),Alaska
-9057,PORT ALBERNI,Canada, Vancouver Island
+9057,PORT ALBERNI,"Canada, Vancouver Island"
 4940,Port Balanacan,Philippine Islands
 3071,PORT ALFRED,Canada
 8695,Port Banks,Baranof Island
-3794,Port Alfred, South Africa,South Africa
+3794,"Port Alfred, South Africa",South Africa
 4971,Port Barrera,Philippine Islands
 8790,Port Alice,Prince of Wales Island
 3788,Port Beaufort,South Africa
@@ -4733,12 +4733,12 @@ ukhoId,ukhoName,ukhoLocation
 6581,Port De Fare,Iles de la Societe
 2644,Port Canaveral,United States
 3150,Port De St. Pierre,Newfoundland
-8900,Port Canaveral, Canada,Canada
+8900,"Port Canaveral, Canada",Canada
 6228,Port Denison,Australia South Coast
-0489,Port Cardigan,Wales
+489,Port Cardigan,Wales
 4695,PORT DICKSON,Peninsular Malaysia West Coast
 3101,Port Cartier,Canada
-0474,Port Dinorwic,Wales
+474,Port Dinorwic,Wales
 6497,Port Chalmers,New Zealand South Island
 5904,Port Douglas,Australia East Coast
 8591,Port Chalmers (Prince William Sound),Alaska
@@ -4754,12 +4754,12 @@ ukhoId,ukhoName,ukhoLocation
 8390,Port Clarence,Alaska
 2741C,Port Elizabeth (Newark Bay),United States
 5965,Port Clinton,Australia East Coast
-0381,Port Ellen,Scotland
+381,Port Ellen,Scotland
 9139,Port Coquitlam,Canada
 0469A,Port Erin,Isle of Man
 4605,Port Cornwallis,Andaman Islands
 2484,Port Esquivel,Jamaica
-6337,Port Essington, Australia,Australia North Coast
+6337,"Port Essington, Australia",Australia North Coast
 5747,Port Hienghene,New Caledonia
 8610,Port Etches,Alaska
 5080,Port Holland,Sulu Archipelago
@@ -4771,7 +4771,7 @@ ukhoId,ukhoName,ukhoLocation
 2074B,Port Howard,Falkland Islands
 6168,Port Giles,Australia South Coast
 9342,Port Hueneme,United States
-0405,Port Glasgow,Scotland
+405,Port Glasgow,Scotland
 0544A,Port Isaac,England
 8577A,Port Graham,Alaska
 2585,Port Isabel,United States
@@ -4787,11 +4787,11 @@ ukhoId,ukhoName,ukhoLocation
 1671,Port Joinville,France
 3664,Port Harcourt,Nigeria
 5027,Port Jose Panganiban,Philippine Islands
-9020,Port Hardy,Canada, Vancouver Island
+9020,Port Hardy,"Canada, Vancouver Island"
 3571,PORT KAMSAR,Guinea
 8984,Port Harvey,Canada
 6317,Port Keats,Australia North Coast
-5595,Port Harvey, Papa New Guinea,Papua New Guinea
+5595,"Port Harvey, Papa New Guinea",Papua New Guinea
 6042,Port Kembla,Australia East Coast
 2958,Port Hastings,Canada
 8209,PORT KHOLMSK,Sakhalin West Coast
@@ -4813,7 +4813,7 @@ ukhoId,ukhoName,ukhoLocation
 1656,Port Navalo,France
 8868,Port Louis (Queen Charlotte Islands),Graham Island
 6188,Port Neill,Australia South Coast
-3956,Port Louis, Mauritius,Mauritius Group
+3956,"Port Louis, Mauritius",Mauritius Group
 3281,Port Nelson,Labrador
 9197,Port Ludlow,United States
 8211,Port Nevel'sk,Sakhalin West Coast
@@ -4825,17 +4825,17 @@ ukhoId,ukhoName,ukhoLocation
 6158,Port Noarlunga,Australia South Coast
 4576,Port Maria,Burma
 3773,Port Nolloth,South Africa
-1653A,Port Maria, France,France
+1653A,"Port Maria, France",France
 2587A,Port O'connor,United States
 3205,Port Marnham,Labrador
-0523,PORT OF BRISTOL (AVONMOUTH),England
+523,PORT OF BRISTOL (AVONMOUTH),England
 2013A,Port Martin,Antarctica
 9253,Port Of Coos Bay,United States
 4990,Port Masinloc,Philippine Islands
 1067,PORT OF KEM',Russia
 8734,Port Mcarthur,Kuiu Island
 2321,PORT OF SPAIN,Trinidad
-9018,Port Mcneill,Canada, Vancouver Island
+9018,Port Mcneill,"Canada, Vancouver Island"
 6418,Port Ohope Wharf,New Zealand North Island
 3055,Port Menier,Canada
 9256,Port Orford,United States
@@ -4861,20 +4861,20 @@ ukhoId,ukhoName,ukhoLocation
 3797,Port St. John's,South Africa
 2483,Port Royal,Jamaica
 0468A,Port St. Mary,Isle of Man
-2418,Port Royal, Honduras,Honduras
+2418,"Port Royal, Honduras",Honduras
 6158A,Port Stanvac,Australia South Coast
 5005,Port S. Vicente,Philippine Islands
 2077B,Port Stephens,Falkland Islands
 1991,PORT SAID (BUR SA'ID),Egypt
-8899,Port Stephens, Canada,Canada
+8899,"Port Stephens, Canada",Canada
 4168,PORT SALALAH,Oman
 4088,Port Sudan,Sudan
 2070,Port Salvador Entrance,Falkland Islands
 4186A,PORT SULTAN QABOOS,Oman
 2072,Port San Carlos,Falkland Islands
-0164,Port Sutton Bridge,England
-9060,Port San Juan (Port Renfrew),Canada, Vancouver Island
-0510,PORT TALBOT,Wales
+164,Port Sutton Bridge,England
+9060,Port San Juan (Port Renfrew),"Canada, Vancouver Island"
+510,PORT TALBOT,Wales
 9331,Port San Luis,United States
 6366,Port Taranaki,New Zealand North Island
 5013,Port San Pio Quinto,Philippine Islands
@@ -4884,29 +4884,29 @@ ukhoId,ukhoName,ukhoLocation
 1652,Port Tudy,France
 3035,Portage Island,Canada
 6175,Port Turton,Australia South Coast
-0636,Portavogie,Northern Ireland
+636,Portavogie,Northern Ireland
 6482,Port Underwood,New Zealand South Island
 1611A,Portbail,France
 3172,Port Union,Newfoundland
-0481,Porth Dinllaen,Wales
+481,Porth Dinllaen,Wales
 1782,Port Vendres,France
 0479A,Porth Trecastell,Wales
 3967,PORT VICTORIA,Seychelles
 0481A,Porth Ysgaden,Wales
 6176,Port Victoria (Spencer Gulf),Australia South Coast
-0512,Porthcawl,Wales
+512,Porthcawl,Wales
 5732,PORT VILA,Vanuatu
-0491,Porthgain,Wales
+491,Porthgain,Wales
 6167,Port Vincent,Australia South Coast
 0002A,Porthleven,England
 1108,Port Vladimir,Russia
-0484,Porthmadog,Wales
+484,Porthmadog,Wales
 6256,Port Walcott,Australia North Coast
 1749A,Portimao,Portugal
 8690,Port Walter,Baranof Island
 0524A,Portishead,England
 6301,Port Warrender,Australia North Coast
-0033,PORTLAND,England
+33,PORTLAND,England
 4670,Port Weld,Peninsular Malaysia West Coast
 2816,Portland (Casco Bay),United States
 6057,Port Welshpool,Australia East Coast
@@ -4918,10 +4918,10 @@ ukhoId,ukhoName,ukhoLocation
 2006,Port-Aux-Francais,Antarctica
 5866,Portland Road,Australia East Coast
 1595,Port-En-Bessin,France
-6141,Portland, Australia,Australia South Coast
-0261,Portmahomack,Scotland
+6141,"Portland, Australia",Australia South Coast
+261,Portmahomack,Scotland
 2221A,Porto De Madre De Deus,Brazil
-0300,Portnancon,Scotland
+300,Portnancon,Scotland
 3838,Porto De Moebase,Mozambique
 3095A,Portneuf,Canada
 2252B,Porto De Mosqueiro,Brazil
@@ -4973,23 +4973,23 @@ ukhoId,ukhoName,ukhoLocation
 6377,Pouto Point,New Zealand North Island
 3564,Porto Uana,Guinea-Bissau
 1732,Povoa De Varzim,Portugal
-0415,Portpatrick,Scotland
+415,Portpatrick,Scotland
 3466A,Praia Da Vitoria,Azores
-0342,Portree,Scotland
+342,Portree,Scotland
 3965B,Praslin,Seychelles
 1619,Portrieux,France
 7152,Pratas,China
-0652,Portrush,Northern Ireland
-9079A,Preedy Harbour,Canada, Vancouver Island
+652,Portrush,Northern Ireland
+9079A,Preedy Harbour,"Canada, Vancouver Island"
 1633A,Portsall,France
-6511,Preservation Inlet, Coal Island,New Zealand South Island
-0065,PORTSMOUTH,England
-0446,Preston,England
+6511,"Preservation Inlet, Coal Island",New Zealand South Island
+65,PORTSMOUTH,England
+446,Preston,England
 0065A,PORTSMOUTH (HIGH WATER STAND),England
 2439A,Prickly Bay,Windward Islands
 2683,Portsmouth (James River),United States
 9893,Primera Angostura,Chile
-2450A,Portsmouth, Dominica,Leeward Islands
+2450A,"Portsmouth, Dominica",Leeward Islands
 3767,Prince Of Wales Bay,Namibia
 1700,PORTUGALETE (BILBAO),Spain
 8850,PRINCE RUPERT,Canada
@@ -5110,9 +5110,9 @@ ukhoId,ukhoName,ukhoLocation
 9828,Puerto Overend,Chile
 2136,Puerto San Antonio,Argentina
 2518,Puerto Padre,Cuba
-9867,Puerto San Antonio, Chile,Chile
+9867,"Puerto San Antonio, Chile",Chile
 9642,Puerto Papudo,Chile
-9646,Puerto San Antonio, Santiago,Chile
+9646,"Puerto San Antonio, Santiago",Chile
 9411,Puerto Penasco,Mexico
 2140,Puerto San Blas,Argentina
 9729,Puerto Perez,Archipelago de los Chonos
@@ -5153,7 +5153,7 @@ ukhoId,ukhoName,ukhoLocation
 4859,Pulau Besar,Pulau Bangka
 9988,Puerto Williams,Chile
 4592,Pulau Besin,Burma
-9846,Puerto Williams, Chile,Chile
+9846,"Puerto Williams, Chile",Chile
 4659,Pulau Bidan,Peninsular Malaysia West Coast
 9873,Puerto Yartou,Chile
 4854,Pulau Cebia,Sumatera East Coast
@@ -5247,7 +5247,7 @@ ukhoId,ukhoName,ukhoLocation
 2150,Punta Tejada,Argentina
 2128,Punta Delgada,Argentina
 2468,Punta Tuna,Puerto Rico
-9893A,Punta Delgada, Chile,Chile
+9893A,"Punta Delgada, Chile",Chile
 2305,Punta Waini,Guyana
 2199,Punta Do Imbui,Brazil
 2390,Punta Yarumal,Colombia
@@ -5266,7 +5266,7 @@ ukhoId,ukhoName,ukhoLocation
 9584,Punta Lomas,Peru
 4712,Putri Narrows,Peninsular Malaysia South Coast
 2101,PUNTA LOYOLA (PUERTO GALLEGOS),Argentina
-0483,Pwllheli,Wales
+483,Pwllheli,Wales
 9484,Punta Mala,Panama
 8724,Pybus Bay,Admiralty Island
 2156,Punta Medanos,Argentina
@@ -5294,7 +5294,7 @@ ukhoId,ukhoName,ukhoLocation
 7250,Qingzi Men,China
 6966,Qui Nhon,Vietnam
 7377,QINHUANGDAO,China
-0656,Quigley's Point,Ireland
+656,Quigley's Point,Ireland
 7019,Qinzhou,China
 1585,Quillebeuf,France
 4165,Qishn,Republic of Yemen
@@ -5317,10 +5317,10 @@ ukhoId,ukhoName,ukhoLocation
 4106,Ra's Gharib,Egypt
 9366,Quarantine Station,United States
 4051,Ra's Qalansiyah,Suqutra
-9027,Quatsino,Canada, Vancouver Island
+9027,Quatsino,"Canada, Vancouver Island"
 4110,Ra's Za'faranah,Egypt
 4056,Raas Caseyr (Capo Guardafui),Somalia
-0975,Rade De Zarya,Russia
+975,Rade De Zarya,Russia
 4048,Raas Xaafuun,Somalia
 3324A,Radstock Bay,Canadian Arctic
 3509,Rabat,Morocco
@@ -5338,11 +5338,11 @@ ukhoId,ukhoName,ukhoLocation
 9657,Rada Buchupureo,Chile
 1520B,Rak (North),Netherlands
 9656,Rada Curanipe,Chile
-0467,Ramsey,Isle of Man
+467,Ramsey,Isle of Man
 9606,Rada De Cobija,Chile
-0492,Ramsey Sound,Wales
+492,Ramsey Sound,Wales
 9652,Rada De Llico,Chile
-0102,RAMSGATE,England
+102,RAMSGATE,England
 9915,Rada Noir,Chile
 4737,Ramunia Jetty,Peninsular Malaysia South Coast
 9614,Rada Paposo,Chile
@@ -5356,7 +5356,7 @@ ukhoId,ukhoName,ukhoLocation
 3941,Rade D'angontsy,Madagascar
 6574,Rapa (Haurei),Iles Australes
 3942,Rade D'antalaha,Madagascar
-0276,Rapness,Scotland
+276,Rapness,Scotland
 1596,Rade De La Capelle,France
 6598,Rarotonga (Avarua Harbour),Cook Islands South
 4246,Ras 'ushayrij,Qatar
@@ -5380,13 +5380,13 @@ ukhoId,ukhoName,ukhoLocation
 4309,Ras Al Kuh,Iran
 1342,Ratan,Sweden
 4171,Ras Al Madrakah,Oman
-0664,Rathmullan,Ireland
+664,Rathmullan,Ireland
 4261C,Ras Al Qulay'ah,Kuwait
 4369,Ratnagiri Bay,India West Coast
 4258,Ras As Saffaniyah,Saudi Arabia
 8771,Ratz Harbour,Prince of Wales Island
 4182C,Ras Ash Shajar,Oman
-0852,Raufarhofn,Iceland
+852,Raufarhofn,Iceland
 4196,Ras Dillah,Oman
 1890A,Ravenna,Italy
 1843,Ras El Ketef,Tunisia
@@ -5401,25 +5401,25 @@ ukhoId,ukhoName,ukhoLocation
 2152,Recalada,Argentina
 6126,Recherche Bay,Tasmania
 1089,Reka Drozdovka,Russia
-0904,Recherchefjorden,Svalbard
+904,Recherchefjorden,Svalbard
 1026,Reka Indiga,Russia
 2229,RECIFE,Brazil
 1091,Reka Kharlovka,Russia
-0643,Red Bay,Northern Ireland
+643,Red Bay,Northern Ireland
 1031,Reka Kiya Mouth,Russia
 2651A,Red Bay Point,United States
 1074,Reka Kovda,Russia
-3123,Red Bay, Canada,Canada
+3123,"Red Bay, Canada",Canada
 1038,Reka Megra,Russia
 6268,Red Bluff,Australia North Coast
 1024,Reka Pechora,Russia
 5836,Red Island,Australia
-0989,Reka Sabule-Yaga,Russia
-0063,Redbridge,England
+989,Reka Sabule-Yaga,Russia
+63,Redbridge,England
 1079,Reka Varzuga,Russia
 6182,Redcliff,Australia South Coast
 5331,Rembang,Jawa North Coast
-0431,Redkirk,Scotland
+431,Redkirk,Scotland
 7206,Ren Yu,China
 9107,Redonda Bay,Canada
 3144,Rencontre Bay,Newfoundland
@@ -5446,11 +5446,11 @@ ukhoId,ukhoName,ukhoLocation
 8198,Reyd Aleksandrovskiy,Sakhalin West Coast
 2686,Richmond (Chesapeake Bay),United States
 0828A,Reykanes,Iceland
-0116,Richmond Lock,England
-0840,Reykjarfjordhur,Iceland
-9295C,Richmond, Inner Harbour,United States
-0819,REYKJAVIK,Iceland
-0825,Rif,Iceland
+116,Richmond Lock,England
+840,Reykjarfjordhur,Iceland
+9295C,"Richmond, Inner Harbour",United States
+819,REYKJAVIK,Iceland
+825,Rif,Iceland
 2710,Rhode River,United States
 3428,Rifkol Island,Greenland West Coast
 0402A,Rhu Marina,Scotland
@@ -5458,11 +5458,11 @@ ukhoId,ukhoName,ukhoLocation
 2102,Ria Coig,Argentina
 1898,RIJEKA (FIUME),Croatia
 1718,Ria De Corme E Laxe,Spain
-9047,Riley Cove,Canada, Vancouver Island
+9047,Riley Cove,"Canada, Vancouver Island"
 1754,RIA DE HUELVA BAR,Spain
-9306B,Rincon Point, Pier 22½,United States
+9306B,"Rincon Point, Pier 22½",United States
 1702,Ria De Santona,Spain
-0751,Ringaskiddy,Ireland
+751,Ringaskiddy,Ireland
 1704,Ria De Suances,Spain
 5729,Ringdove Bay,Vanuatu
 1706,Ria De Tina Mayor,Spain
@@ -5477,15 +5477,15 @@ ukhoId,ukhoName,ukhoLocation
 2200,RIO DE JANEIRO,Brazil
 3801,RICHARDS BAY,South Africa
 3677,Rio Del Rey Entrance,Cameroon
-0099,Richborough,England
+99,Richborough,England
 1734,Rio Douro Entrance,Portugal
 2422,Rio Dulce Entrance,Guatemala
-0185,RIVER TEES ENTRANCE,England
+185,RIVER TEES ENTRANCE,England
 2179,RIO GRANDE,Brazil
-0202,RIVER TYNE (NORTH SHIELDS),England
+202,RIVER TYNE (NORTH SHIELDS),England
 2097,Rio Grande (Puerto),Argentina
-0017,River Yealm Entrance,England
-2096,Rio Grande Entrance, Argentina,Argentina
+17,River Yealm Entrance,England
+2096,"Rio Grande Entrance, Argentina",Argentina
 2744A,Riverdale (Hudson River),United States
 1756,Rio Guadalquivir Bar (Chipiona),Spain
 3074,Riviere Du Loup,Canada
@@ -5504,41 +5504,41 @@ ukhoId,ukhoName,ukhoLocation
 2385,Riohacha,Colombia
 1450A,Robbensudsteert,Germany
 1277,Risavika,Norway
-0748,Roberts Cove,Ireland
+748,Roberts Cove,Ireland
 1291,Risor,Norway
 1678,Rochefort,France
 1178,Risoyhamn,Norway
 0109B,Rochester (Strood Pier),England
 5427,Ritabel Bay,Sermata Eilanden
 0121B,Rochford,England
-0623,River Boyne Entrance,Ireland
+623,River Boyne Entrance,Ireland
 5973B,Rock Cod Shoal,Australia East Coast
-0658,RIVER FOYLE (LISAHALLY),Northern Ireland
-0324,Rockall,Scotland
+658,RIVER FOYLE (LISAHALLY),Northern Ireland
+324,Rockall,Scotland
 0509A,River Neath Entrance,Wales
 2831,Rockland,United States
-0235,River Tay Bar,Scotland
+235,River Tay Bar,Scotland
 2812A,Rockport,United States
 2586B,Rockport (Gulf Of Mexico),United States
 1267A,Rosendal,Norway
 8604,Rocky Point,Alaska
-0402,Rosneath,Scotland
+402,Rosneath,Scotland
 6404,Rocky Point (Thames),New Zealand North Island
-0767,ROSSLARE EUROPORT,Ireland
+767,ROSSLARE EUROPORT,Ireland
 1976,Rodos,Grecian Archipelago
 5966,Rosslyn Bay,Australia East Coast
 3959,Rodrigues,Mauritius Group
 1186,Rost,Norway
 1200,Rognan,Norway
-0227,ROSYTH,Scotland
+227,ROSYTH,Scotland
 1905,Rogoznica,Croatia
 1760,Rota,Spain
 6776A,Roi-Namur Island,Marshall Islands
 6828,Rota Island,Marianas Islands
 4943,Romblon Island,Philippine Islands
 2022,Rothera Point,Antarctica
-0304,Rona,Scotland
-0399,Rothesay Bay,Scotland
+304,Rona,Scotland
+399,Rothesay Bay,Scotland
 6783,Rongelap Atoll,Marshall Islands
 1508,ROTTERDAM,Netherlands
 6782,Rongerik Atoll,Marshall Islands
@@ -5547,14 +5547,14 @@ ukhoId,ukhoName,ukhoLocation
 6740,Rotuma Island,Fiji Islands
 1528,Roompot Buiten,Netherlands
 1589,Rouen,France
-0700,Roonah Quay,Ireland
+700,Roonah Quay,Ireland
 5977A,Round Hill Head,Australia East Coast
 8974,Root Point,Canada
 5819,Round Island,Australia
 1213,Rorvik,Norway
 4176A,Rounders Bay,Oman
 1630,Roscoff,France
-0705,Roundstone Bay,Ireland
+705,Roundstone Bay,Ireland
 8878,Rose Harbour,Moresby Island
 5648A,Roviana Lagoon (Mbaraulu),Solomon Islands
 6351C,Rose River,Australia North Coast
@@ -5564,23 +5564,23 @@ ukhoId,ukhoName,ukhoLocation
 2551,Royal Island Harbour,Bahama Islands
 3984,Ruvuma Bay,Tanzania
 1680,Royan,France
-0058,Ryde,England
+58,Ryde,England
 1542,Royersluis,Belgium
-0086,Rye (Approaches),England
+86,Rye (Approaches),England
 1510D,Rozenburgsesluis Calandkanaal,Netherlands
 0086A,Rye (Harbour),England
 4333,Rozi,India West Coast
 8035,Ryotsu,Japan Honshu West Coast
 8102,Rubeshibetsu,Japan Hokkaido East Coast
 1166,Rystraumen,Norway
-0377,Rubh' A' Mhail,Scotland
+377,Rubh' A' Mhail,Scotland
 1736A,S. Jacinto,Portugal
-0396,Rubha A' Bhodaich,Scotland
-0117,S.E. Long Sand,England
+396,Rubha A' Bhodaich,Scotland
+117,S.E. Long Sand,England
 0371D,Rubha Na Creige,Scotland
-9066A,Saanichton Bay,Canada, Vancouver Island
+9066A,Saanichton Bay,"Canada, Vancouver Island"
 3647,Rugged Point,Nigeria
-9042,Saavedra Islands,Canada, Vancouver Island
+9042,Saavedra Islands,"Canada, Vancouver Island"
 6706,Rukua,Fiji Islands
 4806,Sabang,Sumatera North East Coast
 5433,Rumahlusi,Sermata Eilanden
@@ -5600,7 +5600,7 @@ ukhoId,ukhoName,ukhoLocation
 3023,Rustico,Canada
 4260C,Saffaniyah Oilfield,Saudi Arabia
 3515,Safi,Morocco
-2864,SAINT JOHN, N.B.,Canada
+2864,"SAINT JOHN, N.B.",Canada
 7787,Saganoseki,Japan Kyushu North Coast
 2275,Saint Laurent Du Maroni,French Guiana
 7786,Saganoseki Gyoko,Japan Kyushu North Coast
@@ -5643,15 +5643,15 @@ ukhoId,ukhoName,ukhoLocation
 9422,San Blas,Mexico
 4334,Salaya Harbour,India West Coast
 4958,San Carlos,Philippine Islands
-0020,Salcombe,England
-9391,San Carlos, Mexico,Mexico
+20,Salcombe,England
+9391,"San Carlos, Mexico",Mexico
 3779,Saldanha,South Africa
 7301,San Chia Chun,China
 2811,Salem,United States
 9524,San Cristobal,Ecuador
 2730B,Salem Canal Entrance,United States
 9365,SAN DIEGO,United States
-0363,Salen,Scotland
+363,Salen,Scotland
 1711,San Esteban De Pravia,Spain
 0364A,Salen (Sound Of Mull),Scotland
 2165A,San Fernando,Argentina
@@ -5668,7 +5668,7 @@ ukhoId,ukhoName,ukhoLocation
 0014A,Saltash,England
 9455,San Juan Del Sur,Nicaragua
 6685,Saluafata Harbour,Samoa Islands
-2466,San Juan, Puerto Rico,Puerto Rico
+2466,"San Juan, Puerto Rico",Puerto Rico
 2222,SALVADOR,Brazil
 9525,San Lorenzo,Ecuador
 5566,Samarai Island,Papua New Guinea
@@ -5680,7 +5680,7 @@ ukhoId,ukhoName,ukhoLocation
 6881,Samut Sakhon (Ta Chin),Thailand
 3610,San Pedro,Cote D'Ivoire
 2131,San Roman,Argentina
-0815,Sandgerdhi,Iceland
+815,Sandgerdhi,Iceland
 2539,San Salvador,Bahama Islands
 4490,Sandhead,India East Coast
 7303,San Se Tang,China
@@ -5688,18 +5688,18 @@ ukhoId,ukhoName,ukhoLocation
 1695,San Sebastian,Spain
 1208,Sandnessjoen,Norway
 3482,San Sebastian De La Gomera,Canary Islands
-0053,Sandown,England
+53,Sandown,England
 9326,San Simeon,United States
 7219,Sandu Dao,China
 1705,San Vicente De La Barquera,Spain
-0799,Sandur,Faeroe Islands
+799,Sandur,Faeroe Islands
 7442,San-Tao-Lang-T'ou,China
 3762,Sandwich Harbour,Namibia
 7829A,Sanagi,Japan Honshu South Coast
 4507,Sandwip Island,Bangladesh
 8512,Sanak Island,Aleutian Islands
 1770A,Sandy Bay,Gibraltar
-4138,Sanak Island, Saudi Arabia,Saudi Arabia
+4138,"Sanak Island, Saudi Arabia",Saudi Arabia
 2740,SANDY HOOK,United States
 5327,Sanana,The Molucca Islands
 2530,Sandy Point,Turks Islands
@@ -5719,7 +5719,7 @@ ukhoId,ukhoName,ukhoLocation
 9338,Santa Barbara,United States
 5675,Sandfly Passage,Solomon Islands
 9353,Santa Barbara Island,United States
-2471,Santa Barbara, Dominican Republic,Dominican Republic
+2471,"Santa Barbara, Dominican Republic",Dominican Republic
 5381,Sanur,Bali
 3460A,Santa Cruz (Flores),Azores
 1722A,Sanxenxo,Spain
@@ -5760,14 +5760,14 @@ ukhoId,ukhoName,ukhoLocation
 5173,Santubong,Sarawak
 7656,Sasebo,Japan Kyushu West Coast
 3611,Sassandra Anchorage,Cote D'Ivoire
-0183,Scarborough,England
+183,Scarborough,England
 7606,Sasuna,Japan
 4918,Scarborough Shoal,Central China Sea Reefs
 4357,Satpati,India West Coast
-2336,Scarborough, Tobago,Tobago
+2336,"Scarborough, Tobago",Tobago
 1273,Sauda,Norway
 5949,Scawfell Island,Australia East Coast
-0844,Saudarkrokur,Iceland
+844,Saudarkrokur,Iceland
 1437A,Scharhorn,Germany
 3083,Sault-Au-Cochon,Canada
 6388,Scheigis Rock,New Zealand North Island
@@ -5788,20 +5788,20 @@ ukhoId,ukhoName,ukhoLocation
 4153A,Sawabi,Republic of Yemen
 1442,Schulau,Germany
 4087,Sawakin,Sudan
-0742,Schull,Ireland
+742,Schull,Ireland
 2628,Sawyer Key,United States
 0318A,Scolpaig,Scotland
 2775,Saybrook Jetty,United States
 2055,Scotia Bay,Antarctica
 4067,Saylac,Somalia
 2684A,Scotland,United States
-0374,Scalasaig,Scotland
+374,Scalasaig,Scotland
 2897,Scots Bay,Canada
-0295,Scalloway,Scotland
+295,Scalloway,Scotland
 2018,Scott Base,Antarctica
 6273,Scott Reef,Australia North Coast
 8728,Security Bay,Kuiu Island
-0298,SCRABSTER,Scotland
+298,SCRABSTER,Scotland
 5179,Sedanau,Tudjuh Kepulauan
 0523B,Sea Mills,England
 8876,Sedgwick Bay,Moresby Island
@@ -5811,11 +5811,11 @@ ukhoId,ukhoName,ukhoLocation
 5355,Segoro Wedi Bay,Jawa South Coast
 8892,Seabreeze Point,Canada
 8477,Seguam Island,Aleutian Islands
-0452,Seacombe (Alfred Dock),England
+452,Seacombe (Alfred Dock),England
 2139,Segunda Barranca,Argentina
-0712,Seafield Point,Ireland
-0373,Seil Sound,Scotland
-0189,Seaham,England
+712,Seafield Point,Ireland
+373,Seil Sound,Scotland
+189,Seaham,England
 7800B,Seitetsu - Tobata Hakuchi,Japan Kyushu North Coast
 6083,Seal  Bay,Australia East Coast
 1740D,Seixal,Portugal
@@ -5823,7 +5823,7 @@ ukhoId,ukhoName,ukhoLocation
 3622,Sekondi,Ghana
 2913A,Seal Island,Canada
 4746B,Sekupang,Riau Kepulauan
-0667,Seamount Bay,Ireland
+667,Seamount Bay,Ireland
 4743,Selat Kijang Entrance (North),Riau Kepulauan
 4526,Searle Point,Burma
 5498,Selat Lenna,Papua
@@ -5832,7 +5832,7 @@ ukhoId,ukhoName,ukhoLocation
 2814,Seavey Island,United States
 8577,Seldovia,Alaska
 9123,SECHELT (PORPOISE BAY),Canada
-0069,Selsey Bill,England
+69,Selsey Bill,England
 8738,Seclusion Harbour,Kuiu Island
 1218,Selvnes,Norway
 6157,Second Valley,Australia South Coast
@@ -5855,7 +5855,7 @@ ukhoId,ukhoName,ukhoLocation
 7826,Setoda,Japan Honshu South Coast
 1899,Senj,Croatia
 2567,Settlement Point,Bahama Islands
-0548,Sennen Cove,England
+548,Sennen Cove,England
 1744,SETUBAL (TROIA),Portugal
 8070,Senzaki,Japan Honshu West Coast
 1961A,Sevastopol,Ukraine
@@ -5917,7 +5917,7 @@ ukhoId,ukhoName,ukhoLocation
 8055,Shibayama,Japan Honshu West Coast
 3005,Shediac Bay,Canada
 7151,Shibeishan Jiao,China
-0108,SHEERNESS,England
+108,SHEERNESS,England
 8266,Shibetoro,Kuril Islands
 7752,Shibushi,Japan Kyushu East Coast
 7797A,Shinmoji,Japan Kyushu North Coast
@@ -5925,7 +5925,7 @@ ukhoId,ukhoName,ukhoLocation
 2755A,Shinnecock Inlet,United States
 7330,SHIDAO GANG,China
 7918A,Shino Shima,Japan Honshu South Coast
-0338,Shieldaig,Scotland
+338,Shieldaig,Scotland
 8085,Shiokubi Misaki,Japan Hokkaido East Coast
 8869,Shields Bay,Graham Island
 2547,Ship Channel,Bahama Islands
@@ -5937,7 +5937,7 @@ ukhoId,ukhoName,ukhoLocation
 2598,Ship Shoal Light,United States
 7966,Shikine Jima,Japan Nanpo Shoto
 3038A,Shippegan,Canada
-0317,Shillay,Scotland
+317,Shillay,Scotland
 3038,Shippegan Gully,Canada
 7673,Shimabara,Japan Kyushu West Coast
 7239,Shipu Gang,China
@@ -5960,19 +5960,19 @@ ukhoId,ukhoName,ukhoLocation
 8873,Shingle Bay,Moresby Island
 0116A,Shivering Sand,England
 7989,Shizugawa,Japan Honshu East Coast
-0847,Siglufjordhur,Iceland
+847,Siglufjordhur,Iceland
 9004,Shoal Bay,Canada
 2056,Signy Island,Antarctica
-0081,SHOREHAM,England
+81,SHOREHAM,England
 6902,Sihanoukville,Cambodia
 4475,Shortt Island,India East Coast
 4333A,Sikka,India West Coast
 4156,Shuqra,Republic of Yemen
 5639,Sikopo Island,Solomon Islands
-9022,Shushartie Bay,Canada, Vancouver Island
-0432,Silloth,England
+9022,Shushartie Bay,"Canada, Vancouver Island"
+432,Silloth,England
 5939,Shute Harbour,Australia East Coast
-9082,Silva Bay,Canada, Vancouver Island
+9082,Silva Bay,"Canada, Vancouver Island"
 8559,Shuyak Strait,Alaska
 4822,Simanari,Sumatera South West Coast
 7358,Siaoching Ho Bar,China
@@ -5991,7 +5991,7 @@ ukhoId,ukhoName,ukhoLocation
 7306,Sin Yang Kau,China
 3520A,Sidi Ifni,Morocco
 4568,Sinbyubyin,Burma
-9067,Sidney,Canada, Vancouver Island
+9067,Sidney,"Canada, Vancouver Island"
 1745,SINES,Portugal
 9000,Sidney Bay,Canada
 4718,SINGAPORE (TANJONG PAGAR),Singapore
@@ -6010,9 +6010,9 @@ ukhoId,ukhoName,ukhoLocation
 4211,Sir Abu Nu'ayr,United Arab Emirates
 1250,Skjolden,Norway
 4223,Sir Bani Yas,United Arab Emirates
-0494,Skomer Island,Wales
+494,Skomer Island,Wales
 5863,Sir Charles Hardy Islands,Australia East Coast
-0798,Skopun,Faeroe Islands
+798,Skopun,Faeroe Islands
 4324,Sir Mouth,Pakistan
 1172,Skrolsvik,Norway
 5029,Sisiran Bay,Philippine Islands
@@ -6022,25 +6022,25 @@ ukhoId,ukhoName,ukhoLocation
 4251,Sitrah (Bapco Causeway),Bahrain
 0136B,Slaughden Quay,England
 4520,Sittwe,Burma
-0689,Sligo Harbour (Oyster Island),Ireland
+689,Sligo Harbour (Oyster Island),Ireland
 9245,Siuslaw River Entrance,United States
 6412A,Slipper Island,New Zealand North Island
-0843,Skagastrond,Iceland
+843,Skagastrond,Iceland
 1392,Slipshavn,Denmark
 1411,Skagen,Denmark
 8658,Slocum Arm (Falcon Arm),Chicagof Island
 8643,Skagway,Alaska
-0704,Slyne Head,Ireland
-0900,Skansbukta,Svalbard
+704,Slyne Head,Ireland
+900,Skansbukta,Svalbard
 1138,Smalfjorden,Norway
 1152,Skarvfjorden,Norway
 8813,Smeaton Bay,Prince of Wales Island
-0167,Skegness,England
-0722,Smerwick Harbour,Ireland
+167,Skegness,England
+722,Smerwick Harbour,Ireland
 8871,Skidegate Channel,Graham Island
 8596,Smith Island,Alaska
 3221,Smokey,Labrador
-9062,Sooke,Canada, Vancouver Island
+9062,Sooke,"Canada, Vancouver Island"
 6334,Snake Bay,Australia North Coast
 3195,Sops Island,Newfoundland
 8564,Snug Harbour,Alaska
@@ -6048,27 +6048,27 @@ ukhoId,ukhoName,ukhoLocation
 7542,Soando,Korea West Coast
 1263,Sorfjord (Odda),Norway
 1693,Socoa,France
-0891,Sorgfjorden,Svalbard
+891,Sorgfjorden,Svalbard
 9438,Soconusco Bar,Mexico
 5470,SORIDO,Papua
 7457,Sok To,Korea West Coast
 5633,Soroken,Bismarck Archipelago
 7581,Sokcho,Korea East Coast
 4976,Sorsogon,Philippine Islands
-0625,Soldiers Point,Ireland
+625,Soldiers Point,Ireland
 1180,Sortland,Norway
 2706,Solomons Island,United States
 1153,Sorvaer,Norway
 1065,Solovetskiy,Russia
 1185,Sorvagen,Norway
 1173,Soloy,Norway
-0795,Sorvagur,Faeroe Islands
+795,Sorvagur,Faeroe Islands
 0492A,Solva,Wales
 3515A,Soueira Kedima,Morocco
 7982,Soma,Japan Honshu East Coast
-0389,Sound Of Gigha,Scotland
+389,Sound Of Gigha,Scotland
 2636,Sombrero Key,United States
-0362,Sound Of Ulva,Scotland
+362,Sound Of Ulva,Scotland
 6926,Song Cua Tieu,Vietnam
 1988B,Sour (Tyr),Lebanon
 6935,Song Vam Co Entrance,Vietnam
@@ -6080,14 +6080,14 @@ ukhoId,ukhoName,ukhoLocation
 2946,Sonora,Canada
 9241A,South Beach,United States
 9223A,South Bend,United States
-0140,Southwold,England
+140,Southwold,England
 2622,South Boca Grande,United States
 0084A,Sovereign Harbour,England
 5564,South Cape,Papua New Guinea
 8173,SOVETSKAYA,Siberia
 9295,South East Farallon Island,United States
 8125,Soya Misaki,Japan Hokkaido North-East Coast
-6769,South East Pass, Jaluit Atoll,Marshall Islands
+6769,"South East Pass, Jaluit Atoll",Marshall Islands
 3720,SOYO,Angola
 2758,South Jamesport,United States
 2076,Speedwell Island,Falkland Islands
@@ -6097,30 +6097,30 @@ ukhoId,ukhoName,ukhoLocation
 1512,Spijkenisse,Netherlands
 2557,South Riding Rock,Bahama Islands
 1906,SPLIT,Croatia
-0635,South Rock,Northern Ireland
+635,South Rock,Northern Ireland
 6117,Spring Bay,Tasmania
 5089,South Ubian Island,Sulu Archipelago
-0171,SPURN HEAD,England
+171,SPURN HEAD,England
 6020,South West Rocks,Australia East Coast
 2744,Spuyten Duyvil Creek Entrance,United States
-0062,SOUTHAMPTON,England
+62,SOUTHAMPTON,England
 9129,Squamish,Canada
-0391,Southend (Kintyre),Scotland
+391,Southend (Kintyre),Scotland
 5164A,Sri Aman,Sarawak
-0110,Southend-On-Sea,England
+110,Southend-On-Sea,England
 2972,St Anns Harbour,Canada
 2058,Southern Thule,Antarctica
 3146,St. Alban's,Newfoundland
-0425,Southerness Point,Scotland
+425,Southerness Point,Scotland
 2858,St. Andrews,Canada
-0447,Southport,England
+447,Southport,England
 2490,St. Ann's Bay,Jamaica
 2670,Southport (Cape Fear River),United States
 3200,St. Anthony,Newfoundland
 2601,Southwest Pass,United States
 1658A,St. Armel (Le Passage),France
 6333,St. Asaph Bay,Australia North Coast
-0547,St. Ives,England
+547,St. Ives,England
 3913,St. Augustine Bay,Madagascar
 3082,St. Jean Port Joli,Canada
 2645A,St. Augustine Beach,United States
@@ -6130,7 +6130,7 @@ ukhoId,ukhoName,ukhoLocation
 2458,St. Barthelemy,Leeward Islands
 2647,St. Johns River Entrance,United States
 5948,St. Bees Island,Australia East Coast
-2456,St. Johns, Antigua,Leeward Islands
+2456,"St. Johns, Antigua",Leeward Islands
 3161,St. Bride's,Newfoundland
 3080,St. Joseph De La Rive,Canada
 1614B,St. Cast,France
@@ -6143,16 +6143,16 @@ ukhoId,ukhoName,ukhoLocation
 1614,ST. MALO,France
 2439,St. George's Harbour,Windward Islands
 2615,St. Marks Light,United States
-3137,St. George's Harbour, Newfoundland,Newfoundland
+3137,"St. George's Harbour, Newfoundland",Newfoundland
 1674,St. Martin,France
 1611B,St. Germain Sur Ay,France
 4517,St. Martin's Island,Bangladesh
 0014F,St. Germans,England
 2866,St. Martins,Canada
 1672,St. Gilles-Croix-De-Vie,France
-0001,ST. MARY'S,England
+1,ST. MARY'S,England
 3778,St. Helena Bay,South Africa
-0281,ST. MARY'S (SCAPA FLOW),Scotland
+281,ST. MARY'S (SCAPA FLOW),Scotland
 3771,St. Helena Island,Mid South Atlantic Islands
 2653,St. Mary's Entrance,United States
 6112A,St. Helens,Tasmania
@@ -6170,7 +6170,7 @@ ukhoId,ukhoName,ukhoLocation
 1604,ST. PETER PORT,Channel Islands
 6090,Stanley (Circular Head),Tasmania
 2621,ST. PETERSBURG,United States
-0043,Stansore Point,England
+43,Stansore Point,England
 3952,St. Pierre,La Reunion
 5704,Star Harbour,Solomon Islands
 3973,St. Pierre Island,Seychelles
@@ -6180,7 +6180,7 @@ ukhoId,ukhoName,ukhoLocation
 2656,St. Simons Sound Bar,United States
 8229,Starobdubskoye,Sakhalin East Coast
 0525A,St. Thomas's Head,England
-0021,Start Point,England
+21,Start Point,England
 0482B,St. Tudwal's Roads,Wales
 1236,Stattvagen,Norway
 1598,St. Vaast-La-Hougue,France
@@ -6191,7 +6191,7 @@ ukhoId,ukhoName,ukhoLocation
 3062,Ste. Anne Des Monts,Canada
 6087,Stack Island,Tasmania
 3920,Ste. Luce,Madagascar
-0501,Stackpole Quay,Wales
+501,Stackpole Quay,Wales
 8791,Steamboat Bay,Prince of Wales Island
 1441,Stadersand,Germany
 6252A,Steamboat Island,Australia North Coast
@@ -6200,9 +6200,9 @@ ukhoId,ukhoName,ukhoLocation
 2771,Stamford,United States
 9178,Steilacoom,United States
 1221,Steinkjer,Norway
-9053A,Stopper Islands,Canada, Vancouver Island
+9053A,Stopper Islands,"Canada, Vancouver Island"
 6173,Stenhouse Bay,Australia South Coast
-0308,STORNOWAY,Scotland
+308,STORNOWAY,Scotland
 1942,Steno Knimidas,Greece
 1202,Stott,Norway
 6464,Stephens Island,New Zealand South Island
@@ -6210,7 +6210,7 @@ ukhoId,ukhoName,ukhoLocation
 5793A,Stephens Islet,Australia
 1233A,Stranda,Norway
 6344C,Stevens Island,Australia North Coast
-0633,Strangford,Northern Ireland
+633,Strangford,Northern Ireland
 2545A,Steventon,Bahama Islands
 0414A,STRANRAER,Scotland
 8839,Stewart,Canada
@@ -6218,14 +6218,14 @@ ukhoId,ukhoName,ukhoLocation
 4606,Stewart Sound,Andaman Islands
 9152,Strawberry Bay,United States
 0229B,Stirling,Scotland
-0297,Stroma,Scotland
+297,Stroma,Scotland
 9304,Stockton,United States
-0280,Stromness,Scotland
+280,Stromness,Scotland
 0866A,Stodvarfjordhur,Iceland
 3256,Stupart Bay,Labrador
 0023B,Stoke Gabriel (Duncannon),England
-0827,Stykkisholmur,Iceland
-0812,Stokkseyri,Iceland
+827,Stykkisholmur,Iceland
+812,Stokkseyri,Iceland
 5695,Su'ulofou Harbour,Solomon Islands
 1217,Stokksundet,Norway
 7196,Su-Ao Kang,T'ai-Wan
@@ -6233,19 +6233,19 @@ ukhoId,ukhoName,ukhoLocation
 5416,Suai,East Timor
 1265,Stolmen,Norway
 4994,Sual,Philippine Islands
-0243,Stonehaven,Scotland
+243,Stonehaven,Scotland
 5808,Suarji Island,Australia
-3039A,Stonehaven, Canada,Canada
+3039A,"Stonehaven, Canada",Canada
 3604,Subbubo Point,Liberia
 2021,Stonington,Antarctica
 5872,Suchen Reef,Australia East Coast
-0517,Sudbrook,Wales
+517,Sudbrook,Wales
 7731,Sumiyo Wan,Japan Nansei Shoto
 5910,Sudbury Cay,Australia East Coast
 3010,Summerside,Canada
 1428,Suderoogsand,Germany
 7857,Sumoto,Japan Honshu South Coast
-0834,Sudhureyri,Iceland
+834,Sudhureyri,Iceland
 7484,Sun Tol Mok,Korea West Coast
 7941A,Suehiro,Japan Honshu South Coast
 8271,Suna Wan,Kuril Islands
@@ -6258,12 +6258,12 @@ ukhoId,ukhoName,ukhoLocation
 5200,Sukadana,Kalimantan
 6275A,Sunday Island,Australia North Coast
 7719,Suku,Japan Nansei Shoto
-0190,SUNDERLAND,England
+190,SUNDERLAND,England
 7770,Sukumowan,Japan Shikoku West and South Coasts
 5207,Sungai Arutobal,Kalimantan
-0299,Sule Skerry,Scotland
+299,Sule Skerry,Scotland
 5214,SUNGAI BARITO (OUTER BAR),Kalimantan
-0293,SULLOM VOE,Scotland
+293,SULLOM VOE,Scotland
 4734,Sungai Belungkor,Peninsular Malaysia South Coast
 4714,Sultan Shoal Lighthouse,Singapore
 4907,Sungai Besut,Peninsular Malaysia East Coast
@@ -6313,10 +6313,10 @@ ukhoId,ukhoName,ukhoLocation
 4353,Suvali,India West Coast
 0171B,Sunk Dredged Channel,England
 6605,Suwarrow Island,Cook Islands North
-0130,Sunk Head,England
-0903,Sveagruva,Svalbard
+130,Sunk Head,England
+903,Sveagruva,Svalbard
 1228,Sunndalsora,Norway
-0830,Sveinseyri,Iceland
+830,Sveinseyri,Iceland
 7474,Sunwi Do,Korea West Coast
 1182,Svolvaer,Norway
 6690,Swains Island,Samoa Islands
@@ -6325,13 +6325,13 @@ ukhoId,ukhoName,ukhoLocation
 8732,Table Bay,Kuiu Island
 2074C,Swan Island,Falkland Islands
 3573,Taboria,Guinea
-6111,Swan Island, Tasmania,Tasmania
-0165,Tabs Head,England
-0035,Swanage,England
+6111,"Swan Island, Tasmania",Tasmania
+165,Tabs Head,England
+35,Swanage,England
 3608,Tabu River,Cote D'Ivoire
-0509,SWANSEA,Wales
+509,SWANSEA,Wales
 7828,Tachibana,Japan Honshu South Coast
-6031A,Swansea, Australia,Australia East Coast
+6031A,"Swansea, Australia",Australia East Coast
 7895,Tachibana (Shikoku),Japan Shikoku North Coast
 8636,Swanson Harbour,Alaska
 3156,Tacks Beach,Newfoundland
@@ -6405,7 +6405,7 @@ ukhoId,ukhoName,ukhoLocation
 5211,Tanjung Damaran,Kalimantan
 5091,Tandungan Channel,Sulu Archipelago
 5189,Tanjung Datu,Kalimantan
-0333,Tanera Mor,Scotland
+333,Tanera Mor,Scotland
 4660,Tanjung Dawai,Peninsular Malaysia West Coast
 4014,Tanga Bay,Tanzania
 5234,Tanjung Dewa,Kalimantan
@@ -6490,22 +6490,22 @@ ukhoId,ukhoName,ukhoLocation
 1998,Tarabulus (Tripoli),Libya
 4770,Tebing Tingi,Sumatera North East Coast
 6452,Tarakohe,New Zealand South Island
-0187,Tees (Newport) Bridge,England
+187,Tees (Newport) Bridge,England
 1885,TARANTO,Italy
 5334,Tegal,Jawa North Coast
 4356A,Tarapur,India West Coast
-0026,Teignmouth (Approaches),England
+26,Teignmouth (Approaches),England
 6758,Tarawa (Bairiki),Kiribati
 0026A,Teignmouth (New Quay),England
 6759,Tarawa (Betio),Kiribati
 4388,Tellicherry,India West Coast
-0715,TARBERT ISLAND,Ireland
+715,TARBERT ISLAND,Ireland
 5442,Teluk Bara,The Molucca Islands
 1768,Tarifa,Spain
 4829,Teluk Bayur (Emma Haven),Sumatera South West Coast
 5830,Tarilag Island,Australia
 5437,Teluk Bula,The Molucca Islands
-0436,Tarn Point,England
+436,Tarn Point,England
 4856,Teluk Bulu,Pulau Bangka
 2619D,Tarpon Springs,United States
 4824,Teluk Dalam,Sumatera South West Coast
@@ -6558,7 +6558,7 @@ ukhoId,ukhoName,ukhoLocation
 4872,Teluk Pering,Belitung
 2825,Tenants Harbour,United States
 5209,TELUK SAMPIT,Kalimantan
-0502,Tenby,Wales
+502,Tenby,Wales
 3547,Tendaba,The Gambia
 2610,The Narrows,United States
 1165,Tennes,Norway
@@ -6572,7 +6572,7 @@ ukhoId,ukhoName,ukhoLocation
 2249C,TERMINAL DA ALUMAR,Brazil
 6247A,Thevenard Island,Australia North Coast
 2208,Terminal Da Ponta Do Ubu,Brazil
-0832,Thingeyri,Iceland
+832,Thingeyri,Iceland
 5449,Ternate,Halmahera
 5750A,Thio,New Caledonia
 1536,TERNEUZEN,Netherlands
@@ -6582,7 +6582,7 @@ ukhoId,ukhoName,ukhoLocation
 3220,Terrington Basin,Labrador
 0813A,Thorlakshofn,Iceland
 1080,Tetrino,Russia
-0853,Thorshofn,Iceland
+853,Thorshofn,Iceland
 5569,Tewatewa (Hummock) Island,Louisiade Archipelago
 1414,Thorsminde,Denmark
 4361,Thana,India West Coast
@@ -6604,7 +6604,7 @@ ukhoId,ukhoName,ukhoLocation
 1413,Thyboron,Denmark
 1638B,Tinduff,France
 7368,Tianjin (Tientsin),China
-0279,Tingwall,Scotland
+279,Tingwall,Scotland
 7366,TIANJIN GANG,China
 4545,Tinmahlwe,Burma
 7289A,Tianshenggang,China
@@ -6629,9 +6629,9 @@ ukhoId,ukhoName,ukhoLocation
 5352,Tjilauteurem,Jawa South Coast
 3682,Tiko,Cameroon
 8782,Tlevak Narrows,Prince of Wales Island
-0966,Tiksi Bay,Russia
+966,Tiksi Bay,Russia
 6819,Toagel Mlungui,Palau Islands
-0111,TILBURY,England
+111,TILBURY,England
 3932,Toamasina,Madagascar
 3191,Tilt Cove,Newfoundland
 7912,Toba,Japan Honshu South Coast
@@ -6641,7 +6641,7 @@ ukhoId,ukhoName,ukhoLocation
 7800D,Tobata,Japan Kyushu North Coast
 5314,Tobelombangi,Sulawesi East Coast
 8005,Tomari,Japan Honshu East Coast
-0364,Tobermory,Scotland
+364,Tobermory,Scotland
 8259,Tomari Wan,Kuril Islands
 8219,Tobuchi Ko,Sakhalin East Coast
 3752,Tombua (Porto Alexandre),Angola
@@ -6649,7 +6649,7 @@ ukhoId,ukhoName,ukhoLocation
 7632,Tomie,Japan
 9604,Tocopilla,Chile
 7681,Tomioka,Japan Kyushu West Coast
-9050,TOFINO,Canada, Vancouver Island
+9050,TOFINO,"Canada, Vancouver Island"
 1192,Tommernes,Norway
 0289A,Toft Pier,Scotland
 7828B,Tomo,Japan Honshu South Coast
@@ -6668,24 +6668,24 @@ ukhoId,ukhoName,ukhoLocation
 7942,Tokyo (Shibaura),Japan Honshu South Coast
 0027C,Topsham,England
 6424,Tolaga Bay,New Zealand North Island
-0430,Torduff Point,Scotland
+430,Torduff Point,Scotland
 2718,Tolchester Beach,United States
 7957,Tori Shima,Japan Nanpo Shoto
 3912,Toliara,Madagascar
 5632,Torokina,Bismarck Archipelago
 8935,Tom Bay,Canada
-0025,TORQUAY,England
+25,TORQUAY,England
 8095,Tomakomai,Japan Hokkaido East Coast
-0792,TORSHAVN,Faeroe Islands
+792,TORSHAVN,Faeroe Islands
 8132,Tomamae,Japan Hokkaido West Coast
 1161,Torsvag,Norway
 2461,Tortola,Leeward Islands
-0479,Trearddur Bay,Wales
+479,Trearddur Bay,Wales
 2630,Tortugas Harbour,United States
 1628,Trebeurden,France
 7773,Tosa-Shimizu,Japan Shikoku West and South Coasts
 0480A,Trefor,Wales
-0046,Totland Bay,England
+46,Totland Bay,England
 1284,Tregde,Norway
 0023C,Totnes,England
 1625,Treguier,France
@@ -6715,13 +6715,13 @@ ukhoId,ukhoName,ukhoLocation
 3096B,Trois-Rivieres,Canada
 1378A,Travemunde,Germany
 4360,Trombay,India West Coast
-0663,Trawbreaga Bay,Ireland
+663,Trawbreaga Bay,Ireland
 1163,TROMSO,Norway
 8961,Treadwell Bay,Canada
 1219,TRONDHEIM,Norway
-0800,Trongisvagur,Faeroe Islands
+800,Trongisvagur,Faeroe Islands
 7762,Tsukumi,Japan Kyushu East Coast
-0412,Troon,Scotland
+412,Troon,Scotland
 7608,Tsuna Ura,Japan
 1857,Tropea,Italy
 8270,Tsurigane Wan,Kuril Islands
@@ -6733,7 +6733,7 @@ ukhoId,ukhoName,ukhoLocation
 5431,Tual,Sermata Eilanden
 2888,Truro (Minas Basin),Canada
 7383,Tuanshan Chiao (Sand Point),China
-0476,Trwyn Dinmor,Wales
+476,Trwyn Dinmor,Wales
 4718A,Tuas,Singapore
 5972,Tryon Island,Australia East Coast
 6730,Tubou,Fiji Islands
@@ -6752,7 +6752,7 @@ ukhoId,ukhoName,ukhoLocation
 7102,Tsing Yi,China
 5673,Tulaghi Harbour,Solomon Islands
 7914,Tsu,Japan Honshu South Coast
-9073,Tumbo Channel,Canada, Vancouver Island
+9073,Tumbo Channel,"Canada, Vancouver Island"
 7102A,Tsuen Wan,China
 5095,Tumindao Island,Sulu Archipelago
 7717,Tsuhako,Japan Nansei Shoto
@@ -6769,7 +6769,7 @@ ukhoId,ukhoName,ukhoLocation
 6346,Two Island Bay,Australia North Coast
 9158,Turn Point,United States
 6224,Two Rocks Marina,Australia South Coast
-0015,Turnchapel,England
+15,Turnchapel,England
 1260,Tysse,Norway
 5818,Turtle Head,Australia
 7806A,Ube,Japan Honshu South Coast
@@ -6782,7 +6782,7 @@ ukhoId,ukhoName,ukhoLocation
 4423,Tuticorin,India South Coast
 8051A,Uchiura Wan,Japan Honshu West Coast
 2247,Tutoia,Brazil
-9053,Ucluelet,Canada, Vancouver Island
+9053,Ucluelet,"Canada, Vancouver Island"
 6393,Tutukaka Harbour,New Zealand North Island
 7538,Udo Sudo,Korea West Coast
 1199,Tuv,Norway
@@ -6807,7 +6807,7 @@ ukhoId,ukhoName,ukhoLocation
 9249,Umpqua River Entrance,United States
 6046,Ulladulla Harbour,Australia East Coast
 5547,Umuda Island,Papua New Guinea
-0334,ULLAPOOL,Scotland
+334,ULLAPOOL,Scotland
 8493,UNALASKA,Aleutian Islands
 7577,Ulleungdo,Korea East Coast
 8496,Unalga Island,Aleutian Islands
@@ -6817,7 +6817,7 @@ ukhoId,ukhoName,ukhoLocation
 5989,Ungowa,Australia East Coast
 4923,Ulugan Bay,Philippine Islands
 9196,Union,United States
-0440,Ulverston,England
+440,Ulverston,England
 8805,Union Bay,Prince of Wales Island
 6419,Umaio Bay (Motunui Island),New Zealand North Island
 9214,Union Seamount,United States
@@ -6860,7 +6860,7 @@ ukhoId,ukhoName,ukhoLocation
 8579,Ushagat Island,Alaska
 1133,Vadso,Norway
 7684,Ushibuka,Japan Kyushu West Coast
-0801,Vagur,Faeroe Islands
+801,Vagur,Faeroe Islands
 7835,Ushimado,Japan Honshu South Coast
 8605,Valdez,Alaska
 8203,Ushiro Wan,Sakhalin West Coast
@@ -6880,26 +6880,26 @@ ukhoId,ukhoName,ukhoLocation
 1272,Utsira,Norway
 9232,Vancouver (Colombia River),United States
 5715,Vanikolo Island,Santa Cruz Islands
-0051,Ventnor,England
+51,Ventnor,England
 5610,Vanimo,Papua New Guinea
 2580,VERA CRUZ,Mexico (Gulf)
 1658,Vannes,France
 4340,Veraval,India West Coast
 6729,Vanua Balavu Island,Fiji Islands
-0858,Vestdalseyri,Iceland
+858,Vestdalseyri,Iceland
 1134,Vardo,Norway
-0793,Vestmanna,Faeroe Islands
+793,Vestmanna,Faeroe Islands
 3556,Varela,Guinea-Bissau
 1730,Viana Do Castelo,Portugal
 5823A,Varzin Shoal,Australia
 6149,Victor Harbour,Australia South Coast
 4358,Vasai (Bassein),India West Coast
-9065,VICTORIA,Canada, Vancouver Island
+9065,VICTORIA,"Canada, Vancouver Island"
 6708B,Vatia Wharf,Fiji Islands
 3571B,Victoria (Rio Nunez),Guinea
 1259,Vatlestraumen,Norway
 1887,Vieste,Italy
-0829,Vatneyri,Iceland
+829,Vatneyri,Iceland
 2446A,Vieux Fort Bay,Windward Islands
 3930,Vatomandry,Madagascar
 3957,Vieux Grand Port,Mauritius Group
@@ -6908,10 +6908,10 @@ ukhoId,ukhoName,ukhoLocation
 1586,Vatteville,France
 4372,Vijayadurg Harbour,India West Coast
 9183,Vaughn,United States
-0875,Vik,Iceland
+875,Vik,Iceland
 1455,Vegesack,Germany
 1301,Viker,Norway
-0838,Veidileysufjordhur,Iceland
+838,Veidileysufjordhur,Iceland
 1247,Vikisogn,Norway
 6726,Veitalacagi Point,Fiji Islands
 2253A,Vila Do Conde,Brazil
@@ -6957,7 +6957,7 @@ ukhoId,ukhoName,ukhoLocation
 6715,Waikama,Fiji Islands
 1943,Volos,Greece
 6372,Waikato River Entrance,New Zealand North Island
-0855,Vopnafjordhur,Iceland
+855,Vopnafjordhur,Iceland
 6429,Waikokopu,New Zealand North Island
 7086,Wailingding Dao,China
 8080,Wakimoto,Japan Hokkaido East Coast
@@ -6974,7 +6974,7 @@ ukhoId,ukhoName,ukhoLocation
 6423,Waipiro Bay,New Zealand North Island
 6178,WALLAROO,Australia South Coast
 6430,Wairoa River Entrance,New Zealand North Island
-0129,WALTON-ON-THE-NAZE,England
+129,WALTON-ON-THE-NAZE,England
 5689,Waisisi Harbour,Solomon Islands
 3761,WALVIS BAY,Namibia
 7801B,Waita,Japan Kyushu North Coast
@@ -6986,7 +6986,7 @@ ukhoId,ukhoName,ukhoLocation
 7333,Waizhe Dao,China
 1459,Wangerooge West,Germany
 8046,Wajima,Japan Honshu West Coast
-1458A,Wangerooge, Langes Riff,Germany
+1458A,"Wangerooge, Langes Riff",Germany
 7800C,Wakamatsu,Japan Kyushu North Coast
 7273B,Wangpan Shan,China
 7628,Wakamatsu (Goto Retto),Japan
@@ -7001,9 +7001,9 @@ ukhoId,ukhoName,ukhoLocation
 1377,Warnemunde,Germany
 5511,Waronge River,Papua
 7338,Weihai Gang,China
-0654,Warren Lighthouse,Ireland
+654,Warren Lighthouse,Ireland
 7356,Weihe Kou,China
-0628,WARRENPOINT,Northern Ireland
+628,WARRENPOINT,Northern Ireland
 6362,WEIPA,Australia North Coast
 3648,WARRI,Nigeria
 6399,Weiti River Entrance,New Zealand North Island
@@ -7019,12 +7019,12 @@ ukhoId,ukhoName,ukhoLocation
 0522B,Wellhouse Rock,England
 2777,Watch Hill Point,United States
 6439,WELLINGTON,New Zealand North Island
-0531,Watchet,England
+531,Watchet,England
 0157A,Wells,England
-0762,Waterford,Ireland
+762,Waterford,Ireland
 2814B,Wells (Maine),United States
 2696,Watts Island,United States
-0157,Wells Bar,England
+157,Wells Bar,England
 9229B,Wauna,United States
 2853,Welshpool,Canada
 2604A,Waveland,United States
@@ -7040,20 +7040,20 @@ ukhoId,ukhoName,ukhoLocation
 2596,Weeks Bay,United States
 2883,West Advocate,Canada
 6327,West Alligator Head,Australia North Coast
-0768,Wexford Harbour,Ireland
+768,Wexford Harbour,Ireland
 0294A,West Burra Firth,Scotland
 2907,Weymouth,Canada
 4718C,West Coast,Singapore
 6374A,Weymouth (Lpg Terminal),New Zealand North Island
-0727,West Cove,Ireland
+727,West Cove,Ireland
 6379A,Whakapirau,New Zealand North Island
 2863,West Dipper Harbour,Canada
-9075A,Whaler Bay,Canada, Vancouver Island
+9075A,Whaler Bay,"Canada, Vancouver Island"
 6352,West Island,Australia North Coast
 9105,Whaletown Bay,Canada
-0320,West Loch Tarbert,Scotland
+320,West Loch Tarbert,Scotland
 6391B,Whangamumu Harbour,New Zealand North Island
-0124,West Mersea,England
+124,West Mersea,England
 6528,Whanganui Inlet,New Zealand South Island
 2689,West Point (York River),United States
 6390,Whangaroa,New Zealand North Island
@@ -7062,30 +7062,30 @@ ukhoId,ukhoName,ukhoLocation
 1483,West Terschelling,Netherlands
 2044A,Whiskey Bay,Antarctica
 4710A,West Tuas,Singapore
-0121,Whitaker Beacon,England
+121,Whitaker Beacon,England
 6071,Western Port (Stony Point),Australia East Coast
-0184,Whitby,England
+184,Whitby,England
 1533A,Westkapelle,Netherlands
-0521,White House,England
+521,White House,England
 5138,Weston,Sabah
 6293A,White Island,Australia North Coast
-0527,Weston-Super-Mare,England
+527,Weston-Super-Mare,England
 9142A,White Rock,Canada
 2082,Westpoint Island,Falkland Islands
 5821,White Rocks,Australia
 6526,WESTPORT,New Zealand South Island
 0273B,Whitehall,Scotland
 2905,Westport (St. Mary Bay),Canada
-0435,Whitehaven,England
+435,Whitehaven,England
 5607,Wewak,Papua New Guinea
 0247A,Whitehills,Scotland
 8703,Whitestone Narrows,Baranof Island
 8639,William Henry Bay,Alaska
 6411,Whitianga,New Zealand North Island
 3242,Williams Harbour,Labrador
-0012,Whitsand Bay,England
+12,Whitsand Bay,England
 2747A,Williamsburg Bridge,United States
-0105,Whitstable Approaches,England
+105,Whitstable Approaches,England
 5785,Willis Islands,Australia
 8599,Whittier,Alaska
 2672,Wilmington,United States
@@ -7093,15 +7093,15 @@ ukhoId,ukhoName,ukhoLocation
 9355,Wilson Cove,United States
 8860,Wiah Point,Graham Island
 8722,Windfall Harbour,Admiralty Island
-0267,WICK,Scotland
+267,WICK,Scotland
 8655,Windham Bay,Alaska
-0613,Wicklow,Ireland
+613,Wicklow,Ireland
 2691A,Windmill Point,United States
 2546,Wide Opening,Bahama Islands
 2894,Windsor,Canada
-0282,Widewall Bay,Scotland
+282,Widewall Bay,Scotland
 8608,Windy Bay,Alaska
-0456,Widnes,England
+456,Widnes,England
 6214,Windy Harbour,Australia South Coast
 7508,Wido,Korea West Coast
 2599,Wine Island,United States
@@ -7112,9 +7112,9 @@ ukhoId,ukhoName,ukhoLocation
 3197,Wild Cove,Newfoundland
 3344,Winter Harbour (Melville Sound),Canadian Arctic
 1463,WILHELMSHAVEN,Germany
-9026,Winter Harbour, Canada,Canada, Vancouver Island
+9026,"Winter Harbour, Canada","Canada, Vancouver Island"
 2012A,Wilkes Station,Antarctica
-0144,Winterton-On-Sea,England
+144,Winterton-On-Sea,England
 2370,Willemstad,Curacao
 2666,Winyah Bay Entrance,United States
 2769,Willets Point,United States
@@ -7128,7 +7128,7 @@ ukhoId,ukhoName,ukhoLocation
 6233,Withnell Point,Australia South Coast
 6309,Wyndham,Australia North Coast
 6811,Woleai Island,Caroline Islands
-0443,Wyre Lighthouse,England
+443,Wyre Lighthouse,England
 2690,Wolf Trap Light,United States
 7058C,Xi'ao Jiao,China
 7469,Wollae Do (Getsnai Tau),Korea West Coast
@@ -7139,7 +7139,7 @@ ukhoId,ukhoName,ukhoLocation
 7163,Xiamen Gang,China
 2450,Woodbridge Bay,Leeward Islands
 7078,Xianwu Jiao,China
-0134,Woodbridge Haven,England
+134,Woodbridge Haven,England
 7417,Xiaobing Dao,China
 5587,Woodlark Island,Louisiade Archipelago
 7428,Xiaochangshan Dao,China
@@ -7149,9 +7149,9 @@ ukhoId,ukhoName,ukhoLocation
 7266,Xiaoqu Shan,China
 3157,Woody Island,Newfoundland
 7265,Xiasanxing Dao,China
-0434,Workington,England
+434,Workington,England
 7248,Xiazhi Dao,China
-0075,Worthing,England
+75,Worthing,England
 7058A,Xigezai,China
 6775,Wotje Atoll,Marshall Islands
 7261,Xihou Men,China
@@ -7174,7 +7174,7 @@ ukhoId,ukhoName,ukhoLocation
 7801,Yahata,Japan Kyushu North Coast
 9242,Yaquina,United States
 7927,Yaizu,Japan Honshu South Coast
-0045,Yarmouth,England
+45,Yarmouth,England
 8622,Yakutat Bay,Alaska
 2910,Yarmouth (Bay Of Fundy),Canada
 5804,Yam Island,Australia
@@ -7194,7 +7194,7 @@ ukhoId,ukhoName,ukhoLocation
 7679,Yanagi-No-Seto,Japan Kyushu West Coast
 3578,Yelibuya Sound,Guinea
 4131,Yanbu Al Bahr,Saudi Arabia
-0537,Yelland Marsh,England
+537,Yelland Marsh,England
 5657,Yandina,Solomon Islands
 5478,Yende,Papua
 4548,Yangon (Rangoon),Burma
@@ -7237,7 +7237,7 @@ ukhoId,ukhoName,ukhoLocation
 1902,Zadar,Croatia
 7981,Yotsukura,Japan Honshu East Coast
 8304,Zaliv Ayan,Siberia
-0755,Youghal,Ireland
+755,Youghal,Ireland
 8248,Zaliv Chayvo,Sakhalin East Coast
 8292,Zaliv Kozyrevskogo,Kuril Islands
 7164,Zhangzhou,China
