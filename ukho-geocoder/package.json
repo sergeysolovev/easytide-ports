@@ -1,0 +1,18 @@
+{
+  "name": "ukho-geocoder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "geojs": "./index.js"
+  },
+  "dependencies": {
+    "csv": "^1.1.1",
+    "node-geocoder": "^3.16.0"
+  }
+}
